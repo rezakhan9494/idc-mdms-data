@@ -1,0 +1,10 @@
+{
+ "tenantId": "ga",
+ "moduleName": "Chatbot",
+ "CityNames": [
+   {
+     "locale" :"en",
+     "cities" : ["Goa"]
+   }
+ ]
+}

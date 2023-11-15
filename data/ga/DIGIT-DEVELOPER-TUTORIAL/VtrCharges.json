@@ -1,0 +1,9 @@
+{
+  "tenantId": "ga",
+  "moduleName": "VTR",
+  "RegistrationCharges": [
+    {
+      "amount": 500
+    }
+  ]
+}

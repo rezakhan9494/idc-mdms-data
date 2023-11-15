@@ -1,0 +1,10 @@
+{
+    "tenantId": "ga.goa",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "ga.goa",
+        "reminderInterval": 12345
+      }
+    ]
+  }

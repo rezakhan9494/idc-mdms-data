@@ -1,0 +1,10 @@
+{
+	"tenantId": "ga",
+	"moduleName": "common-masters",
+	"bdTemplate": [
+	  {
+		"template": "ga-goa",
+		"code": "ga.goa"
+	  }
+	]
+  }
