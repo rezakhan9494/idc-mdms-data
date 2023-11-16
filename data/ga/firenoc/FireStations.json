@@ -1,0 +1,16 @@
+{
+  "tenantId": "ga",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_GOA_01",
+      "baseTenantId": "ga.goa",
+      "active": true,
+      "subDistrict": [
+        "Amritsar",
+        "Baba bakala",
+        "Ajnala"
+      ]
+    }
+  ]
+}

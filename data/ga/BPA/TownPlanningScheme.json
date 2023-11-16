@@ -1,0 +1,11 @@
+{
+  "tenantId": "ga",
+  "moduleName": "BPA",
+  "TownPlanningScheme": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}

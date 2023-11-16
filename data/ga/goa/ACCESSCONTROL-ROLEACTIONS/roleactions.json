@@ -1,0 +1,12 @@
+{
+  "tenantId": "ga.goa",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 628,
+      "actioncode": "",
+      "tenantId": "ga.goa"
+    }
+  ]
+}

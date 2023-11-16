@@ -1,0 +1,14 @@
+{
+  "tenantId": "ga",
+  "moduleName": "tenant",
+  "nationalInfo": [
+    {
+      "stateCode": "Goa",
+      "stateName": "Goa",
+      "code": "ga.goa",
+      "name": "Goa",
+      "active": true,
+      "module": "NationalDashboard"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"tenantId": "ga",
+	"moduleName": "BillingService",
+	"GLCode": [
+	{
+		"code": "BIRTH_CERT",
+		"glcode": null,
+		"cb": "ga.goa"
+	},
+	{
+		"code": "DEATH_CERT",
+		"glcode": null,
+		"cb": "ga.goa"
+	}
+	]
+}
