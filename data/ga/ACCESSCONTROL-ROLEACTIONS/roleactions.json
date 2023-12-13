@@ -45,7 +45,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 10,
       "actioncode": "",
       "tenantId": "ga"
@@ -75,7 +75,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 11,
       "actioncode": "",
       "tenantId": "ga"
@@ -3081,7 +3081,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 287,
       "actioncode": "",
       "tenantId": "ga"
@@ -3123,7 +3123,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 288,
       "actioncode": "",
       "tenantId": "ga"
@@ -3165,7 +3165,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 289,
       "actioncode": "",
       "tenantId": "ga"
@@ -3489,7 +3489,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 309,
       "actioncode": "",
       "tenantId": "ga"
@@ -3531,13 +3531,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 311,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 310,
       "actioncode": "",
       "tenantId": "ga"
@@ -3681,7 +3681,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 324,
       "actioncode": "",
       "tenantId": "ga"
@@ -4077,7 +4077,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 349,
       "actioncode": "",
       "tenantId": "ga"
@@ -4113,7 +4113,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 350,
       "actioncode": "",
       "tenantId": "ga"
@@ -5613,7 +5613,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 695,
       "actioncode": "",
       "tenantId": "ga"
@@ -5889,7 +5889,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 254,
       "actioncode": "",
       "tenantId": "ga"
@@ -8301,7 +8301,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 701,
       "actioncode": "",
       "tenantId": "ga"
@@ -8361,31 +8361,31 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 710,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 706,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 705,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 591,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 593,
       "actioncode": "",
       "tenantId": "ga"
@@ -8439,43 +8439,43 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 703,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 709,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 713,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 716,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 719,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 722,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 809,
       "actioncode": "",
       "tenantId": "ga"
@@ -8529,127 +8529,127 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 627,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 407,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 413,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 419,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 492,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 507,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 510,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 608,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 495,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 401,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 775,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 808,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 601,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 813,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 848,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 851,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 853,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 854,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 855,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 862,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 353,
       "actioncode": "",
       "tenantId": "ga"
@@ -8751,43 +8751,43 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 884,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 885,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 886,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 887,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 888,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 889,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 890,
       "actioncode": "",
       "tenantId": "ga"
@@ -8871,7 +8871,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 904,
       "actioncode": "",
       "tenantId": "ga"
@@ -8913,37 +8913,37 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 748,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 740,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 756,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 852,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 788,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 839,
       "actioncode": "",
       "tenantId": "ga"
@@ -9279,13 +9279,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 900,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 903,
       "actioncode": "",
       "tenantId": "ga"
@@ -13653,7 +13653,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 698,
       "actioncode": "",
       "tenantId": "ga"
@@ -13677,13 +13677,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1522,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1523,
       "actioncode": "",
       "tenantId": "ga"
@@ -13785,49 +13785,49 @@
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1524,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1525,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1526,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1527,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1528,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1529,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1530,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1531,
       "actioncode": "",
       "tenantid": "ga"
@@ -13929,13 +13929,13 @@
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 697,
       "actioncode": "",
       "tenantid": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 168,
       "actioncode": "",
       "tenantId": "ga"
@@ -13983,7 +13983,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 699,
       "actioncode": "",
       "tenantId": "ga"
@@ -14007,7 +14007,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 700,
       "actioncode": "",
       "tenantId": "ga"
@@ -14109,7 +14109,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1534,
       "actioncode": "",
       "tenantId": "ga"
@@ -14151,19 +14151,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1535,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1536,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1537,
       "actioncode": "",
       "tenantId": "ga"
@@ -14313,7 +14313,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1549,
       "actioncode": "",
       "tenantId": "ga"
@@ -14331,7 +14331,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1550,
       "actioncode": "",
       "tenantId": "ga"
@@ -14349,7 +14349,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1552,
       "actioncode": "",
       "tenantId": "ga"
@@ -14439,7 +14439,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1429,
       "actioncode": "",
       "tenantId": "ga"
@@ -14565,7 +14565,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1556,
       "actioncode": "",
       "tenantId": "ga"
@@ -14607,7 +14607,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 870,
       "actioncode": "",
       "tenantId": "ga"
@@ -14745,13 +14745,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1566,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1568,
       "actioncode": "",
       "tenantId": "ga"
@@ -14769,7 +14769,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1569,
       "actioncode": "",
       "tenantId": "ga"
@@ -14787,7 +14787,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1570,
       "actioncode": "",
       "tenantId": "ga"
@@ -14805,7 +14805,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1571,
       "actioncode": "",
       "tenantId": "ga"
@@ -14823,7 +14823,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1572,
       "actioncode": "",
       "tenantId": "ga"
@@ -14925,7 +14925,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1590,
       "actioncode": "",
       "tenantId": "ga"
@@ -15477,13 +15477,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1685,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1686,
       "actioncode": "",
       "tenantId": "ga"
@@ -15501,7 +15501,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1687,
       "actioncode": "",
       "tenantId": "ga"
@@ -16359,7 +16359,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1684,
       "actioncode": "",
       "tenantId": "ga"
@@ -16527,7 +16527,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1688,
       "actioncode": "",
       "tenantId": "ga"
@@ -16545,7 +16545,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1589,
       "actioncode": "",
       "tenantId": "ga"
@@ -16989,7 +16989,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1729,
       "actioncode": "",
       "tenantId": "ga"
@@ -17103,7 +17103,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "ga"
@@ -17511,31 +17511,31 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1783,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1784,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1785,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1786,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1787,
       "actioncode": "",
       "tenantId": "ga"
@@ -17655,7 +17655,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "ga"
@@ -17727,7 +17727,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1797,
       "actioncode": "",
       "tenantId": "ga"
@@ -17739,7 +17739,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1798,
       "actioncode": "",
       "tenantId": "ga"
@@ -17769,7 +17769,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1799,
       "actioncode": "",
       "tenantId": "ga"
@@ -17811,7 +17811,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1801,
       "actioncode": "",
       "tenantId": "ga"
@@ -17847,7 +17847,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1803,
       "actioncode": "",
       "tenantId": "ga"
@@ -17913,19 +17913,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1805,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1806,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1807,
       "actioncode": "",
       "tenantId": "ga"
@@ -17967,25 +17967,25 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1814,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1815,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1816,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1817,
       "actioncode": "",
       "tenantId": "ga"
@@ -18009,7 +18009,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1822,
       "actioncode": "",
       "tenantId": "ga"
@@ -18051,7 +18051,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1818,
       "actioncode": "",
       "tenantId": "ga"
@@ -18303,7 +18303,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1827,
       "actioncode": "",
       "tenantId": "ga"
@@ -18345,7 +18345,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1830,
       "actioncode": "",
       "tenantId": "ga"
@@ -18363,7 +18363,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1831,
       "actioncode": "",
       "tenantId": "ga"
@@ -18381,7 +18381,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1832,
       "actioncode": "",
       "tenantId": "ga"
@@ -18939,7 +18939,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1860,
       "actioncode": "",
       "tenantId": "ga"
@@ -18957,7 +18957,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1861,
       "actioncode": "",
       "tenantId": "ga"
@@ -18975,7 +18975,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1862,
       "actioncode": "",
       "tenantId": "ga"
@@ -19017,7 +19017,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1864,
       "actioncode": "",
       "tenantId": "ga"
@@ -19107,25 +19107,25 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1834,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1835,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1872,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1804,
       "actioncode": "",
       "tenantId": "ga"
@@ -19137,7 +19137,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1875,
       "actioncode": "",
       "tenantId": "ga"
@@ -19149,7 +19149,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1876,
       "actioncode": "",
       "tenantId": "ga"
@@ -19167,7 +19167,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1877,
       "actioncode": "",
       "tenantId": "ga"
@@ -19179,7 +19179,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1878,
       "actioncode": "",
       "tenantId": "ga"
@@ -19209,7 +19209,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1880,
       "actioncode": "",
       "tenantId": "ga"
@@ -19221,13 +19221,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1883,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1884,
       "actioncode": "",
       "tenantId": "ga"
@@ -19293,7 +19293,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1895,
       "actioncode": "",
       "tenantId": "ga"
@@ -19305,7 +19305,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1896,
       "actioncode": "",
       "tenantId": "ga"
@@ -19317,7 +19317,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1897,
       "actioncode": "",
       "tenantId": "ga"
@@ -19329,13 +19329,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1898,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1900,
       "actioncode": "",
       "tenantId": "ga"
@@ -19359,7 +19359,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1902,
       "actioncode": "",
       "tenantId": "ga"
@@ -19371,7 +19371,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1903,
       "actioncode": "",
       "tenantId": "ga"
@@ -19383,7 +19383,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1904,
       "actioncode": "",
       "tenantId": "ga"
@@ -19395,7 +19395,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1905,
       "actioncode": "",
       "tenantId": "ga"
@@ -19407,7 +19407,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1906,
       "actioncode": "",
       "tenantId": "ga"
@@ -19419,7 +19419,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1907,
       "actioncode": "",
       "tenantId": "ga"
@@ -19431,7 +19431,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1908,
       "actioncode": "",
       "tenantId": "ga"
@@ -19443,7 +19443,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1909,
       "actioncode": "",
       "tenantId": "ga"
@@ -19455,7 +19455,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1910,
       "actioncode": "",
       "tenantId": "ga"
@@ -19467,7 +19467,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1911,
       "actioncode": "",
       "tenantId": "ga"
@@ -19509,7 +19509,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1913,
       "actioncode": "",
       "tenantId": "ga"
@@ -19557,7 +19557,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1919,
       "actioncode": "",
       "tenantId": "ga"
@@ -19701,7 +19701,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "ga"
@@ -19779,25 +19779,25 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1933,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1934,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1935,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "ga"
@@ -19821,7 +19821,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "ga"
@@ -19971,7 +19971,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1955,
       "actioncode": "",
       "tenantId": "ga"
@@ -20049,7 +20049,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1962,
       "actioncode": "",
       "tenantId": "ga"
@@ -20061,19 +20061,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1899,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1900,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1901,
       "actioncode": "",
       "tenantId": "ga"
@@ -20145,19 +20145,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1917,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1918,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1919,
       "actioncode": "",
       "tenantId": "ga"
@@ -20253,7 +20253,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1966,
       "actioncode": "",
       "tenantId": "ga"
@@ -20265,7 +20265,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1967,
       "actioncode": "",
       "tenantId": "ga"
@@ -20469,7 +20469,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1971,
       "actioncode": "",
       "tenantId": "ga"
@@ -20547,13 +20547,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1942,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1943,
       "actioncode": "",
       "tenantId": "ga"
@@ -20679,7 +20679,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1989,
       "actioncode": "",
       "tenantId": "ga"
@@ -20745,61 +20745,61 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1990,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1991,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1992,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1993,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1994,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1995,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1996,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1997,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1998,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1999,
       "actioncode": "",
       "tenantId": "ga"
@@ -20877,7 +20877,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 623,
       "actioncode": "",
       "tenantId": "ga"
@@ -20895,7 +20895,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2000,
       "actioncode": "",
       "tenantId": "ga"
@@ -20907,7 +20907,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2001,
       "actioncode": "",
       "tenantId": "ga"
@@ -20925,7 +20925,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2002,
       "actioncode": "",
       "tenantId": "ga"
@@ -21057,7 +21057,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2006,
       "actioncode": "",
       "tenantId": "ga"
@@ -21075,7 +21075,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2007,
       "actioncode": "",
       "tenantId": "ga"
@@ -21093,7 +21093,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2008,
       "actioncode": "",
       "tenantId": "ga"
@@ -21111,7 +21111,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2009,
       "actioncode": "",
       "tenantId": "ga"
@@ -21129,7 +21129,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2010,
       "actioncode": "",
       "tenantId": "ga"
@@ -21141,7 +21141,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2011,
       "actioncode": "",
       "tenantId": "ga"
@@ -21423,55 +21423,55 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2029,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2030,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2031,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2032,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2033,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2035,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2036,
       "actioncode": "",
       "tenantId": "ga"
@@ -21525,7 +21525,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2037,
       "actioncode": "",
       "tenantId": "ga"
@@ -21537,7 +21537,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2038,
       "actioncode": "",
       "tenantId": "ga"
@@ -21603,7 +21603,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2039,
       "actioncode": "",
       "tenantId": "ga"
@@ -21675,7 +21675,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2040,
       "actioncode": "",
       "tenantId": "ga"
@@ -21747,7 +21747,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2041,
       "actioncode": "",
       "tenantId": "ga"
@@ -21819,7 +21819,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2042,
       "actioncode": "",
       "tenantId": "ga"
@@ -21831,13 +21831,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2043,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2044,
       "actioncode": "",
       "tenantId": "ga"
@@ -22167,7 +22167,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2054,
       "actioncode": "",
       "tenantId": "ga"
@@ -22185,7 +22185,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 706,
       "actioncode": "",
       "tenantId": "ga"
@@ -22503,7 +22503,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2055,
       "actioncode": "",
       "tenantId": "ga"
@@ -22665,7 +22665,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2380,
       "actioncode": "",
       "tenantId": "ga"
@@ -22677,7 +22677,7 @@
       "tenantId": "ga"
     },
      {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2061,
       "actioncode": "",
       "tenantId": "ga"
@@ -22689,7 +22689,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2045,
       "actioncode": "",
       "tenantId": "ga"
@@ -22839,19 +22839,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2053,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2076,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2077,
       "actioncode": "",
       "tenantId": "ga"
@@ -23235,7 +23235,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2099,
       "actioncode": "",
       "tenantId": "ga"
@@ -23391,7 +23391,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2115,
       "actioncode": "",
       "tenantId": "ga"
@@ -23463,13 +23463,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2117,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2118,
       "actioncode": "",
       "tenantId": "ga"
@@ -23481,7 +23481,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2119,
       "actioncode": "",
       "tenantId": "ga"
@@ -23493,7 +23493,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2120,
       "actioncode": "",
       "tenantId": "ga"
@@ -23661,7 +23661,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2136,
       "actioncode": "",
       "tenantId": "ga"
@@ -23787,7 +23787,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2138,
       "actioncode": "",
       "tenantId": "ga"
@@ -24009,7 +24009,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2163,
       "actioncode": "",
       "tenantId": "ga"
@@ -24051,7 +24051,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2167,
       "actioncode": "",
       "tenantId": "ga"
@@ -24129,7 +24129,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2175,
       "actioncode": "",
       "tenantId": "ga"
@@ -24213,7 +24213,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2177,
       "actioncode": "",
       "tenantId": "ga"
@@ -24273,7 +24273,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2187,
       "actioncode": "",
       "tenantId": "ga"
@@ -24327,7 +24327,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2191,
       "actioncode": "",
       "tenantId": "ga"
@@ -24405,7 +24405,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2195,
       "actioncode": "",
       "tenantId": "ga"
@@ -24507,7 +24507,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2209,
       "actioncode": "",
       "tenantId": "ga"
@@ -25029,25 +25029,25 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2253,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2254,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2255,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2256,
       "actioncode": "",
       "tenantId": "ga"
@@ -25167,163 +25167,163 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2243,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2244,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2247,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2248,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2249,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2250,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2252,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2254,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2254,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2255,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2256,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2257,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2261,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2262,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2263,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2264,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2266,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2267,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2268,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2269,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2270,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2271,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2272,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2273,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2274,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2277,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2278,
       "actioncode": "",
       "tenantId": "ga"
@@ -25341,7 +25341,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2280,
       "actioncode": "",
       "tenantId": "ga"
@@ -25353,7 +25353,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2281,
       "actioncode": "",
       "tenantId": "ga"
@@ -25401,7 +25401,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2282,
       "actioncode": "",
       "tenantId": "ga"
@@ -25419,7 +25419,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2283,
       "actioncode": "",
       "tenantId": "ga"
@@ -25431,187 +25431,187 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2284,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2285,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2286,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2287,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2288,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2289,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2290,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2291,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2292,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2293,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2294,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2295,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2296,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2297,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2298,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2299,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2300,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2301,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2302,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2303,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2304,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2305,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2306,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2307,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2308,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2309,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2310,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2311,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2312,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 1957,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2389,
       "actioncode": "",
       "tenantId": "ga"
@@ -25749,7 +25749,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2326,
       "actioncode": "",
       "tenantId": "ga"
@@ -25761,43 +25761,43 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2327,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2328,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2329,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2330,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2331,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2259,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2260,
       "actioncode": "",
       "tenantId": "ga"
@@ -25947,7 +25947,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2331,
       "actioncode": "",
       "tenantId": "ga"
@@ -26325,7 +26325,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2361,
       "actioncode": "",
       "tenantId": "ga"
@@ -26337,7 +26337,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2362,
       "actioncode": "",
       "tenantId": "ga"
@@ -26367,31 +26367,31 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2364,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2366,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2365,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2367,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2368,
       "actioncode": "",
       "tenantId": "ga"
@@ -26463,7 +26463,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2369,
       "actioncode": "",
       "tenantId": "ga"
@@ -26475,7 +26475,7 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2370,
       "actioncode": "",
       "tenantId": "ga"
@@ -26511,13 +26511,13 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2376,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2377,
       "actioncode": "",
       "tenantId": "ga"
@@ -26535,19 +26535,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2382,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2383,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2384,
       "actioncode": "",
       "tenantId": "ga"
@@ -26571,19 +26571,19 @@
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2385,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2386,
       "actioncode": "",
       "tenantId": "ga"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2387,
       "actioncode": "",
       "tenantId": "ga"
@@ -26915,7 +26915,7 @@
       "tenantId": "ga"
     },
 	{
-      "rolecode": "CITIZEN",
+      "rolecode": "ENTERPRISE",
       "actionid": 2394,
       "actioncode": "",
       "tenantId": "ga"

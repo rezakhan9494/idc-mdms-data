@@ -6,6 +6,10 @@
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
+    },{
+      "code": "ENTERPRISE",
+      "name": "Enterprise",
+      "description": "Enterprise who can raise complaint"
     },
     {
       "code": "EMPLOYEE",
