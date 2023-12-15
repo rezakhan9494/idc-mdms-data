@@ -48,6 +48,14 @@
           {
             "jsonPath" : "addresses/*/address",
             "type" : "Normal"
+          },
+		  {
+            "jsonPath" : "socialSecurityNumber",
+            "type" : "Normal"
+          },
+		  {
+            "jsonPath" : "passport",
+            "type" : "Normal"
           }
         ]
       },
