@@ -467,11 +467,11 @@
       "idname": "bpa.aplnumber"
     },
     {
-      "format": "GA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_APN]",
+      "format": "GA-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_APN]",
       "idname": "bpa.tp.aplnumber"
     },
 	{
-      "format": "GA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_PN]",
+      "format": "GA-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_PN]",
       "idname": "bpa.tp.permitnumber"
     },
     {
