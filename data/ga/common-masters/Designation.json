@@ -3,49 +3,49 @@
 	"moduleName": "common-masters",
 	"Designation": [
 		{
-			"code": "DESIG_01",
+			"code": "MD",
 			"name": "Managing Director (MD)",
 			"description": "Managing Director (MD)",
 			"active": true
 		},
 		{
-			"code": "DESIG_02",
+			"code": "GM",
 			"name": "General Manager (GM)",
 			"description": "General Manager (GM)",
 			"active": true
 		},
 		{
-			"code": "DESIG_03",
+			"code": "DGM",
 			"name": "Deputy General Manager (DGM)",
 			"description": "Deputy General Manager (DGM)",
 			"active": true
 		},
 		{
-			"code": "DESIG_04",
+			"code": "AM",
 			"name": "Assistant Manager (AM)",
 			"description": "Assistant Manager (AM)",
 			"active": true
 		},
 		{
-			"code": "DESIG_05",
+			"code": "ARM",
 			"name": "Area Manager (ARM)",
 			"description": "Area Manager (ARM)",
 			"active": true
 		},
 		{
-			"code": "DESIG_06",
+			"code": "FM",
 			"name": "Field Manager (FM)",
 			"description": "Field Manager (FM)",
 			"active": true
 		},
 		{
-			"code": "DESIG_07",
+			"code": "SLAO",
 			"name": "Special Land Acquisition Officer (SLAO)",
 			"description": "Special Land Acquisition Officer (SLAO)",
 			"active": true
 		},
 		{
-			"code": "DESIG_08",
+			"code": "CAO",
 			"name": "Chief Accounts Officer (CAO)",
 			"description": "Chief Accounts Officer (CAO)",
 			"active": true
