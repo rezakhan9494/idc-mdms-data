@@ -4,47 +4,47 @@
 	"Department": [
 		{
 			"name": "Administration",
-			"code": "DEPT_1",
+			"code": "ADMIN",
 			"active": true
 		},
 		{
 			"name": "Estate Division",
-			"code": "DEPT_2",
+			"code": "ESTD",
 			"active": true
 		},
 		{
 			"name": "Engineering Section",
-			"code": "DEPT_3",
+			"code": "ENGS",
 			"active": true
 		},
 		{
 			"name": "Accounts Section",
-			"code": "DEPT_4",
+			"code": "ACCS",
 			"active": true
 		},
 		{
 			"name": "Industrial Planning & Development Committee (37B Committee)",
-			"code": "DEPT_5",
+			"code": "IPDC",
 			"active": true
 		},
 		{
 			"name": "Legal Section",
-			"code": "DEPT_6",
+			"code": "LGLS",
 			"active": true
 		},
 		{
 			"name": "MD's Secretariate",
-			"code": "DEPT_7",
+			"code": "MDSC",
 			"active": true
 		},
 		{
 			"name": "Land Acquisition Section",
-			"code": "DEPT_8",
+			"code": "LACS",
 			"active": true
 		},
 		{
 			"name": "Goa-IDC",
-			"code": "DEPT_9",
+			"code": "GIDC",
 			"active": true
 		}
 	]
