@@ -81,6 +81,41 @@
 			"code": "SUB_LESSEE",
 			"name": "Sub Lessee",
 			"description": "Sub Lessee."
+		},
+		{
+			"code": "SUB_LESSEE",
+			"name": "Sub Lessee",
+			"description": "Sub Lessee."
+		},
+		{
+			"code": "ARCHITECT",
+			"name": "Architect",
+			"description": "Architect."
+		},
+		{
+			"code": "BPA_VERIFIER",
+			"name": "BPA Verifier",
+			"description": "BPA Verifier."
+		},
+		{
+			"code": "BPA_APPROVER",
+			"name": "BPA Approver",
+			"description": "BPA Approver."
+		},
+		{
+			"code": "BPA_COL_INITIATOR",
+			"name": "Contract License Initiator",
+			"description": "Contract License Initiator."
+		},
+		{
+			"code": "BPA_COL_VERIFIER",
+			"name": "Contract License Verifier",
+			"description": "Contract License Verifier."
+		},
+		{
+			"code": "BPA_COL_APPROVER",
+			"name": "Contract License Approver",
+			"description": "Contract License Approver."
 		}
 	]
 }
