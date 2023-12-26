@@ -3,6 +3,11 @@
 	"moduleName": "ACCESSCONTROL-ROLES",
 	"roles": [
 		{
+			"code": "INTERNAL_MICROSERVICE_ROLE",
+			"name": "Internal Microservice Role",
+			"description": "Internal role for plain access"
+		},
+		{
 			"code": "SUPERUSER",
 			"name": "Super User",
 			"description": "System Administrator. Can change all master data and has access to all the system screens."
@@ -83,9 +88,39 @@
 			"description": "Sub Lessee."
 		},
 		{
-			"code": "INTERNAL_MICROSERVICE_ROLE",
-			"name": "Internal Microservice Role",
-			"description": "Internal role for plain access"
+			"code": "SUB_LESSEE",
+			"name": "Sub Lessee",
+			"description": "Sub Lessee."
+		},
+		{
+			"code": "ARCHITECT",
+			"name": "Architect",
+			"description": "Architect."
+		},
+		{
+			"code": "BPA_VERIFIER",
+			"name": "BPA Verifier",
+			"description": "BPA Verifier."
+		},
+		{
+			"code": "BPA_APPROVER",
+			"name": "BPA Approver",
+			"description": "BPA Approver."
+		},
+		{
+			"code": "BPA_COL_INITIATOR",
+			"name": "Construction License Initiator",
+			"description": "Construction License Initiator."
+		},
+		{
+			"code": "BPA_COL_VERIFIER",
+			"name": "Construction License Verifier",
+			"description": "Construction License Verifier."
+		},
+		{
+			"code": "BPA_COL_APPROVER",
+			"name": "Construction License Approver",
+			"description": "Construction License Approver."
 		}
 	]
 }
