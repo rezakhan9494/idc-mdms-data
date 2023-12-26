@@ -104,18 +104,18 @@
 		},
 		{
 			"code": "BPA_COL_INITIATOR",
-			"name": "Contract License Initiator",
-			"description": "Contract License Initiator."
+			"name": "Construction License Initiator",
+			"description": "Construction License Initiator."
 		},
 		{
 			"code": "BPA_COL_VERIFIER",
-			"name": "Contract License Verifier",
-			"description": "Contract License Verifier."
+			"name": "Construction License Verifier",
+			"description": "Construction License Verifier."
 		},
 		{
 			"code": "BPA_COL_APPROVER",
-			"name": "Contract License Approver",
-			"description": "Contract License Approver."
+			"name": "Construction License Approver",
+			"description": "Construction License Approver."
 		}
 	]
 }
