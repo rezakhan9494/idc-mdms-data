@@ -81,6 +81,11 @@
 			"code": "SUB_LESSEE",
 			"name": "Sub Lessee",
 			"description": "Sub Lessee."
+		},
+		{
+			"code": "INTERNAL_MICROSERVICE_ROLE",
+			"name": "Internal Microservice Role",
+			"description": "Internal role for plain access"
 		}
 	]
 }
