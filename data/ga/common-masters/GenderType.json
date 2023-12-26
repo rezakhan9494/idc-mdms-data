@@ -5,18 +5,22 @@
     [
       {
         "code": "MALE",
+        "name": "Male",
         "active": true
       },
       {
         "code": "FEMALE",
+        "name": "Female",
         "active": true
       },{
         "code": "TRANSGENDER",
-        "active": true
+        "name": "Transgender",
+        "active": false
       },
       {
         "code": "OTHERS",
-        "active": false
+        "name": "Others",
+        "active": true
       }
     ]
   }

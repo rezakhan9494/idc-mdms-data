@@ -1,46 +1,58 @@
 {
   "tenantId": "ga",
   "moduleName": "egov-hrms",
-  "Degree": [
-    {
-      "code": "MATRICULATION",
-      "active": true
-    },
-    {
-      "code": "10+2/EQUIVALENTDIPLOMA",
-      "active": true
-    },
-    {
-      "code": "B.A/B.SC./B.COM/BBA",
-      "active": true
-    },
-    {
-      "code": "LLB/LLM",
-      "active": true
-    },
-    {
-      "code": "B.E/B.TECH.",
-      "active": true
-    },
-    {
-      "code": "M.A/M.COM./M.SC.",
-      "active": true
-    },
-    {
-      "code": "M.E/M.TECH.",
-      "active": true
-    },
-    {
-      "code": "MBA/PGDM",
-      "active": true
-    },
-    {
-      "code": "DOCTORATE",
-      "active": true
-    },
-    {
-      "code": "OTHER",
-      "active": true
-    }
+  "Degree": 
+    [
+      {
+          "code": "MATRICULATION",
+          "name": "Matriculation",
+          "active": true
+      },
+      {
+          "code": "10+2/EQUIVALENTDIPLOMA",
+          "name": "10+2 or Equivalents",
+          "active": true
+      },
+      {
+          "code": "B.A/B.SC./B.COM/BBA",
+          "name": "B.A. / B.Sc. / B.Com. / BBA",
+          "active": true
+      },
+      {
+          "code": "LLB/LLM",
+          "name": "LLB / LLM",
+          "active": true
+      },
+      {
+          "code": "B.E/B.TECH.",
+          "name": "B.E. / B.Tech.",
+          "active": true
+      },
+      {
+          "code": "M.A/M.COM./M.SC.",
+          "name": "M.A. / M.Com. / M.Sc.",
+          "active": true
+      },
+      {
+          "code": "M.E/M.TECH.",
+          "name": "M.E. / M.Tech.",
+          "active": true
+      },
+      {
+          "code": "MBA/PGDM",
+          "name": "MBA / PGDM",
+          "active": true
+      },
+      {
+          "code": "DOCTORATE",
+          "name": "Doctorate",
+          "active": true
+      },
+      {
+          "code": "OTHER",
+          "name": "Other",
+          "active": false
+      }
   ]
+    
 }
