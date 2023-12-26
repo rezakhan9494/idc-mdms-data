@@ -1,0 +1,38 @@
+{
+  "tenantId": "ga",
+  "moduleName": "ACCESSCONTROL-DEPARTMENTROLES",
+  "departmentroles": [
+    {
+      "departmentcode": "ADMIN",
+      "rolecode": "EMP_CREATOR"
+    },{
+      "departmentcode": "ADMIN",
+      "rolecode": "EMP_APPROVER"
+    },{
+      "departmentcode": "ADMIN",
+      "rolecode": "EMP_VERIFIER"
+    },{
+      "departmentcode": "ADMIN",
+      "rolecode": "EU_APPROVER"
+    },{
+      "departmentcode": "ADMIN",
+      "rolecode": "EU_VERIFIER"
+    },{
+      "departmentcode": "IPDC",
+      "rolecode": "ARCHITECT"
+    },{
+      "departmentcode": "IPDC",
+      "rolecode": "BPA_VERIFIER"
+    },{
+      "departmentcode": "IPDC",
+      "rolecode": "BPA_APPROVER"
+    },{
+      "departmentcode": "IPDC",
+      "rolecode": "BPA_COL_INITIATOR"
+    },{
+      "departmentcode": "IPDC",
+      "rolecode": "BPA_COL_APPROVER"
+    }
+   
+  ]
+}
