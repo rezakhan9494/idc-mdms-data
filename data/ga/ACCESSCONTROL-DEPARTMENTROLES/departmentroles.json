@@ -32,6 +32,36 @@
     },{
       "departmentcode": "IPDC",
       "rolecode": "BPA_COL_APPROVER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "EMP_CREATOR"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "EMP_APPROVER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "EMP_VERIFIER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "EU_APPROVER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "EU_VERIFIER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "ARCHITECT"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "BPA_VERIFIER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "BPA_APPROVER"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "BPA_COL_INITIATOR"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "BPA_COL_APPROVER"
     }
    
   ]
