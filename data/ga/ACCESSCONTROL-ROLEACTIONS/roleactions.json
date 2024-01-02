@@ -27151,6 +27151,36 @@
 			"actionid": 2409,
 			"actioncode": "",
 			"tenantId": "ga"
-		}		
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_VERIFIER",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_APPROVER",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_COL_INITIATOR",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_COL_APPROVER",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		}
 	]
 }
