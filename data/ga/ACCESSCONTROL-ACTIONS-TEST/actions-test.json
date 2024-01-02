@@ -21760,6 +21760,129 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchDepartmentRolesByDepartmentCode"
-		}
+		},
+    {
+			"id": 2410,
+			"name": "BusinessServiceCreate",
+			"url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+			"displayName": "Business Service Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.BusinessServiceCreate"
+		},
+    {
+			"id": 2411,
+			"name": "BusinessServiceSearch",
+			"url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+			"displayName": "Business Service Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.BusinessServiceSearch"
+		},
+    {
+			"id": 2412,
+			"name": "BusinessServiceUpdate",
+			"url": "/egov-workflow-v2/egov-wf/businessservice/_update",
+			"displayName": "Business Service Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.BusinessServiceUpdate"
+		},
+    {
+      "id": 2413,
+			"name": "AutoEscalateBuisnessService",
+			"url": "/egov-wf/auto/{businessService}/_escalate",
+			"displayName": "Auto Escalation of Business Service",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.AutoEscalateBuisnessService"
+    },
+    {
+      "id": 2414,
+			"name": "AutoTestBuisnessService",
+			"url": "/egov-wf/auto/{businessService}/_test",
+			"displayName": "Auto Testing of Business Service",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.AutoTestBuisnessService"
+    },
+    {
+			"id": 2415,
+			"name": "ProcessTransition",
+			"url": "/egov-workflow-v2/egov-wf/process/_transition",
+			"parentModule": "",
+			"displayName": "Process Transition",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.ProcessTransition"
+		},
+    {
+			"id": 2416,
+			"name": "ProcessSearch",
+			"url": "/egov-common-workflows/process/_search",
+			"displayName": "Process Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.ProcessSearch"
+		},
+    {
+			"id": 2417,
+			"name": "ProcessCount",
+			"url": "/egov-workflow-v2/egov-wf/process/_count",
+			"displayName": "Process Count",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.ProcessCount"
+		},
+    {
+			"id": 2418,
+			"name": "SearchEscalatedApplications",
+			"url": "/egov-workflow-v2/egov-wf/escalate/_search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.SearchEscalatedApplications"
+		},
+    {
+			"id": 2419,
+			"name": "ProcessStatusCount",
+			"url": "/egov-workflow-v2/egov-wf/process/_statuscount",
+			"displayName": "Process Status Count",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.ProcessStatusCount"
+		},
+    {
+      "id": 2420,
+			"name": "NearingSlaCount",
+			"url": "/egov-wf/process/_nearingslacount",
+			"displayName": "Nearing-Sla-Count",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Workflow.NearingSlaCount"
+    }
+  
+  
 	]
 }
