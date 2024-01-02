@@ -21770,7 +21770,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.BusinessServiceCreate"
+			"path": "Administration.BusinessServiceCreate"
 		},
     {
 			"id": 2411,
@@ -21781,7 +21781,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.BusinessServiceSearch"
+			"path": "Administration.BusinessServiceSearch"
 		},
     {
 			"id": 2412,
@@ -21792,7 +21792,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.BusinessServiceUpdate"
+			"path": "Administration.BusinessServiceUpdate"
 		},
     {
       "id": 2413,
@@ -21803,7 +21803,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.AutoEscalateBuisnessService"
+			"path": "Administration.AutoEscalateBuisnessService"
     },
     {
       "id": 2414,
@@ -21814,7 +21814,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.AutoTestBuisnessService"
+			"path": "Administration.AutoTestBuisnessService"
     },
     {
 			"id": 2415,
@@ -21826,7 +21826,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.ProcessTransition"
+			"path": "Administration.ProcessTransition"
 		},
     {
 			"id": 2416,
@@ -21837,7 +21837,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.ProcessSearch"
+			"path": "Administration.ProcessSearch"
 		},
     {
 			"id": 2417,
@@ -21848,7 +21848,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.ProcessCount"
+			"path": "Administration.ProcessCount"
 		},
     {
 			"id": 2418,
@@ -21858,7 +21858,7 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.SearchEscalatedApplications"
+			"path": "Administration.SearchEscalatedApplications"
 		},
     {
 			"id": 2419,
@@ -21869,19 +21869,85 @@
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.ProcessStatusCount"
+			"path": "Administration.ProcessStatusCount"
 		},
     {
       "id": 2420,
 			"name": "NearingSlaCount",
 			"url": "/egov-wf/process/_nearingslacount",
-			"displayName": "Nearing-Sla-Count",
+			"displayName": "Nearing Sla Count",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Workflow.NearingSlaCount"
-    }
+			"path": "Administration.NearingSlaCount"
+    },
+    {
+      "id": 2421,
+			"name": "SearchEmployeeAssignmentDetails",
+			"url": "/egov-hrms/employees/assignments/_search",
+			"displayName": "Search Employee Assignment Details",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchEmployeeAssignmentDetails"
+    },
+    {
+      "id": 2422,
+			"name": "SearchEmployees",
+			"url": "/egov-hrms/employees/_search",
+			"displayName": "Search Employees",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchEmployees"
+    },
+    {
+      "id": 2423,
+			"name": "UpdatesEmployee",
+			"url": "/egov-hrms/employees/_update",
+			"displayName": "Updates Employee",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdatesEmployee"
+    },
+    {
+			"id": 2424,
+			"name": "UpdateUserPassword",
+			"url": "/user/password/_update",
+      "displayName": "Update User Password",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdateUserPassword"
+		},
+    {
+			"id": 2425,
+			"name": "UpdateUserPasswordForNonLoggedInUser",
+			"url": "/user/password/nologin/_update",
+			"displayName": "Update User Password For NonLoggedIn User",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdateUserPasswordForNonLoggedInUser"
+		},
+    {
+			"id": 2426,
+			"name": "FetchUserAddressFromPincode",
+			"url": "/user/utils/postaladdress/pincode/{pincode}",
+			"displayName": "Fetch User Address From Pincode",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.FetchUserAddressFromPincode"
+		}
   
   
 	]
