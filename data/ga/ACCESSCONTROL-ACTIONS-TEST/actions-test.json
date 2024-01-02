@@ -21676,7 +21676,7 @@
       {
       "id": 2402,
       "name": "SearchAddressByPostalCode",
-      "url": "/user/utils/postaladdress/pincode/${pincode}",
+      "url": "/user/utils/postaladdress/pincode/{pincode}",
       "displayName": "Search Address By Postal Code",
       "orderNumber": 1,
       "enabled": false,
