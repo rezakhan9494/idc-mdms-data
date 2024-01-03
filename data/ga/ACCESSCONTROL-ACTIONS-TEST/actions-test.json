@@ -5638,17 +5638,6 @@
 			"path": "Administration.UpdatePasswordForNonLoggedInUser"
 		},
 		{
-			"id": 701,
-			"name": "Delete Token",
-			"url": "/user/_logout",
-			"displayName": "Delete Token",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Delete Token"
-		},
-		{
 			"id": 702,
 			"name": "UpdateCollection",
 			"url": "/billing-service/demand/collection/_update",
@@ -21661,6 +21650,17 @@
 			"serviceCode": "DSS",
 			"code": "null",
 			"path": ""
+		},
+		{
+			"id": 701,
+			"name": "UserLogout",
+			"url": "/user/_logout",
+			"displayName": "UserLogout",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UserLogout"
 		},
 		{
 			"id": 2401,
