@@ -21761,7 +21761,7 @@
 			"code": "null",
 			"path": "Administration.SearchDepartmentRolesByDepartmentCode"
 		},
-    {
+		{
 			"id": 2410,
 			"name": "BusinessServiceCreate",
 			"url": "/egov-workflow-v2/egov-wf/businessservice/_create",
@@ -21772,7 +21772,7 @@
 			"code": "null",
 			"path": "Administration.BusinessServiceCreate"
 		},
-    {
+		{
 			"id": 2411,
 			"name": "BusinessServiceSearch",
 			"url": "/egov-workflow-v2/egov-wf/businessservice/_search",
@@ -21783,7 +21783,7 @@
 			"code": "null",
 			"path": "Administration.BusinessServiceSearch"
 		},
-    {
+		{
 			"id": 2412,
 			"name": "BusinessServiceUpdate",
 			"url": "/egov-workflow-v2/egov-wf/businessservice/_update",
@@ -21794,8 +21794,8 @@
 			"code": "null",
 			"path": "Administration.BusinessServiceUpdate"
 		},
-    {
-      "id": 2413,
+		{
+			"id": 2413,
 			"name": "AutoEscalateBuisnessService",
 			"url": "/egov-wf/auto/{businessService}/_escalate",
 			"displayName": "Auto Escalation of Business Service",
@@ -21804,9 +21804,9 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.AutoEscalateBuisnessService"
-    },
-    {
-      "id": 2414,
+		},
+		{
+			"id": 2414,
 			"name": "AutoTestBuisnessService",
 			"url": "/egov-wf/auto/{businessService}/_test",
 			"displayName": "Auto Testing of Business Service",
@@ -21815,8 +21815,8 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.AutoTestBuisnessService"
-    },
-    {
+		},
+		{
 			"id": 2415,
 			"name": "ProcessTransition",
 			"url": "/egov-workflow-v2/egov-wf/process/_transition",
@@ -21828,7 +21828,7 @@
 			"code": "null",
 			"path": "Administration.ProcessTransition"
 		},
-    {
+		{
 			"id": 2416,
 			"name": "ProcessSearch",
 			"url": "/egov-common-workflows/process/_search",
@@ -21839,7 +21839,7 @@
 			"code": "null",
 			"path": "Administration.ProcessSearch"
 		},
-    {
+		{
 			"id": 2417,
 			"name": "ProcessCount",
 			"url": "/egov-workflow-v2/egov-wf/process/_count",
@@ -21850,7 +21850,7 @@
 			"code": "null",
 			"path": "Administration.ProcessCount"
 		},
-    {
+		{
 			"id": 2418,
 			"name": "SearchEscalatedApplications",
 			"url": "/egov-workflow-v2/egov-wf/escalate/_search",
@@ -21860,7 +21860,7 @@
 			"code": "null",
 			"path": "Administration.SearchEscalatedApplications"
 		},
-    {
+		{
 			"id": 2419,
 			"name": "ProcessStatusCount",
 			"url": "/egov-workflow-v2/egov-wf/process/_statuscount",
@@ -21871,8 +21871,8 @@
 			"code": "null",
 			"path": "Administration.ProcessStatusCount"
 		},
-    {
-      "id": 2420,
+		{
+			"id": 2420,
 			"name": "NearingSlaCount",
 			"url": "/egov-wf/process/_nearingslacount",
 			"displayName": "Nearing Sla Count",
@@ -21881,9 +21881,9 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.NearingSlaCount"
-    },
-    {
-      "id": 2421,
+		},
+		{
+			"id": 2421,
 			"name": "SearchEmployeeAssignmentDetails",
 			"url": "/egov-hrms/employees/assignments/_search",
 			"displayName": "Search Employee Assignment Details",
@@ -21892,9 +21892,9 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchEmployeeAssignmentDetails"
-    },
-    {
-      "id": 2422,
+		},
+		{
+			"id": 2422,
 			"name": "SearchEmployees",
 			"url": "/egov-hrms/employees/_search",
 			"displayName": "Search Employees",
@@ -21903,9 +21903,9 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchEmployees"
-    },
-    {
-      "id": 2423,
+		},
+		{
+			"id": 2423,
 			"name": "UpdatesEmployee",
 			"url": "/egov-hrms/employees/_update",
 			"displayName": "Updates Employee",
@@ -21914,19 +21914,19 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UpdatesEmployee"
-    },
-    {
+		},
+		{
 			"id": 2424,
 			"name": "UpdateUserPassword",
 			"url": "/user/password/_update",
-      "displayName": "Update User Password",
+			"displayName": "Update User Password",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UpdateUserPassword"
 		},
-    {
+		{
 			"id": 2425,
 			"name": "UpdateUserPasswordForNonLoggedInUser",
 			"url": "/user/password/nologin/_update",
@@ -21937,7 +21937,7 @@
 			"code": "null",
 			"path": "Administration.UpdateUserPasswordForNonLoggedInUser"
 		},
-    {
+		{
 			"id": 2426,
 			"name": "FetchUserAddressFromPincode",
 			"url": "/user/utils/postaladdress/pincode/{pincode}",
@@ -21948,7 +21948,5 @@
 			"code": "null",
 			"path": "Administration.FetchUserAddressFromPincode"
 		}
-  
-  
 	]
 }
