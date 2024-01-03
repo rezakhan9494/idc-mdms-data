@@ -21760,6 +21760,193 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchDepartmentRolesByDepartmentCode"
+		},
+		{
+			"id": 2410,
+			"name": "BusinessServiceCreate",
+			"url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+			"displayName": "Business Service Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BusinessServiceCreate"
+		},
+		{
+			"id": 2411,
+			"name": "BusinessServiceSearch",
+			"url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+			"displayName": "Business Service Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BusinessServiceSearch"
+		},
+		{
+			"id": 2412,
+			"name": "BusinessServiceUpdate",
+			"url": "/egov-workflow-v2/egov-wf/businessservice/_update",
+			"displayName": "Business Service Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BusinessServiceUpdate"
+		},
+		{
+			"id": 2413,
+			"name": "AutoEscalateBuisnessService",
+			"url": "/egov-wf/auto/{businessService}/_escalate",
+			"displayName": "Auto Escalation of Business Service",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.AutoEscalateBuisnessService"
+		},
+		{
+			"id": 2414,
+			"name": "AutoTestBuisnessService",
+			"url": "/egov-wf/auto/{businessService}/_test",
+			"displayName": "Auto Testing of Business Service",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.AutoTestBuisnessService"
+		},
+		{
+			"id": 2415,
+			"name": "ProcessTransition",
+			"url": "/egov-workflow-v2/egov-wf/process/_transition",
+			"parentModule": "",
+			"displayName": "Process Transition",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ProcessTransition"
+		},
+		{
+			"id": 2416,
+			"name": "ProcessSearch",
+			"url": "/egov-common-workflows/process/_search",
+			"displayName": "Process Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ProcessSearch"
+		},
+		{
+			"id": 2417,
+			"name": "ProcessCount",
+			"url": "/egov-workflow-v2/egov-wf/process/_count",
+			"displayName": "Process Count",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ProcessCount"
+		},
+		{
+			"id": 2418,
+			"name": "SearchEscalatedApplications",
+			"url": "/egov-workflow-v2/egov-wf/escalate/_search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchEscalatedApplications"
+		},
+		{
+			"id": 2419,
+			"name": "ProcessStatusCount",
+			"url": "/egov-workflow-v2/egov-wf/process/_statuscount",
+			"displayName": "Process Status Count",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ProcessStatusCount"
+		},
+		{
+			"id": 2420,
+			"name": "NearingSlaCount",
+			"url": "/egov-wf/process/_nearingslacount",
+			"displayName": "Nearing Sla Count",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.NearingSlaCount"
+		},
+		{
+			"id": 2421,
+			"name": "SearchEmployeeAssignmentDetails",
+			"url": "/egov-hrms/employees/assignments/_search",
+			"displayName": "Search Employee Assignment Details",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchEmployeeAssignmentDetails"
+		},
+		{
+			"id": 2422,
+			"name": "SearchEmployees",
+			"url": "/egov-hrms/employees/_search",
+			"displayName": "Search Employees",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchEmployees"
+		},
+		{
+			"id": 2423,
+			"name": "UpdatesEmployee",
+			"url": "/egov-hrms/employees/_update",
+			"displayName": "Updates Employee",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdatesEmployee"
+		},
+		{
+			"id": 2424,
+			"name": "UpdateUserPassword",
+			"url": "/user/password/_update",
+			"displayName": "Update User Password",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdateUserPassword"
+		},
+		{
+			"id": 2425,
+			"name": "UpdateUserPasswordForNonLoggedInUser",
+			"url": "/user/password/nologin/_update",
+			"displayName": "Update User Password For NonLoggedIn User",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdateUserPasswordForNonLoggedInUser"
+		},
+		{
+			"id": 2426,
+			"name": "FetchUserAddressFromPincode",
+			"url": "/user/utils/postaladdress/pincode/{pincode}",
+			"displayName": "Fetch User Address From Pincode",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.FetchUserAddressFromPincode"
 		}
 	]
 }
