@@ -27919,6 +27919,127 @@
 			"actionid": 2426,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_VERIFIER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_VERIFIER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_APPROVER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_COL_INITIATOR",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_COL_APPROVER",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_VERIFIER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_VERIFIER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_APPROVER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_COL_INITIATOR",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_COL_APPROVER",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
+		
 	]
 }

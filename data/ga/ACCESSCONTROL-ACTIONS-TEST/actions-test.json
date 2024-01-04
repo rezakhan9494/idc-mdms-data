@@ -21947,6 +21947,29 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.FetchUserAddressFromPincode"
+		},
+		{
+			
+			"id": 2427,
+			"name": "SearchWorkflowInboxTasks",
+			"url": "egov-wf/_inbox",
+			"displayName": "Search Workflow Inbox Tasks",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchWorkflowInboxTasks"
+		},
+		{
+			"id": 2428,
+			"name": "GetWorkflowValidActions",
+			"url": "egov-wf/_action",
+			"displayName": "Get Workflow Valid Actions",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.GetWorkflowValidActions"
 		}
 	]
 }
