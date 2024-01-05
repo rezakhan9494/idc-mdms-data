@@ -6,19 +6,19 @@
 			"active": true,
 			"code": "PENDINGFORMODIFICATION",
 			"description": "",
-			"name": "Pending for modification"
+			"name": "Pending for Modification"
 		},
 		{
 			"active": true,
 			"code": "PENDINGFORVERIFICATION",
 			"description": "",
-			"name": "Pending for verification"
+			"name": "Pending for Verification"
 		},
 		{
 			"active": true,
 			"code": "PENDINGFORAPPROVAL",
 			"description": "",
-			"name": "Pending for approval"
+			"name": "Pending for Approval"
 		},
 		{
 			"active": true,
@@ -30,13 +30,13 @@
 			"active": true,
 			"code": "APPROVAL_PENDING",
 			"description": "",
-			"name": "Approval pending"
+			"name": "Approval Pending"
 		},
 		{
 			"active": true,
 			"code": "DOC_VERIFICATION_PENDING",
 			"description": "",
-			"name": "Document verification pending"
+			"name": "Document Verification Pending"
 		},
 		{
 			"active": true,

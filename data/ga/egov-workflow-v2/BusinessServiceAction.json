@@ -22,13 +22,13 @@
 		},
 		{
 			"code": "RETURN_TO_INITIATOR",
-			"name": "Return to initiator",
+			"name": "Return to Initiator",
 			"description": "",
 			"active": true
 		},
 		{
 			"code": "RETURN_TO_VERIFIER",
-			"name": "Return to verifier",
+			"name": "Return to Verifier",
 			"description": "",
 			"active": true
 		},
