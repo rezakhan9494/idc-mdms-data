@@ -21730,14 +21730,14 @@
 		},
 		{
 			"id": 2407,
-			"name": "CreateEmployee",
-			"url": "/egov-hrms/employees/_create",
-			"displayName": "Employee create",
+			"name": "MDMSSearch",
+			"url": "/egov-mdms-service/v1/_search",
+			"displayName": "MDMS Search",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.CreateEmployee"
+			"path": "Administration.MDMSSearch"
 		},
 		{
 			"id": 2408,
@@ -21797,7 +21797,7 @@
 		{
 			"id": 2413,
 			"name": "AutoEscalateBuisnessService",
-			"url": "/egov-wf/auto/{businessService}/_escalate",
+			"url": "/egov-workflow-v2/egov-wf/auto/{businessService}/_escalate",
 			"displayName": "Auto Escalation of Business Service",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21808,7 +21808,7 @@
 		{
 			"id": 2414,
 			"name": "AutoTestBuisnessService",
-			"url": "/egov-wf/auto/{businessService}/_test",
+			"url": "/egov-workflow-v2/egov-wf/auto/{businessService}/_test",
 			"displayName": "Auto Testing of Business Service",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21831,7 +21831,7 @@
 		{
 			"id": 2416,
 			"name": "ProcessSearch",
-			"url": "/egov-common-workflows/process/_search",
+			"url": "/egov-workflow-v2/egov-common-workflows/process/_search",
 			"displayName": "Process Search",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21874,7 +21874,7 @@
 		{
 			"id": 2420,
 			"name": "NearingSlaCount",
-			"url": "/egov-wf/process/_nearingslacount",
+			"url": "/egov-workflow-v2/egov-wf/process/_nearingslacount",
 			"displayName": "Nearing Sla Count",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21952,7 +21952,7 @@
 			
 			"id": 2427,
 			"name": "SearchWorkflowInboxTasks",
-			"url": "egov-wf/_inbox",
+			"url": "/egov-workflow-v2/egov-wf/_inbox",
 			"displayName": "Search Workflow Inbox Tasks",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21963,13 +21963,24 @@
 		{
 			"id": 2428,
 			"name": "GetWorkflowValidActions",
-			"url": "egov-wf/_action",
+			"url": "/egov-workflow-v2/egov-wf/_action",
 			"displayName": "Get Workflow Valid Actions",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.GetWorkflowValidActions"
+		},
+		{
+			"id": 2429,
+			"name": "UserLogout",
+			"url": "/user/_logout",
+			"displayName": "User Logout",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UserLogout"
 		}
 	]
 }
