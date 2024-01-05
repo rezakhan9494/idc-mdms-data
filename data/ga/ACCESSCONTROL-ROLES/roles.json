@@ -88,11 +88,6 @@
 			"description": "Sub Lessee."
 		},
 		{
-			"code": "SUB_LESSEE",
-			"name": "Sub Lessee",
-			"description": "Sub Lessee."
-		},
-		{
 			"code": "ARCHITECT",
 			"name": "Architect",
 			"description": "Architect."
