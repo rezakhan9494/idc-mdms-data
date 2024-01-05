@@ -1,0 +1,24 @@
+{
+	"moduleName": "egov-workflow-v2",
+	"tenantId": "ga",
+	"BusinessService": [
+		{
+			"active": true,
+			"code": "TPOA",
+			"description": "",
+			"name": "Technical Person Approval"
+		},
+		{
+			"active": true,
+			"code": "BPA1",
+			"description": "",
+			"name": "Building Plan Approval"
+		},
+		{
+			"active": true,
+			"code": "EMP",
+			"description": "",
+			"name": "Employee Creation"
+		}
+	]
+}

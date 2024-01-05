@@ -1,0 +1,48 @@
+{
+	"moduleName": "egov-workflow-v2",
+	"tenantId": "ga",
+	"BusinessServiceState": [
+		{
+			"active": true,
+			"code": "PENDINGFORMODIFICATION",
+			"description": "",
+			"name": "Pending for modification"
+		},
+		{
+			"active": true,
+			"code": "PENDINGFORVERIFICATION",
+			"description": "",
+			"name": "Pending for verification"
+		},
+		{
+			"active": true,
+			"code": "PENDINGFORAPPROVAL",
+			"description": "",
+			"name": "Pending for approval"
+		},
+		{
+			"active": true,
+			"code": "APPROVED",
+			"description": "",
+			"name": "Approved"
+		},
+		{
+			"active": true,
+			"code": "APPROVAL_PENDING",
+			"description": "",
+			"name": "Approval pending"
+		},
+		{
+			"active": true,
+			"code": "DOC_VERIFICATION_PENDING",
+			"description": "",
+			"name": "Document verification pending"
+		},
+		{
+			"active": true,
+			"code": "REJECTED",
+			"description": "",
+			"name": "Rejected"
+		}
+	]
+}
