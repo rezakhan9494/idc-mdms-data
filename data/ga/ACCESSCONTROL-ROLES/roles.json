@@ -93,9 +93,14 @@
 			"description": "Architect."
 		},
 		{
-			"code": "BPA_VERIFIER",
-			"name": "BPA Verifier",
-			"description": "BPA Verifier."
+			"code": "BPA_VERIFIER_L1",
+			"name": "BPA Verifier L1",
+			"description": "BPA Verifier L1"
+		},
+		{
+			"code": "BPA_VERIFIER_L2",
+			"name": "BPA Verifier L2",
+			"description": "BPA Verifier L2"
 		},
 		{
 			"code": "BPA_APPROVER",
