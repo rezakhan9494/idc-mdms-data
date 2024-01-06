@@ -28228,6 +28228,31 @@
 			"actionid": 2428,
 			"actioncode": "",
 			"tenantId": "ga"
+		},{
+			"rolecode": "SUB_LESSEE",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},{
+			"rolecode": "TRANSFEREE",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},{
+			"rolecode": "TRANSFERRER",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},{
+			"rolecode": "LESSEE",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 		
 	]
