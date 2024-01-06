@@ -49,6 +49,12 @@
 			"name": "Chief Accounts Officer (CAO)",
 			"description": "Chief Accounts Officer (CAO)",
 			"active": true
+		},
+		{
+			"code": "MSC",
+			"name": "Member Secretary (MSC)",
+			"description": "Member Secretary (MSC)",
+			"active": true
 		}
 	]
 }
