@@ -13,11 +13,6 @@
       "active": true
     },
     {
-      "code": "DAILYWAGES",
-      "name": "Dailywages",
-      "active": true
-    },
-    {
       "code": "CONTRACT",
       "name": "Contract",
       "active": true
