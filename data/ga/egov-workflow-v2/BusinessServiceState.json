@@ -28,21 +28,99 @@
 		},
 		{
 			"active": true,
-			"code": "APPROVAL_PENDING",
+			"code": "Approval Pending",
 			"description": "",
 			"name": "Approval Pending"
 		},
 		{
 			"active": true,
-			"code": "DOC_VERIFICATION_PENDING",
+			"code": "DOC_VERIFICATION_INPROGRESS",
 			"description": "",
-			"name": "Document Verification Pending"
+			"name": "Document Verification Inprogress"
 		},
 		{
 			"active": true,
 			"code": "REJECTED",
 			"description": "",
 			"name": "Rejected"
+		},
+		{
+			"active": true,
+			"code": "INITIATED",
+			"description": "",
+			"name": "Initiated"
+		},
+		{
+			"active": true,
+			"code": "APPROVAL_INPROGRESS",
+			"description": "",
+			"name": "Approval Inprogress"
+		},
+		{
+			"active": true,
+			"code": "PENDING_APPL_FEE_PAYMENT",
+			"description": "",
+			"name": "Application Fees Payment Pending"
+		},
+		{
+			"active": true,
+			"code": "CONSTRUCTION_LICENCE_PENDING",
+			"description": "",
+			"name": "Construction License Pending"
+		},
+		{
+			"active": true,
+			"code": "DEPUTY_GM_APPROVAL_INPROGRESS",
+			"description": "",
+			"name": "Deputy GM's Approval Inprogress"
+		},
+		{
+			"active": true,
+			"code": "GM_APPROVAL_INPROGRESS",
+			"description": "",
+			"name": "GM's Approval Inprogress"
+		},
+		{
+			"active": true,
+			"code": "Awaiting Approval for Construction License Issuance",
+			"description": "",
+			"name": "Awaiting Approval for Construction License Issuance"
+		},
+		{
+			"active": true,
+			"code": "Pending Deputy GM's Verification",
+			"description": "",
+			"name": "Pending Deputy GM's Verification"
+		},
+		{
+			"active": true,
+			"code": "Pending General Manager's Approval",
+			"description": "",
+			"name": "Pending General Manager's Approval"
+		},
+		{
+			"active": true,
+			"code": "Draft",
+			"description": "",
+			"name": "Draft"
+		},
+		{
+			"active": true,
+			"code": "Review Pending at Level 1",
+			"description": "",
+			"name": "Review Pending at Level 1"
+		},
+		{
+			"active": true,
+			"code": "Review Pending at Level 2",
+			"description": "",
+			"name": "Review Pending at Level 2"
+		},
+		{
+			"active": true,
+			"code": "Pending Application Fee Payment",
+			"description": "",
+			"name": "Pending Application Fee Payment"
 		}
 	]
 }
