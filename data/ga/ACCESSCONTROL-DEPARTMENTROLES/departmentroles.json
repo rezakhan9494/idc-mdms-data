@@ -22,7 +22,10 @@
       "rolecode": "ARCHITECT"
     },{
       "departmentcode": "IPDC",
-      "rolecode": "BPA_VERIFIER"
+      "rolecode": "BPA_VERIFIER_L1"
+    },{
+      "departmentcode": "IPDC",
+      "rolecode": "BPA_VERIFIER_L2"
     },{
       "departmentcode": "IPDC",
       "rolecode": "BPA_APPROVER"
@@ -52,7 +55,10 @@
       "rolecode": "ARCHITECT"
     },{
       "departmentcode": "GIDC",
-      "rolecode": "BPA_VERIFIER"
+      "rolecode": "BPA_VERIFIER_L1"
+    },{
+      "departmentcode": "GIDC",
+      "rolecode": "BPA_VERIFIER_L2"
     },{
       "departmentcode": "GIDC",
       "rolecode": "BPA_APPROVER"
