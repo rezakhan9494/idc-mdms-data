@@ -55,6 +55,36 @@
 			"name": "Approve",
 			"description": "",
 			"active": true
+		},
+		{
+			"code": "SENDBACK_TO_CITIZEN",
+			"name": "Send back to Citizen",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "INITIATE",
+			"name": "Initiate",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "PAY",
+			"name": "Pay",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "SKIP_PAYMENT",
+			"name": "Skip Payment",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "SENDBACK",
+			"name": "Send back",
+			"description": "",
+			"active": true
 		}
 	]
 }

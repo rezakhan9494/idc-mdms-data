@@ -19,6 +19,12 @@
 			"code": "EMP",
 			"description": "",
 			"name": "Employee Creation"
+		},
+		{
+			"active": true,
+			"code": "BPA_OLD",
+			"description": "",
+			"name": "Building Plan Approval Old"
 		}
 	]
 }
