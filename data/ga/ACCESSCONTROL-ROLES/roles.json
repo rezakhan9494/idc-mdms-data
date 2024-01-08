@@ -80,7 +80,7 @@
 		{
 			"code": "TRANSFEREE",
 			"name": "Transferee",
-			"description": "Allottee."
+			"description": "Transferee."
 		},
 		{
 			"code": "SUB_LESSEE",
