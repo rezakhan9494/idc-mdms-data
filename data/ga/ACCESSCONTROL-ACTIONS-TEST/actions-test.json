@@ -5583,17 +5583,6 @@
 			"path": "Administration.Create Citizen"
 		},
 		{
-			"id": 695,
-			"name": "Search User Details",
-			"url": "/user/v1/_search",
-			"displayName": "Search User Details",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Search User Details"
-		},
-		{
 			"id": 696,
 			"name": "Get User",
 			"url": "/user/_details",
@@ -21661,6 +21650,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UserLogout"
+		},
+		{
+			"id": 695,
+			"name": "SearchUserDetailsV1",
+			"url": "/user/v1/_search",
+			"displayName": "Search User Details v1",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchUserDetailsV1"
 		},
 		{
 			"id": 2401,
