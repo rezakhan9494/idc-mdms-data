@@ -37,12 +37,28 @@
             "jsonPath" : "guardian",
             "type" : "Normal"
           },
-          {
+		  {
             "jsonPath" : "permanentAddress/address",
             "type" : "Normal"
           },
           {
             "jsonPath" : "correspondenceAddress/address",
+            "type" : "Normal"
+          },
+		  {
+            "jsonPath" : "permanentAddress/address1",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "correspondenceAddress/address1",
+            "type" : "Normal"
+          },
+		  {
+            "jsonPath" : "permanentAddress/address2",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "correspondenceAddress/address2",
             "type" : "Normal"
           },
           {

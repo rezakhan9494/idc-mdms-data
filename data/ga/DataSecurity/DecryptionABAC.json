@@ -68,6 +68,30 @@
               },
               "accessType": "PLAIN"
             },
+			{
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address1"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address2"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address2"
+              },
+              "accessType": "PLAIN"
+            },
             {
               "attribute": {
                 "jsonPath": "*/addresses/*/address"
@@ -198,7 +222,7 @@
               },
               "accessType": "PLAIN"
             },
-            {
+			{
               "attribute": {
                 "jsonPath": "*/permanentAddress/address"
               },
@@ -207,6 +231,30 @@
             {
               "attribute": {
                 "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address1"
+              },
+              "accessType": "PLAIN"
+            },
+			{
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address2"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address2"
               },
               "accessType": "PLAIN"
             },

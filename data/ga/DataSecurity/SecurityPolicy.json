@@ -76,6 +76,30 @@
           "defaultVisibility": "PLAIN"
         },
         {
+          "name": "permanentAddress",
+          "jsonPath": "permanentAddress/address1",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "correspondenceAddress",
+          "jsonPath": "correspondenceAddress/address1",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "permanentAddress",
+          "jsonPath": "permanentAddress/address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "correspondenceAddress",
+          "jsonPath": "correspondenceAddress/address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
           "name": "fatherOrHusbandName",
           "jsonPath": "fatherOrHusbandName",
           "patternId": "002",
@@ -325,6 +349,30 @@
         {
           "name": "correspondenceAddress",
           "jsonPath": "correspondenceAddress/address",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },		
+        {
+          "name": "permanentAddress",
+          "jsonPath": "permanentAddress/address1",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "correspondenceAddress",
+          "jsonPath": "correspondenceAddress/address1",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "permanentAddress",
+          "jsonPath": "permanentAddress/address2",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "correspondenceAddress",
+          "jsonPath": "correspondenceAddress/address2",
           "patternId": null,
           "defaultVisibility": "PLAIN"
         },
