@@ -26775,18 +26775,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMP_APPROVER",
-			"actionid": 2421,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_VERIFIER",
-			"actionid": 2421,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2422,
 			"actioncode": "",
