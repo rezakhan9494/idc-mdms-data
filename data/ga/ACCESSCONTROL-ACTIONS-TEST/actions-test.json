@@ -5605,17 +5605,6 @@
 			"path": "Administration.Profile Update"
 		},
 		{
-			"id": 699,
-			"name": "Update Password",
-			"url": "/user/password/_update",
-			"displayName": "Update Password",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Update Password"
-		},
-		{
 			"id": 702,
 			"name": "UpdateCollection",
 			"url": "/billing-service/demand/collection/_update",

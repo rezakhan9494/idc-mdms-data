@@ -3268,12 +3268,6 @@
 		},
 		{
 			"rolecode": "SUPERUSER",
-			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUPERUSER",
 			"actionid": 298,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -13887,30 +13881,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "GRO",
-			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "DGRO",
-			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "GRO",
 			"actionid": 168,
 			"actioncode": "",
@@ -14573,12 +14543,6 @@
 		{
 			"rolecode": "PGR-ADMIN",
 			"actionid": 870,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "PGR-ADMIN",
-			"actionid": 699,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -22882,12 +22846,6 @@
 		},
 		{
 			"rolecode": "UC_EMP",
-			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "UC_EMP",
 			"actionid": 704,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -24461,12 +24419,6 @@
 		{
 			"rolecode": "PT_FIELD_INSPECTOR",
 			"actionid": 706,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "PT_FIELD_INSPECTOR",
-			"actionid": 699,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
