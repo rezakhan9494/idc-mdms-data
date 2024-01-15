@@ -13425,18 +13425,6 @@
 			"rightIcon": ""
 		},
 		{
-			"id": 1750,
-			"name": "Employee Create",
-			"url": "/egov-hrms/employees/_create",
-			"parentModule": "egov-hrms",
-			"displayName": "Employee Create",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-hrms",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1753,
 			"name": "Income - Expenditures Statement",
 			"navigationURL": "services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
