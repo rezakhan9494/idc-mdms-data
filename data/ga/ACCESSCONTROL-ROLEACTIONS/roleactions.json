@@ -16977,18 +16977,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "SUPERUSER",
-			"actionid": 1751,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 1751,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "EGF_REPORT_VIEW",
 			"actionid": 1753,
 			"actioncode": "",
