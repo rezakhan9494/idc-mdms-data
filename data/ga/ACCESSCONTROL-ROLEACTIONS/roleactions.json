@@ -26080,12 +26080,6 @@
 		},
 		{
 			"rolecode": "EMP_CREATOR",
-			"actionid": 2404,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_CREATOR",
 			"actionid": 2405,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26117,12 +26111,6 @@
 		{
 			"rolecode": "EMP_APPROVER",
 			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_APPROVER",
-			"actionid": 2404,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
