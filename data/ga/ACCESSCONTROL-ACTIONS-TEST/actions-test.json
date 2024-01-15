@@ -17910,7 +17910,7 @@
 		{
 			"id": 2122,
 			"name": "Inbox Search ofr uI",
-			"url": "/inbox/v1/_search",
+			"url": "/egov-workflow-v2/egov-wf/_inbox",
 			"displayName": "Inbox Search",
 			"orderNumber": 0,
 			"enabled": false,
