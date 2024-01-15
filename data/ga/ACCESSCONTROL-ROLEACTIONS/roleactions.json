@@ -10108,12 +10108,6 @@
 		},
 		{
 			"rolecode": "SUPERUSER",
-			"actionid": 954,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUPERUSER",
 			"actionid": 955,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -12850,12 +12844,6 @@
 		},
 		{
 			"rolecode": "LOA_CREATOR",
-			"actionid": 954,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "LOA_CREATOR",
 			"actionid": 1176,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -12958,12 +12946,6 @@
 		},
 		{
 			"rolecode": "WO_CREATOR",
-			"actionid": 954,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "WO_CREATOR",
 			"actionid": 1081,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -12983,12 +12965,6 @@
 		{
 			"rolecode": "WO_CREATOR",
 			"actionid": 1094,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "AE_CREATOR",
-			"actionid": 954,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -13067,12 +13043,6 @@
 		{
 			"rolecode": "WO_CREATOR",
 			"actionid": 1443,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "WORKS_MASTER_CREATOR",
-			"actionid": 954,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -23182,12 +23152,6 @@
 		},
 		{
 			"rolecode": "UC_EMP",
-			"actionid": 954,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "UC_EMP",
 			"actionid": 2099,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26945,12 +26909,6 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2400,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_CREATOR",
-			"actionid": 954,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
