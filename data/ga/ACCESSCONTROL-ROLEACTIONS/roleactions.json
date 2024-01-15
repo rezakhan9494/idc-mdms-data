@@ -26787,18 +26787,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMP_CREATOR",
-			"actionid": 2422,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_APPROVER",
-			"actionid": 2422,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2422,
 			"actioncode": "",
