@@ -5616,17 +5616,6 @@
 			"path": "Administration.Update Password"
 		},
 		{
-			"id": 700,
-			"name": "UpdatePasswordForNonLoggedInUser",
-			"url": "/user/password/nologin/_update",
-			"displayName": "UpdatePassword For NonLogged InUser",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.UpdatePasswordForNonLoggedInUser"
-		},
-		{
 			"id": 702,
 			"name": "UpdateCollection",
 			"url": "/billing-service/demand/collection/_update",

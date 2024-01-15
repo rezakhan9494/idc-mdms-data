@@ -3274,12 +3274,6 @@
 		},
 		{
 			"rolecode": "SUPERUSER",
-			"actionid": 700,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUPERUSER",
 			"actionid": 298,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -13913,30 +13907,6 @@
 		{
 			"rolecode": "DGRO",
 			"actionid": 699,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 700,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 700,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "GRO",
-			"actionid": 700,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "DGRO",
-			"actionid": 700,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
