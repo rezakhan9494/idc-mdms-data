@@ -3153,12 +3153,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "SUPERUSER",
-			"actionid": 696,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 289,
 			"actioncode": "",
@@ -15521,18 +15515,6 @@
 		{
 			"rolecode": "SYS_INTEGRATOR_FINANCE",
 			"actionid": 926,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SYS_INTEGRATOR_WATER_SEW",
-			"actionid": 696,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SYS_INTEGRATOR_FINANCE",
-			"actionid": 696,
 			"actioncode": "",
 			"tenantId": "ga"
 		},

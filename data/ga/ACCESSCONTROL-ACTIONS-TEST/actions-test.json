@@ -5583,17 +5583,6 @@
 			"path": "Administration.Create Citizen"
 		},
 		{
-			"id": 696,
-			"name": "Get User",
-			"url": "/user/_details",
-			"displayName": "Get User Details",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Get User"
-		},
-		{
 			"id": 698,
 			"name": "Profile Update",
 			"url": "/user/profile/_update",
