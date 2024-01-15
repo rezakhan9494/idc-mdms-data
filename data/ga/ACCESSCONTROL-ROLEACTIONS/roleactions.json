@@ -23667,30 +23667,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2150,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "GRO",
-			"actionid": 2150,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "DGRO",
-			"actionid": 2150,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "CSR",
-			"actionid": 2150,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "UC_EMP",
 			"actionid": 2151,
 			"actioncode": "",
@@ -24353,12 +24329,6 @@
 		{
 			"rolecode": "PT_FIELD_INSPECTOR",
 			"actionid": 2122,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "PT_FIELD_INSPECTOR",
-			"actionid": 2150,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
