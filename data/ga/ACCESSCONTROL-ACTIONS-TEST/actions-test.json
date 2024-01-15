@@ -21673,17 +21673,6 @@
 			"path": "Administration.CreateEmployee"
 		},
 		{
-			"id": 2407,
-			"name": "MDMSSearch",
-			"url": "/egov-mdms-service/v1/_search",
-			"displayName": "MDMS Search",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.MDMSSearch"
-		},
-		{
 			"id": 2408,
 			"name": "SearchMasterData",
 			"url": "/egov-mdms-service/v1/_search",

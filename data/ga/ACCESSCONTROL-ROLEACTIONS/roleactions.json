@@ -26770,12 +26770,6 @@
 		},
 		{
 			"rolecode": "EMP_CREATOR",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_CREATOR",
 			"actionid": 2408,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26818,12 +26812,6 @@
 		},
 		{
 			"rolecode": "EMP_APPROVER",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_APPROVER",
 			"actionid": 2408,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26861,12 +26849,6 @@
 		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2405,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_VERIFIER",
-			"actionid": 2407,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -28037,54 +28019,6 @@
 		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 695,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "APPLICANT",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ALLOTTEE",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "LESSEE",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFERRER",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFEREE",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUB_LESSEE",
-			"actionid": 2407,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ARCHITECT",
-			"actionid": 2407,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
