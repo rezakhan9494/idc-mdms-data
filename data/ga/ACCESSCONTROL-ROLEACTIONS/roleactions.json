@@ -26785,12 +26785,6 @@
 			"actionid": 2429,
 			"actioncode": "",
 			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 2430,
-			"actioncode": "",
-			"tenantId": "ga"
 		}
 	]
 }
