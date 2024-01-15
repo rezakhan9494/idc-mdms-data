@@ -21511,7 +21511,7 @@
 		{
 			"id": 2404,
 			"name": "UploadFile",
-			"url": "/egov-filestore/v1/files",
+			"url": "/filestore/v1/files",
 			"displayName": "Upload file",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21522,7 +21522,7 @@
 		{
 			"id": 2405,
 			"name": "GetUploadedFileUrl",
-			"url": "/egov-filestore/v1/files/url",
+			"url": "/filestore/v1/files/url",
 			"displayName": "Get uploaded file url",
 			"orderNumber": 1,
 			"enabled": true,
@@ -21598,14 +21598,14 @@
 		},
 		{
 			"id": 2413,
-			"name": "AutoEscalateBuisnessService",
-			"url": "/egov-workflow-v2/egov-wf/auto/{businessService}/_escalate",
-			"displayName": "Auto Escalation of Business Service",
+			"name": "workflowInbox",
+			"url": "/egov-workflow-v2/egov-wf/_inbox",
+			"displayName": "Workflow Inbox",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.AutoEscalateBuisnessService"
+			"path": "Administration.workflowInbox"
 		},
 		{
 			"id": 2414,
