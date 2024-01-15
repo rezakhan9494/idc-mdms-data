@@ -16906,24 +16906,6 @@
 		},
 		{
 			"rolecode": "SUPERUSER",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUPERUSER",
 			"actionid": 1744,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -22245,12 +22227,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "FSM_DSO",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "FSM_EMP_FSTPO",
 			"actionid": 1729,
 			"actioncode": "",
@@ -22259,12 +22235,6 @@
 		{
 			"rolecode": "FSM_EMP_FSTPO",
 			"actionid": 1730,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "FSM_EMP_FSTPO",
-			"actionid": 1743,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -23969,12 +23939,6 @@
 		{
 			"rolecode": "PT_FIELD_INSPECTOR",
 			"actionid": 1730,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "PT_FIELD_INSPECTOR",
-			"actionid": 1743,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -25877,36 +25841,6 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2314,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TL_CEMP",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TL_FIELD_INSPECTOR",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TL_CREATOR",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TL_APPROVER",
-			"actionid": 1743,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TL_DOC_VERIFIER",
-			"actionid": 1743,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
