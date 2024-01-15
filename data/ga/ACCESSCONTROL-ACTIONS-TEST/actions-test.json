@@ -21629,17 +21629,6 @@
 			"path": ""
 		},
 		{
-			"id": 701,
-			"name": "UserLogout",
-			"url": "/user/_logout",
-			"displayName": "UserLogout",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.UserLogout"
-		},
-		{
 			"id": 695,
 			"name": "SearchUserDetailsV1",
 			"url": "/user/v1/_search",

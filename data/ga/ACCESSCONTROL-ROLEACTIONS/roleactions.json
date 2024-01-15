@@ -3406,12 +3406,6 @@
 		},
 		{
 			"rolecode": "SUPERUSER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUPERUSER",
 			"actionid": 702,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -8285,18 +8279,6 @@
 		{
 			"rolecode": "SUPERUSER",
 			"actionid": 862,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 701,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -13900,18 +13882,6 @@
 		},
 		{
 			"rolecode": "GRO",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "DGRO",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "GRO",
 			"actionid": 698,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -18387,12 +18357,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "CSR",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1738,
 			"actioncode": "",
@@ -20877,20 +20841,8 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "FIRE_NOC_APPROVER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "AIRPORT_AUTHORITY_APPROVER",
 			"actionid": 1766,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "AIRPORT_AUTHORITY_APPROVER",
-			"actionid": 701,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -21249,32 +21201,14 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "BPA_VERIFIER_L1",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "BPA_FIELD_INSPECTOR",
 			"actionid": 2026,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "BPA_FIELD_INSPECTOR",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "BPA_NOC_VERIFIER",
 			"actionid": 2026,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_NOC_VERIFIER",
-			"actionid": 701,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -21347,12 +21281,6 @@
 		{
 			"rolecode": "BPA_APPROVER",
 			"actionid": 2029,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_APPROVER",
-			"actionid": 701,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -22990,12 +22918,6 @@
 		},
 		{
 			"rolecode": "UC_EMP",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "UC_EMP",
 			"actionid": 704,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -24593,12 +24515,6 @@
 		{
 			"rolecode": "PT_FIELD_INSPECTOR",
 			"actionid": 2121,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "PT_FIELD_INSPECTOR",
-			"actionid": 701,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -27015,66 +26931,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ARCHITECT",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_VERIFIER_L1",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_APPROVER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_INITIATOR",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_APPROVER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EU_VERIFIER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EU_APPROVER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_VERIFIER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_APPROVER",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_CREATOR",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2401,
 			"actioncode": "",
@@ -28006,12 +27862,6 @@
 		},
 		{
 			"rolecode": "BPA_VERIFIER_L2",
-			"actionid": 701,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_VERIFIER_L2",
 			"actionid": 2029,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28055,12 +27905,6 @@
 		{
 			"rolecode": "BPA_VERIFIER_L2",
 			"actionid": 2195,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_VERIFIER_L2",
-			"actionid": 701,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
