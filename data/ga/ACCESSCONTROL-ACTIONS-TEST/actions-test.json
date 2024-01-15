@@ -10618,18 +10618,6 @@
 			"path": ""
 		},
 		{
-			"id": 1528,
-			"name": "FilestoreUrl",
-			"url": "/filestore/v1/files/url",
-			"displayName": "Filestore Url",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "filestore url",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1529,
 			"name": "LocalizationMessagesCreate",
 			"url": "/localization/messages/v1/_create",
