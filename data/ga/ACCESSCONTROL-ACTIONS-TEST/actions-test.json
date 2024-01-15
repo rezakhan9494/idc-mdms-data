@@ -5583,17 +5583,6 @@
 			"path": "Administration.Create Citizen"
 		},
 		{
-			"id": 696,
-			"name": "Get User",
-			"url": "/user/_details",
-			"displayName": "Get User Details",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Get User"
-		},
-		{
 			"id": 698,
 			"name": "Profile Update",
 			"url": "/user/profile/_update",
@@ -5603,28 +5592,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.Profile Update"
-		},
-		{
-			"id": 699,
-			"name": "Update Password",
-			"url": "/user/password/_update",
-			"displayName": "Update Password",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Update Password"
-		},
-		{
-			"id": 700,
-			"name": "UpdatePasswordForNonLoggedInUser",
-			"url": "/user/password/nologin/_update",
-			"displayName": "UpdatePassword For NonLogged InUser",
-			"orderNumber": 1,
-			"enabled": false,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.UpdatePasswordForNonLoggedInUser"
 		},
 		{
 			"id": 702,
@@ -7195,18 +7162,6 @@
 			"serviceCode": "PTIS_REPORTS",
 			"code": "null",
 			"path": "Property Tax.PTIS Reports.PT Report V1 Metadata"
-		},
-		{
-			"id": 954,
-			"name": "MDMS Search",
-			"url": "/egov-mdms-service/v1/_search",
-			"displayName": "MDMS Search",
-			"orderNumber": 0,
-			"parentModule": "306",
-			"enabled": false,
-			"serviceCode": "MDMS Search",
-			"code": "null",
-			"path": ""
 		},
 		{
 			"id": 955,
@@ -10663,18 +10618,6 @@
 			"path": ""
 		},
 		{
-			"id": 1528,
-			"name": "FilestoreUrl",
-			"url": "/filestore/v1/files/url",
-			"displayName": "Filestore Url",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "filestore url",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1529,
 			"name": "LocalizationMessagesCreate",
 			"url": "/localization/messages/v1/_create",
@@ -13193,18 +13136,6 @@
 			"queryParams": ""
 		},
 		{
-			"id": 1729,
-			"name": "Workflow transition",
-			"url": "/egov-workflow-v2/egov-wf/process/_transition",
-			"parentModule": "",
-			"displayName": "Workflow transition",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-workflow-v2",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1730,
 			"name": "Workflow search",
 			"url": "/egov-workflow-v2/egov-wf/process/_search",
@@ -13374,18 +13305,6 @@
 			"path": ""
 		},
 		{
-			"id": 1743,
-			"name": "BusinessService Search",
-			"url": "/egov-workflow-v2/egov-wf/businessservice/_search",
-			"parentModule": "",
-			"displayName": "BusinessService Search",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-workflow-v2",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1744,
 			"name": "Financial Contractor bill create",
 			"navigationURL": "services/EGF/contractorbill/newform",
@@ -13468,42 +13387,6 @@
 			"navigationURL": "contact-us",
 			"leftIcon": "communication-call",
 			"rightIcon": ""
-		},
-		{
-			"id": 1750,
-			"name": "Employee Create",
-			"url": "/egov-hrms/employees/_create",
-			"parentModule": "egov-hrms",
-			"displayName": "Employee Create",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-hrms",
-			"code": "null",
-			"path": ""
-		},
-		{
-			"id": 1751,
-			"name": "Employee Update",
-			"url": "/egov-hrms/employees/_update",
-			"parentModule": "egov-hrms",
-			"displayName": "Employee Update",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-hrms",
-			"code": "null",
-			"path": ""
-		},
-		{
-			"id": 1752,
-			"name": "Employee Search",
-			"url": "/egov-hrms/employees/_search",
-			"parentModule": "egov-hrms",
-			"displayName": "Employee Search",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-hrms",
-			"code": "null",
-			"path": ""
 		},
 		{
 			"id": 1753,
@@ -16878,18 +16761,6 @@
 			"queryParams": ""
 		},
 		{
-			"id": 2026,
-			"name": "WorkflowProcessCount",
-			"url": "/egov-workflow-v2/egov-wf/process/_count",
-			"displayName": "Workflow Count",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 2027,
 			"name": "ReceiptCancellation",
 			"url": "url",
@@ -17993,18 +17864,6 @@
 			"path": ""
 		},
 		{
-			"id": 2117,
-			"name": "WorkflowProcessStatusCount",
-			"url": "/egov-workflow-v2/egov-wf/process/_statuscount",
-			"displayName": "Workflow Status Count",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 2118,
 			"name": "Water and Sewerage receipt search",
 			"url": "/egov-pdf/download/WNS/wnsreceipt",
@@ -18380,18 +18239,6 @@
 			"serviceCode": "MCOLLECTCHALLANREGISTERMETADATA",
 			"code": "null",
 			"path": "Challan Register"
-		},
-		{
-			"id": 2150,
-			"name": "Workflow Escalation search",
-			"url": "/egov-workflow-v2/egov-wf/escalate/_search",
-			"parentModule": "",
-			"displayName": "Workflow Escalation search",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-workflow-v2",
-			"code": "null",
-			"path": ""
 		},
 		{
 			"id": 2151,
@@ -18919,18 +18766,6 @@
 			"orderNumber": 0,
 			"enabled": false,
 			"serviceCode": "DSS",
-			"code": "null",
-			"path": ""
-		},
-		{
-			"id": 2195,
-			"name": "FilestoreUrl",
-			"url": "/filestore/v1/files",
-			"displayName": "Filestore Url",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "filestore url",
 			"code": "null",
 			"path": ""
 		},
@@ -21641,17 +21476,6 @@
 			"path": ""
 		},
 		{
-			"id": 701,
-			"name": "UserLogout",
-			"url": "/user/_logout",
-			"displayName": "UserLogout",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.UserLogout"
-		},
-		{
 			"id": 695,
 			"name": "SearchUserDetailsV1",
 			"url": "/user/v1/_search",
@@ -21672,17 +21496,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.CheckAvailabilty"
-		},
-		{
-			"id": 2402,
-			"name": "SearchAddressByPostalCode",
-			"url": "/user/utils/postaladdress/pincode/{pincode}",
-			"displayName": "Search Address By Postal Code",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.SearchAddressByPostalCode"
 		},
 		{
 			"id": 2403,
@@ -21727,17 +21540,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.CreateEmployee"
-		},
-		{
-			"id": 2407,
-			"name": "MDMSSearch",
-			"url": "/egov-mdms-service/v1/_search",
-			"displayName": "MDMS Search",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.MDMSSearch"
 		},
 		{
 			"id": 2408,
