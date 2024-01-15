@@ -26740,12 +26740,6 @@
 		},
 		{
 			"rolecode": "EMP_CREATOR",
-			"actionid": 2402,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_CREATOR",
 			"actionid": 2403,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26788,12 +26782,6 @@
 		},
 		{
 			"rolecode": "EMP_APPROVER",
-			"actionid": 2402,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_APPROVER",
 			"actionid": 2403,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26825,12 +26813,6 @@
 		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2401,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_VERIFIER",
-			"actionid": 2402,
 			"actioncode": "",
 			"tenantId": "ga"
 		},

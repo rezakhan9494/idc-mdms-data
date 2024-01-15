@@ -21618,17 +21618,6 @@
 			"path": "Administration.CheckAvailabilty"
 		},
 		{
-			"id": 2402,
-			"name": "SearchAddressByPostalCode",
-			"url": "/user/utils/postaladdress/pincode/{pincode}",
-			"displayName": "Search Address By Postal Code",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.SearchAddressByPostalCode"
-		},
-		{
 			"id": 2403,
 			"name": "GetUserDetails",
 			"url": "/user/_details",
