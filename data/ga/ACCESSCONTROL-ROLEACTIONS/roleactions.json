@@ -26074,12 +26074,6 @@
 		},
 		{
 			"rolecode": "EMP_CREATOR",
-			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_CREATOR",
 			"actionid": 2406,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26087,12 +26081,6 @@
 		{
 			"rolecode": "EMP_APPROVER",
 			"actionid": 2401,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_APPROVER",
-			"actionid": 2403,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -26116,12 +26104,6 @@
 		},
 		{
 			"rolecode": "EMP_VERIFIER",
-			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMP_VERIFIER",
 			"actionid": 2404,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26129,36 +26111,6 @@
 		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2408,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ARCHITECT",
-			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_VERIFIER_L1",
-			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_APPROVER",
-			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_INITIATOR",
-			"actionid": 2403,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_APPROVER",
-			"actionid": 2403,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
