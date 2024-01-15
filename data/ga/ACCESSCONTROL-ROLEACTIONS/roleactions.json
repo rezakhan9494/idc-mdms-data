@@ -16798,24 +16798,6 @@
 		},
 		{
 			"rolecode": "EMPLOYEE",
-			"actionid": 1729,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 1729,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "GRO",
-			"actionid": 1729,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
 			"actionid": 1730,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -22216,19 +22198,7 @@
 		},
 		{
 			"rolecode": "FSM_DSO",
-			"actionid": 1729,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "FSM_DSO",
 			"actionid": 1730,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "FSM_EMP_FSTPO",
-			"actionid": 1729,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
