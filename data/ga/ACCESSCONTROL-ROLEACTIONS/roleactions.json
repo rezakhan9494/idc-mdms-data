@@ -26367,12 +26367,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2413,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "BPA_VERIFIER_L2",
 			"actionid": 2414,
 			"actioncode": "",
@@ -26494,48 +26488,6 @@
 		},
 		{
 			"rolecode": "ENTERPRISE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "APPLICANT",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ALLOTTEE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "LESSEE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFERRER",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFEREE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUB_LESSEE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
 			"actionid": 2416,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26667,6 +26619,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2424,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2425,
 			"actioncode": "",
@@ -26715,6 +26673,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2425,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2427,
 			"actioncode": "",
@@ -26794,6 +26758,12 @@
 		},
 		{
 			"rolecode": "SUB_LESSEE",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
 			"actionid": 2428,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26842,6 +26812,12 @@
 		},
 		{
 			"rolecode": "EMPLOYEE",
+			"actionid": 2429,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
 			"actionid": 2429,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27023,6 +26999,30 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2448,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2404,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2404,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2405,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2405,
 			"actioncode": "",
 			"tenantId": "ga"
 		}

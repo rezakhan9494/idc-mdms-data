@@ -21597,17 +21597,6 @@
 			"path": "Administration.BusinessServiceUpdate"
 		},
 		{
-			"id": 2413,
-			"name": "workflowInbox",
-			"url": "/egov-workflow-v2/egov-wf/_inbox",
-			"displayName": "Workflow Inbox",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.workflowInbox"
-		},
-		{
 			"id": 2414,
 			"name": "AutoTestBuisnessService",
 			"url": "/egov-workflow-v2/egov-wf/auto/{businessService}/_test",
