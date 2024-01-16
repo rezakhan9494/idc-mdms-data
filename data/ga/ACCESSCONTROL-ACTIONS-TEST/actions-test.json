@@ -21997,7 +21997,7 @@
 			"id": 2444,
 			"name": "employeeObpasMyApplication",
 			"url": "menu",
-			"displayName": "My Appliacations",
+			"displayName": "My Applications",
 			"orderNumber": 2,
 			"parentModule": "",
 			"enabled": true,
