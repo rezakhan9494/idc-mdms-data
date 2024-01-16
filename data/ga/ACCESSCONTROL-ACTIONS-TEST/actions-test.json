@@ -22002,7 +22002,7 @@
 			"id": 2445,
 			"name": "employeeCreation",
 			"url": "menu",
-			"displayName": "Employee Creation",
+			"displayName": "Employee Registration",
 			"orderNumber": 3,
 			"parentModule": "",
 			"enabled": true,
