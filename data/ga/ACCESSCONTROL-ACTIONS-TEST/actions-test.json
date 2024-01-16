@@ -21960,6 +21960,38 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.employeeWorkflowProcessInitiate"
+		},
+		{
+			"id": 2442,
+			"name": "architectHome",
+			"url": "menu",
+			"displayName": "Home",
+			"orderNumber": 1,
+			"parentModule": "",
+			"enabled": true,
+			"serviceCode": "",
+			"code": "",
+			"path": "Home",
+			"navigationURL": "/architectdashboard",
+			"leftIcon": "",
+			"rightIcon": "",
+			"queryParams": ""
+		},
+		{
+			"id": 2443,
+			"name": "architectScrutinyTool",
+			"url": "menu",
+			"displayName": "Scrutiny Tool",
+			"orderNumber": 1,
+			"parentModule": "",
+			"enabled": true,
+			"serviceCode": "",
+			"code": "",
+			"path": "OBPAS.architectScrutinyTool",
+			"navigationURL": "/bpa/scrutinyFlowScreen",
+			"leftIcon": "",
+			"rightIcon": "",
+			"queryParams": ""
 		}
 	]
 }
