@@ -26259,6 +26259,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2422,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2423,
 			"actioncode": "",
