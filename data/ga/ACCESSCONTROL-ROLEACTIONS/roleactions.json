@@ -27025,6 +27025,30 @@
 			"actionid": 2448,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2404,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2404,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2405,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2405,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
