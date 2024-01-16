@@ -21880,7 +21880,7 @@
 			"serviceCode": "",
 			"code": "",
 			"path": "OBPAS.applyForBuildingPlanApproval",
-			"navigationURL": "/bpa/applyfortechnicalclearance",
+			"navigationURL": "/bpa/technicalClearance",
 			"leftIcon": "",
 			"rightIcon": "",
 			"queryParams": ""
