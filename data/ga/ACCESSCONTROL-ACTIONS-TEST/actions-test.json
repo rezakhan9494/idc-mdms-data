@@ -22018,7 +22018,7 @@
 			"id": 2446,
 			"name": "archtitectCreation",
 			"url": "menu",
-			"displayName": "Architect Creation",
+			"displayName": "Architect Registration",
 			"orderNumber": 4,
 			"parentModule": "",
 			"enabled": true,
