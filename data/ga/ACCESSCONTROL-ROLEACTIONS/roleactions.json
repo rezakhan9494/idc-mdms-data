@@ -26403,6 +26403,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "SUB_LESSEE",
 			"actionid": 2403,
 			"actioncode": "",
@@ -26890,6 +26896,12 @@
 		},
 		{
 			"rolecode": "EMPLOYEE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
 			"actionid": 2439,
 			"actioncode": "",
 			"tenantId": "ga"
