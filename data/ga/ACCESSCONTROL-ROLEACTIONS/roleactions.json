@@ -26673,6 +26673,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2425,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2427,
 			"actioncode": "",
