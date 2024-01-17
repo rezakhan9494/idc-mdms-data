@@ -21880,7 +21880,7 @@
 			"serviceCode": "",
 			"code": "",
 			"path": "OBPAS.applyForBuildingPlanApproval",
-			"navigationURL": "/bpa/technicalClearance",
+			"navigationURL": "/obpas/technicalClearance",
 			"leftIcon": "",
 			"rightIcon": "",
 			"queryParams": ""
@@ -21977,7 +21977,7 @@
 			"serviceCode": "",
 			"code": "",
 			"path": "OBPAS.architectScrutinyTool",
-			"navigationURL": "/bpa/scrutinyFlowScreen",
+			"navigationURL": "/obpas/scrutinyTool",
 			"leftIcon": "",
 			"rightIcon": "",
 			"queryParams": ""
