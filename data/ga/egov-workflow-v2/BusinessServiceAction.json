@@ -10,7 +10,7 @@
 		},
 		{
 			"code": "UPDATE",
-			"name": "Update",
+			"name": "Send to Verifier",
 			"description": "",
 			"active": true
 		},
