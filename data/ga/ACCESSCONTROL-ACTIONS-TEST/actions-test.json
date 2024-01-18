@@ -22063,7 +22063,7 @@
 			"queryParams": ""
 		},
 		{
-			"id": 2448,
+			"id": 2449,
 			"name": "applyForPlot",
 			"url": "dashboard-cards",
 			"displayName": "Apply for Plot",
@@ -22082,7 +22082,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2449,
+			"id": 2450,
 			"name": "viewPlotList",
 			"url": "dashboard-cards",
 			"displayName": "View Plot List",
@@ -22101,7 +22101,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2450,
+			"id": 2451,
 			"name": "myApplications",
 			"url": "dashboard-cards",
 			"displayName": "My Applications",
@@ -22120,7 +22120,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2451,
+			"id": 2452,
 			"name": "estateSampleSubmenu",
 			"url": "dashboard-cards",
 			"displayName": "Estate Sample Sub-Menu",
@@ -22139,7 +22139,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2452,
+			"id": 2453,
 			"name": "applyFortechnicalClearance",
 			"url": "dashboard-cards",
 			"displayName": "Apply for Technical Clearance",
@@ -22158,7 +22158,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2453,
+			"id": 2454,
 			"name": "applyForCompletionOrder",
 			"url": "dashboard-cards",
 			"displayName": "Apply for Completion Order",
@@ -22177,7 +22177,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2454,
+			"id": 2455,
 			"name": "myApplications",
 			"url": "dashboard-cards",
 			"displayName": "My Applications",
@@ -22196,7 +22196,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2455,
+			"id": 2456,
 			"name": "pendingPayments",
 			"url": "dashboard-cards",
 			"displayName": "Pending Payments",
@@ -22215,7 +22215,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2456,
+			"id": 2457,
 			"name": "viewPaymentHistory",
 			"url": "dashboard-cards",
 			"displayName": "View Payment History",
@@ -22234,7 +22234,7 @@
 			"iconName": "fa-file"
 		},
 		{
-			"id": 2457,
+			"id": 2458,
 			"name": "applyForLeaseDeed",
 			"url": "dashboard-cards",
 			"displayName": "Apply for Lease Deed",
