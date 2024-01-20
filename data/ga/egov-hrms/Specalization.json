@@ -16,6 +16,11 @@
       "code": "COMMERCE",
       "name": "Commerce",
       "active": true
+    },
+    {
+      "code": "N/A",
+      "name": "N/A",
+      "active": true
     }
   ]
 }
