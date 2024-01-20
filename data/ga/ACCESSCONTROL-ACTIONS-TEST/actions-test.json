@@ -21838,22 +21838,6 @@
 			"queryParams": ""
 		},
 		{
-			"id": 2434,
-			"name": "estateSampleSubmenu",
-			"url": "menu",
-			"displayName": "Estate Sample Sub-Menu",
-			"orderNumber": 5,
-			"parentModule": "",
-			"enabled": true,
-			"serviceCode": "",
-			"code": "",
-			"path": "Estate.estateSampleSubmenu",
-			"navigationURL": "/estate/estateSampleSubmenu",
-			"leftIcon": "",
-			"rightIcon": "",
-			"queryParams": ""
-		},
-		{
 			"id": 2435,
 			"name": "applyForLeaseDeed",
 			"url": "menu",
@@ -22098,7 +22082,7 @@
 			"queryParams": "",
 			"backgroundColor": "#E3F0CF",
 			"iconColor": "#516900",
-			"iconName": "fa-file"
+			"iconName": "fa-list"
 		},
 		{
 			"id": 2451,
@@ -22117,26 +22101,7 @@
 			"queryParams": "",
 			"backgroundColor": "#E3F0CF",
 			"iconColor": "#516900",
-			"iconName": "fa-file"
-		},
-		{
-			"id": 2452,
-			"name": "estateSampleSubmenu",
-			"url": "dashboard-cards",
-			"displayName": "Estate Sample Sub-Menu",
-			"orderNumber": 40,
-			"parentModule": "",
-			"enabled": true,
-			"serviceCode": "",
-			"code": "",
-			"path": "Estate.estateSampleSubmenu",
-			"navigationURL": "/estate/estateSampleSubmenu",
-			"leftIcon": "",
-			"rightIcon": "",
-			"queryParams": "",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file"
+			"iconName": "fa-file-text"
 		},
 		{
 			"id": 2453,
@@ -22155,7 +22120,7 @@
 			"queryParams": "",
 			"backgroundColor": "#DEE5D3",
 			"iconColor": "#516900",
-			"iconName": "fa-file"
+			"iconName": "fa-building-o"
 		},
 		{
 			"id": 2454,
@@ -22174,7 +22139,7 @@
 			"queryParams": "",
 			"backgroundColor": "#DEE5D3",
 			"iconColor": "#516900",
-			"iconName": "fa-file"
+			"iconName": "fa-clone"
 		},
 		{
 			"id": 2455,
@@ -22193,7 +22158,7 @@
 			"queryParams": "",
 			"backgroundColor": "#DEE5D3",
 			"iconColor": "#516900",
-			"iconName": "fa-file"
+			"iconName": "fa-file-text"
 		},
 		{
 			"id": 2456,
@@ -22212,7 +22177,7 @@
 			"queryParams": "",
 			"backgroundColor": "#E7EEC9",
 			"iconColor": "#809914",
-			"iconName": "fa-file"
+			"iconName": "fa-hourglass-o"
 		},
 		{
 			"id": 2457,
@@ -22231,7 +22196,7 @@
 			"queryParams": "",
 			"backgroundColor": "#E7EEC9",
 			"iconColor": "#809914",
-			"iconName": "fa-file"
+			"iconName": "fa-hourglass-o"
 		},
 		{
 			"id": 2458,
@@ -22250,7 +22215,7 @@
 			"queryParams": "",
 			"backgroundColor": "#E0EDE1",
 			"iconColor": "#6F957A",
-			"iconName": "fa-file"
+			"iconName": "fa-hourglass-o"
 		},
 		{
 			"id": 2459,
