@@ -22251,6 +22251,22 @@
 			"backgroundColor": "#E0EDE1",
 			"iconColor": "#6F957A",
 			"iconName": "fa-file"
+		},
+		{
+			"id": 2459,
+			"name": "enterpriseHome",
+			"url": "menu",
+			"displayName": "Home",
+			"orderNumber": 1,
+			"parentModule": "",
+			"enabled": true,
+			"serviceCode": "",
+			"code": "",
+			"path": "Home",
+			"navigationURL": "/enterprisedashboard",
+			"leftIcon": "",
+			"rightIcon": "",
+			"queryParams": ""
 		}
 	]
 }
