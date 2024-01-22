@@ -1,0 +1,42 @@
+{
+	"moduleName": "goa-idc-documents",
+	"tenantId": "ga",
+	"documents": [
+		{
+			"orderNumber": "10",
+			"parentTitle": "Acts & Regulations",
+			"documentName": "Goa Industrial Development Act 1965",
+			"documentReferenceId": "21507305-8cb6-4f11-a95a-fb61d8cf53b3"
+		},
+		{
+			"orderNumber": "20",
+			"parentTitle": "Acts & Regulations",
+			"documentName": "Goa Industrial Development Corporation (Allotment, Transfer and Sub-Lease) Regulation, 2023",
+			"documentReferenceId": "ef305eee-fe30-4b63-95f0-c2570f03b42a"
+		},
+		{
+			"orderNumber": "10",
+			"parentTitle": "Industrial Estates Development Plans",
+			"documentName": "Occupancy Certificate",
+			"documentReferenceId": ""
+		},
+		{
+			"orderNumber": "10",
+			"parentTitle": "User Manuals",
+			"documentName": "Estate",
+			"documentReferenceId": ""
+		},
+		{
+			"orderNumber": "20",
+			"parentTitle": "User Manuals",
+			"documentName": "OBPAS",
+			"documentReferenceId": ""
+		},
+		{
+			"orderNumber": "30",
+			"parentTitle": "User Manuals",
+			"documentName": "Engineering",
+			"documentReferenceId": ""
+		}
+	]
+}
