@@ -21740,7 +21740,6 @@
 			"path": "Administration.FetchUserAddressFromPincode"
 		},
 		{
-			
 			"id": 2427,
 			"name": "SearchWorkflowInboxTasks",
 			"url": "/egov-workflow-v2/egov-wf/_inbox",
@@ -21772,7 +21771,7 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UserLogout"
-		},		
+		},
 		{
 			"id": 2439,
 			"name": "userMenuSearch",
@@ -21976,6 +21975,266 @@
 			"backgroundColor": "#E0EDE1",
 			"iconColor": "#6F957A",
 			"iconName": "fa-hourglass-o"
+		},
+		{
+			"id": 2459,
+			"name": "home",
+			"url": "menu",
+			"displayName": "Home",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 1,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2460,
+			"name": "aboutUs",
+			"url": "menu",
+			"displayName": "About Us",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": "",
+			"subMenuChildActionIds": [
+				[
+					2466,
+					2467,
+					2468,
+					2469
+				]
+			]
+		},
+		{
+			"id": 2461,
+			"name": "plotDetails",
+			"url": "menu",
+			"displayName": "Plot Details",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 100,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2462,
+			"name": "eServices",
+			"url": "menu",
+			"displayName": "E-Services",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 150,
+			"enabled": true,
+			"navigationURL": "",
+			"subMenuChildActionIds": [
+				[
+					2470,
+					2471,
+					2472
+				],
+				[
+					2473,
+					2474,
+					2475
+				],
+				[
+					2476,
+					2477,
+					2478
+				],
+				[
+					2479,
+					2480,
+					2481
+				]
+			]
+		},
+		{
+			"id": 2463,
+			"name": "tenders",
+			"url": "menu",
+			"displayName": "Tenders",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 200,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2464,
+			"name": "downloads",
+			"url": "menu",
+			"displayName": "Downloads",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 200,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2465,
+			"name": "contactUs",
+			"url": "menu",
+			"displayName": "Contact Us",
+			"menuType": "MAIN_MENU_HEADER",
+			"orderNumber": 250,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2466,
+			"name": "aboutUs",
+			"url": "menu",
+			"displayName": "About Us",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2467,
+			"name": "aboutGoaIdc",
+			"url": "menu",
+			"displayName": "About Goa-IDC",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/aboutGoaIdc"
+		},
+		{
+			"id": 2468,
+			"name": "organizationStructure",
+			"url": "menu",
+			"displayName": "Organization Structure",
+			"menuType": "SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/organizationStructure"
+		},
+		{
+			"id": 2469,
+			"name": "whoIsWho",
+			"url": "menu",
+			"displayName": "Who is Who",
+			"menuType": "SUB_MENU",
+			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/whoIsWho"
+		},
+		{
+			"id": 2470,
+			"name": "estate",
+			"url": "menu",
+			"displayName": "Estate",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2471,
+			"name": "allotmentsOfPlots",
+			"url": "menu",
+			"displayName": "Allotments of Plots",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/allotmentsOfPlots"
+		},
+		{
+			"id": 2472,
+			"name": "leaseDeedPhysicalPossesion",
+			"url": "menu",
+			"displayName": "Lease Deed & Physical Possesion",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/leaseDeedPhysicalPossesion"
+		},
+		{
+			"id": 2473,
+			"name": "obpas",
+			"url": "menu",
+			"displayName": "OBPAS",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2474,
+			"name": "technicalClearance",
+			"url": "menu",
+			"displayName": "Technical Clearance",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/technicalClearance"
+		},
+		{
+			"id": 2475,
+			"name": "occupanyCertificate",
+			"url": "menu",
+			"displayName": "Occupany Certificate",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/occupanyCertificate"
+		},
+		{
+			"id": 2476,
+			"name": "engineering",
+			"url": "menu",
+			"displayName": "Engineering",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2477,
+			"name": "constructionLicence",
+			"url": "menu",
+			"displayName": "Construction Licence",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/constructionLicence"
+		},
+		{
+			"id": 2478,
+			"name": "inspections",
+			"url": "menu",
+			"displayName": "Inspections",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/inspections"
+		},
+		{
+			"id": 2479,
+			"name": "payments",
+			"url": "menu",
+			"displayName": "Payments",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2480,
+			"name": "landPremium",
+			"url": "menu",
+			"displayName": "Land Premium",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/landPremium"
+		},
+		{
+			"id": 2481,
+			"name": "leaseRent",
+			"url": "menu",
+			"displayName": "Lease Rent",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/leaseRent"
 		}
 	]
 }

@@ -26829,12 +26829,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "LESSEE",
-			"actionid": 2459,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2439,
 			"actioncode": "",
