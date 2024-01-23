@@ -22027,7 +22027,13 @@
 				[
 					2470,
 					2471,
-					2472
+					2472,
+					2514,
+					2515,
+					2516,
+					2517,
+					2518,
+					2519
 				],
 				[
 					2473,
@@ -22037,12 +22043,19 @@
 				[
 					2476,
 					2477,
-					2478
+					2478,
+					2520,
+					2521
 				],
 				[
 					2479,
 					2480,
-					2481
+					2481,
+					2523,
+					2524,
+					2525,
+					2526,
+					2527
 				]
 			]
 		},
@@ -22064,7 +22077,47 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 200,
 			"enabled": true,
-			"navigationURL": ""
+			"navigationURL": "",
+			"subMenuChildActionIds": [
+				[
+					2511,
+					2482,
+					2483
+				],
+				[
+					2512,
+					2484,
+					2485,
+					2486,
+					2487,
+					2488,
+					2489,
+					2490,
+					2491,
+					2492,
+					2493,
+					2494,
+					2495,
+					2496,
+					2497,
+					2498,
+					2499,
+					2500,
+					2501,
+					2502,
+					2503,
+					2504,
+					2505,
+					2506,
+					2507
+				],
+				[
+					2513,
+					2508,
+					2509,
+					2510
+				]
+			]
 		},
 		{
 			"id": 2465,
@@ -22074,7 +22127,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 250,
 			"enabled": true,
-			"navigationURL": ""
+			"navigationURL": "/contactus"
 		},
 		{
 			"id": 2466,
@@ -22094,7 +22147,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/aboutGoaIdc"
+			"navigationURL": "/aboutus"
 		},
 		{
 			"id": 2468,
@@ -22104,7 +22157,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/organizationStructure"
+			"navigationURL": ""
 		},
 		{
 			"id": 2469,
@@ -22114,7 +22167,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "/whoIsWho"
+			"navigationURL": ""
 		},
 		{
 			"id": 2470,
@@ -22134,7 +22187,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/allotmentsOfPlots"
+			"navigationURL": ""
 		},
 		{
 			"id": 2472,
@@ -22144,7 +22197,61 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/leaseDeedPhysicalPossesion"
+			"navigationURL": ""
+		},
+		{
+			"id": 2514,
+			"url": "menu",
+			"displayName": "Transfer",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2515,
+			"url": "menu",
+			"displayName": "Sub-Lease",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2516,
+			"url": "menu",
+			"displayName": "Surrender",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2517,
+			"url": "menu",
+			"displayName": "Mortgage",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2518,
+			"url": "menu",
+			"displayName": "Extension of Lease Term",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2519,
+			"url": "menu",
+			"displayName": "Grievance Redressal",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
 		},
 		{
 			"id": 2473,
@@ -22164,7 +22271,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/technicalClearance"
+			"navigationURL": "/obpas/technicalClearance"
 		},
 		{
 			"id": 2475,
@@ -22174,7 +22281,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/occupanyCertificate"
+			"navigationURL": ""
 		},
 		{
 			"id": 2476,
@@ -22194,7 +22301,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/constructionLicence"
+			"navigationURL": ""
 		},
 		{
 			"id": 2478,
@@ -22204,7 +22311,25 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/inspections"
+			"navigationURL": ""
+		},
+		{
+			"id": 2520,
+			"url": "menu",
+			"displayName": "Completion Order",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2521,
+			"url": "menu",
+			"displayName": "Water Connection",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
 		},
 		{
 			"id": 2479,
@@ -22224,7 +22349,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/landPremium"
+			"navigationURL": ""
 		},
 		{
 			"id": 2481,
@@ -22234,7 +22359,338 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/leaseRent"
+			"navigationURL": ""
+		},
+		{
+			"id": 2523,
+			"url": "menu",
+			"displayName": "Infrastructure Tax",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2524,
+			"url": "menu",
+			"displayName": "House Tax",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2525,
+			"url": "menu",
+			"displayName": "Processing Fee",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2526,
+			"url": "menu",
+			"displayName": "Construction License Fee",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2527,
+			"url": "menu",
+			"displayName": "Sub-Lease Fee",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2511,
+			"url": "menu",
+			"displayName": "Acts & Regulations",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 1,
+			"enabled": true
+		},
+		{
+			"id": 2482,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "10",
+			"parentTitle": "",
+			"displayName": "Goa Industrial Development Act 1965",
+			"documentReferenceId": "21507305-8cb6-4f11-a95a-fb61d8cf53b3"
+		},
+		{
+			"id": 2483,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "20",
+			"displayName": "Goa Industrial Development Corporation (Allotment, Transfer and Sub-Lease) Regulation, 2023",
+			"documentReferenceId": "ef305eee-fe30-4b63-95f0-c2570f03b42a"
+		},
+		{
+			"id": 2512,
+			"url": "menu",
+			"displayName": "Industrial Estates Development Plans",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 1,
+			"enabled": true
+		},
+		{
+			"id": 2484,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "10",
+			"displayName": "Bethora",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2485,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "20",
+			"displayName": "Bicholm",
+			"documentReferenceId": "430fc956-018b-4083-82cc-5e6bc113739c"
+		},
+		{
+			"id": 2486,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "30",
+			"displayName": "Canacona",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2487,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "40",
+			"displayName": "Colvale",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2488,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "50",
+			"displayName": "Corlim",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2489,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "60",
+			"displayName": "Cuncolim",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2490,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "70",
+			"displayName": "Dharabandoda",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2491,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "80",
+			"displayName": "Honda",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2492,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "90",
+			"displayName": "Kakoda",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2493,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "100",
+			"displayName": "Kundaim",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2494,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "110",
+			"displayName": "Latambarcem",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2495,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "120",
+			"displayName": "Madkaim",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2496,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "130",
+			"displayName": "Mapusa",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2497,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "140",
+			"displayName": "Margo",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2498,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "150",
+			"displayName": "Panchwadi",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2499,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "160",
+			"displayName": "Pilerne",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2500,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "170",
+			"displayName": "Pissurlem",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2501,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "180",
+			"displayName": "Quittol",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2502,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "190",
+			"displayName": "Sancoale",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2503,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "200",
+			"displayName": "Sanguem",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2504,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "210",
+			"displayName": "Shiroda",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2505,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "220",
+			"displayName": "Thivim",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2506,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "230",
+			"displayName": "Tuem",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2507,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "240",
+			"displayName": "Verna",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2513,
+			"url": "menu",
+			"displayName": "User Manuals",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 1,
+			"enabled": true
+		},
+		{
+			"id": 2508,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "10",
+			"displayName": "Estate",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2509,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "20",
+			"displayName": "OBPAS",
+			"documentReferenceId": ""
+		},
+		{
+			"id": 2510,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "30",
+			"displayName": "Engineering",
+			"documentReferenceId": ""
 		}
 	]
 }
