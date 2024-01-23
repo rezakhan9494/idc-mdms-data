@@ -22040,12 +22040,12 @@
 				[
 					2473,
 					2474,
-					2475
+					2529
 				],
 				[
 					2476,
 					2477,
-					2529,
+					2475,
 					2521
 				],
 				[
@@ -22397,7 +22397,7 @@
 		{
 			"id": 2525,
 			"url": "menu",
-			"displayName": "Processing Fee",
+			"displayName": "Processing Fees",
 			"menuType": "SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,

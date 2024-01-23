@@ -26977,6 +26977,60 @@
 			"actionid": 2458,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2471",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2472",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2514",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2515",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2516",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2517",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2518",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2522",
+			"actioncode": "",
+			"tenantId ": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": "2518",
+			"actioncode": "",
+			"tenantId ": "ga"
 		}
 	]
 }
