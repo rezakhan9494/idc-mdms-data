@@ -22033,18 +22033,19 @@
 					2516,
 					2517,
 					2518,
-					2519
+					2519,
+					2528,
+					2522
 				],
 				[
 					2473,
 					2474,
-					2475
+					2529
 				],
 				[
 					2476,
 					2477,
-					2478,
-					2520,
+					2475,
 					2521
 				],
 				[
@@ -22145,7 +22146,7 @@
 			"url": "menu",
 			"displayName": "About Goa-IDC",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/aboutus"
 		},
@@ -22155,7 +22156,7 @@
 			"url": "menu",
 			"displayName": "Organization Structure",
 			"menuType": "SUB_MENU",
-			"orderNumber": 20,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22165,7 +22166,7 @@
 			"url": "menu",
 			"displayName": "Who is Who",
 			"menuType": "SUB_MENU",
-			"orderNumber": 30,
+			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22181,66 +22182,82 @@
 		},
 		{
 			"id": 2471,
-			"name": "allotmentsOfPlots",
 			"url": "menu",
-			"displayName": "Allotments of Plots",
+			"displayName": "Apply for Plot",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2472,
-			"name": "leaseDeedPhysicalPossesion",
 			"url": "menu",
-			"displayName": "Lease Deed & Physical Possesion",
+			"displayName": "Apply for Lease Deed",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2514,
 			"url": "menu",
-			"displayName": "Transfer",
+			"displayName": "Apply for Transfer",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2515,
 			"url": "menu",
-			"displayName": "Sub-Lease",
+			"displayName": "Apply for Special Transfer",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2516,
 			"url": "menu",
-			"displayName": "Surrender",
+			"displayName": "Apply for Sub-Lease",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2517,
 			"url": "menu",
-			"displayName": "Mortgage",
+			"displayName": "Apply for Surrender",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 70,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2518,
 			"url": "menu",
-			"displayName": "Extension of Lease Term",
+			"displayName": "Apply for Mortage",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 80,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2522,
+			"url": "menu",
+			"displayName": "Apply for Extension of Lease Term",
+			"menuType": "SUB_MENU",
+			"orderNumber": 90,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2528,
+			"url": "menu",
+			"displayName": "Miscellaneous",
+			"menuType": "SUB_MENU",
+			"orderNumber": 100,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22249,7 +22266,7 @@
 			"url": "menu",
 			"displayName": "Grievance Redressal",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 110,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22267,19 +22284,18 @@
 			"id": 2474,
 			"name": "technicalClearance",
 			"url": "menu",
-			"displayName": "Technical Clearance",
+			"displayName": "Apply for Technical Clearance",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/obpas/technicalClearance"
 		},
 		{
 			"id": 2475,
-			"name": "occupanyCertificate",
 			"url": "menu",
-			"displayName": "Occupany Certificate",
+			"displayName": "Apply for Completion Order",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22289,7 +22305,7 @@
 			"url": "menu",
 			"displayName": "Engineering",
 			"menuType": "SUB_MENU_HEADER",
-			"orderNumber": 10,
+			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22299,26 +22315,16 @@
 			"url": "menu",
 			"displayName": "Construction Licence",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
-			"id": 2478,
-			"name": "inspections",
+			"id": 2529,
 			"url": "menu",
-			"displayName": "Inspections",
+			"displayName": "Occupancy Certificate",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
-			"enabled": true,
-			"navigationURL": ""
-		},
-		{
-			"id": 2520,
-			"url": "menu",
-			"displayName": "Completion Order",
-			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22327,7 +22333,7 @@
 			"url": "menu",
 			"displayName": "Water Connection",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22347,7 +22353,7 @@
 			"url": "menu",
 			"displayName": "Land Premium",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22357,7 +22363,7 @@
 			"url": "menu",
 			"displayName": "Lease Rent",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22366,7 +22372,7 @@
 			"url": "menu",
 			"displayName": "Infrastructure Tax",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22375,16 +22381,25 @@
 			"url": "menu",
 			"displayName": "House Tax",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2520,
+			"url": "menu",
+			"displayName": "Water Charges",
+			"menuType": "SUB_MENU",
+			"orderNumber": 51,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
 			"id": 2525,
 			"url": "menu",
-			"displayName": "Processing Fee",
+			"displayName": "Processing Fees",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22393,7 +22408,7 @@
 			"url": "menu",
 			"displayName": "Construction License Fee",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 70,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22402,7 +22417,7 @@
 			"url": "menu",
 			"displayName": "Sub-Lease Fee",
 			"menuType": "SUB_MENU",
-			"orderNumber": 10,
+			"orderNumber": 80,
 			"enabled": true,
 			"navigationURL": ""
 		},
@@ -22421,7 +22436,7 @@
 			"enabled": true,
 			"orderNumber": "10",
 			"parentTitle": "",
-			"displayName": "Goa Industrial Development Act 1965",
+			"displayName": "Goa Industrial Development Act, 1965",
 			"documentReferenceId": "21507305-8cb6-4f11-a95a-fb61d8cf53b3"
 		},
 		{
