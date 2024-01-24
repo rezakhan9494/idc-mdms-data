@@ -21808,7 +21808,7 @@
 		{
 			"id": 2449,
 			"name": "applyForPlot",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "Apply for Plot",
 			"orderNumber": 10,
 			"parentModule": "",
@@ -21827,7 +21827,7 @@
 		{
 			"id": 2450,
 			"name": "viewPlotList",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "View Plot List",
 			"orderNumber": 20,
 			"parentModule": "",
@@ -21846,7 +21846,7 @@
 		{
 			"id": 2451,
 			"name": "myApplications",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "My Applications",
 			"orderNumber": 30,
 			"parentModule": "",
@@ -21865,7 +21865,7 @@
 		{
 			"id": 2453,
 			"name": "applyFortechnicalClearance",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "Apply for Technical Clearance",
 			"orderNumber": 50,
 			"parentModule": "",
@@ -21884,7 +21884,7 @@
 		{
 			"id": 2454,
 			"name": "applyForCompletionOrder",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "Apply for Completion Order",
 			"orderNumber": 60,
 			"parentModule": "",
@@ -21903,7 +21903,7 @@
 		{
 			"id": 2455,
 			"name": "myApplications",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "My Applications",
 			"orderNumber": 70,
 			"parentModule": "",
@@ -21922,7 +21922,7 @@
 		{
 			"id": 2456,
 			"name": "pendingPayments",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "Pending Payments",
 			"orderNumber": 80,
 			"parentModule": "",
@@ -21941,7 +21941,7 @@
 		{
 			"id": 2457,
 			"name": "viewPaymentHistory",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "View Payment History",
 			"orderNumber": 90,
 			"parentModule": "",
@@ -21960,7 +21960,7 @@
 		{
 			"id": 2458,
 			"name": "applyForLeaseDeed",
-			"url": "dashboard-cards",
+			"url": "##dashboard-cards##",
 			"displayName": "Apply for Lease Deed",
 			"orderNumber": 100,
 			"parentModule": "",
@@ -22064,6 +22064,13 @@
 					2525,
 					2526,
 					2527
+				],
+				[
+					2534,
+					2530,
+					2531,
+					2532,
+					2533
 				]
 			]
 		},
@@ -22182,7 +22189,7 @@
 			"name": "estate",
 			"url": "menu",
 			"displayName": "Estate",
-			"menuType": "SUB_MENU_HEADER",
+			"menuType": "E_SERVICES_SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
@@ -22191,7 +22198,7 @@
 			"id": 2471,
 			"url": "menu",
 			"displayName": "Apply for Plot",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22200,7 +22207,7 @@
 			"id": 2472,
 			"url": "menu",
 			"displayName": "Apply for Lease Deed",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22209,7 +22216,7 @@
 			"id": 2514,
 			"url": "menu",
 			"displayName": "Apply for Transfer",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22218,7 +22225,7 @@
 			"id": 2515,
 			"url": "menu",
 			"displayName": "Apply for Special Transfer",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22227,7 +22234,7 @@
 			"id": 2516,
 			"url": "menu",
 			"displayName": "Apply for Sub-Lease",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22236,7 +22243,7 @@
 			"id": 2517,
 			"url": "menu",
 			"displayName": "Apply for Surrender",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22245,7 +22252,7 @@
 			"id": 2518,
 			"url": "menu",
 			"displayName": "Apply for Mortage",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 80,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22254,7 +22261,7 @@
 			"id": 2522,
 			"url": "menu",
 			"displayName": "Apply for Extension of Lease Term",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 90,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22263,7 +22270,7 @@
 			"id": 2528,
 			"url": "menu",
 			"displayName": "Miscellaneous",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 100,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22272,7 +22279,7 @@
 			"id": 2519,
 			"url": "menu",
 			"displayName": "Grievance Redressal",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 110,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22282,7 +22289,7 @@
 			"name": "obpas",
 			"url": "menu",
 			"displayName": "OBPAS",
-			"menuType": "SUB_MENU_HEADER",
+			"menuType": "E_SERVICES_SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
@@ -22292,7 +22299,7 @@
 			"name": "technicalClearance",
 			"url": "menu",
 			"displayName": "Apply for Technical Clearance",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/obpas/technicalClearance"
@@ -22301,7 +22308,7 @@
 			"id": 2475,
 			"url": "menu",
 			"displayName": "Apply for Completion Order",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22311,7 +22318,7 @@
 			"name": "engineering",
 			"url": "menu",
 			"displayName": "Engineering",
-			"menuType": "SUB_MENU_HEADER",
+			"menuType": "E_SERVICES_SUB_MENU_HEADER",
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": ""
@@ -22321,7 +22328,7 @@
 			"name": "constructionLicence",
 			"url": "menu",
 			"displayName": "Construction Licence",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22330,7 +22337,7 @@
 			"id": 2529,
 			"url": "menu",
 			"displayName": "Occupancy Certificate",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22339,7 +22346,7 @@
 			"id": 2521,
 			"url": "menu",
 			"displayName": "Water Connection",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22349,7 +22356,7 @@
 			"name": "payments",
 			"url": "menu",
 			"displayName": "Payments",
-			"menuType": "SUB_MENU_HEADER",
+			"menuType": "E_SERVICES_SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
@@ -22359,7 +22366,7 @@
 			"name": "landPremium",
 			"url": "menu",
 			"displayName": "Land Premium",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22369,7 +22376,7 @@
 			"name": "leaseRent",
 			"url": "menu",
 			"displayName": "Lease Rent",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22378,7 +22385,7 @@
 			"id": 2523,
 			"url": "menu",
 			"displayName": "Infrastructure Tax",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22387,7 +22394,7 @@
 			"id": 2524,
 			"url": "menu",
 			"displayName": "House Tax",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22396,7 +22403,7 @@
 			"id": 2520,
 			"url": "menu",
 			"displayName": "Water Charges",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 51,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22405,7 +22412,7 @@
 			"id": 2525,
 			"url": "menu",
 			"displayName": "Processing Fees",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22414,7 +22421,7 @@
 			"id": 2526,
 			"url": "menu",
 			"displayName": "Construction License Fee",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
 			"navigationURL": "/under-construction"
@@ -22423,8 +22430,53 @@
 			"id": 2527,
 			"url": "menu",
 			"displayName": "Sub-Lease Fee",
-			"menuType": "SUB_MENU",
+			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 80,
+			"enabled": true,
+			"navigationURL": "/under-construction"
+		},
+		{
+			"id": 2534,
+			"url": "menu",
+			"displayName": "User Management",
+			"menuType": "EMP_E_SERVICES_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2530,
+			"url": "menu",
+			"displayName": "Employee Registration",
+			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/usermanagement/employeecreation"
+		},
+		{
+			"id": 2531,
+			"url": "menu",
+			"displayName": "Architect Registration",
+			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/usermanagement/architectCreation"
+		},
+		{
+			"id": 2532,
+			"url": "menu",
+			"displayName": "Employee Search",
+			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"orderNumber": 40,
+			"enabled": true,
+			"navigationURL": "/under-construction"
+		},
+		{
+			"id": 2533,
+			"url": "menu",
+			"displayName": "Employee Activation/Deactivation",
+			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": "/under-construction"
 		},
