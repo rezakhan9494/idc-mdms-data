@@ -27103,6 +27103,18 @@
 			"actionid": 2533,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2536,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2537,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
