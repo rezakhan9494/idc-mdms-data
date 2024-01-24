@@ -27055,6 +27055,12 @@
 			"actionid": 2520,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2519,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
