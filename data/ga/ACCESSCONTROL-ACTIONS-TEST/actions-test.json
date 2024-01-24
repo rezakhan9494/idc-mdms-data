@@ -22083,6 +22083,10 @@
 					2531,
 					2532,
 					2533
+				],
+				[
+					2536,
+					2537
 				]
 			]
 		},
@@ -22491,6 +22495,24 @@
 			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": "/underconstruction"
+		},
+		{
+			"id": 2536,
+			"url": "menu",
+			"displayName": "OBPAS",
+			"menuType": "EMP_E_SERVICES_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2537,
+			"url": "menu",
+			"displayName": "Scrutiny Tool",
+			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/obpas/scrutinyTool"
 		},
 		{
 			"id": 2511,
