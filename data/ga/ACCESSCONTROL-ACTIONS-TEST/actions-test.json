@@ -22018,7 +22018,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 100,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2462,
@@ -22075,7 +22075,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 200,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2464,
@@ -22165,7 +22165,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2469,
@@ -22175,7 +22175,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2470,
@@ -22194,7 +22194,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2472,
@@ -22203,7 +22203,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2514,
@@ -22212,7 +22212,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2515,
@@ -22221,7 +22221,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2516,
@@ -22230,7 +22230,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2517,
@@ -22239,7 +22239,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2518,
@@ -22248,7 +22248,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 80,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2522,
@@ -22257,7 +22257,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 90,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2528,
@@ -22266,7 +22266,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 100,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2519,
@@ -22275,7 +22275,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 110,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2473,
@@ -22304,7 +22304,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2476,
@@ -22324,7 +22324,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2529,
@@ -22333,7 +22333,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2521,
@@ -22342,7 +22342,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2479,
@@ -22362,7 +22362,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2481,
@@ -22372,7 +22372,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2523,
@@ -22381,7 +22381,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2524,
@@ -22390,7 +22390,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2520,
@@ -22399,7 +22399,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 51,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2525,
@@ -22408,7 +22408,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2526,
@@ -22417,7 +22417,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2527,
@@ -22426,7 +22426,7 @@
 			"menuType": "SUB_MENU",
 			"orderNumber": 80,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/under-construction"
 		},
 		{
 			"id": 2511,
