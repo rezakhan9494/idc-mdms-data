@@ -13148,6 +13148,18 @@
 			"path": ""
 		},
 		{
+			"id": 2535,
+			"name": "progress-bar",
+			"url": "/egov-workflow-v2/egov-wf/process/progress-bar",
+			"parentModule": "",
+			"displayName": "progress-bar",
+			"orderNumber": 0,
+			"enabled": true,
+			"serviceCode": "egov-workflow-v2",
+			"code": "null",
+			"path": ""
+		},
+		{
 			"id": 1731,
 			"name": "workordercreate",
 			"url": "url",
