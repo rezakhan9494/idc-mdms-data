@@ -21984,7 +21984,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 1,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": "/"
 		},
 		{
 			"id": 2460,
@@ -21994,7 +21994,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "##under-construction##",
+			"navigationURL": "",
 			"subMenuChildActionIds": [
 				[
 					2466,
@@ -22028,7 +22028,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 150,
 			"enabled": true,
-			"navigationURL": "##under-construction##",
+			"navigationURL": "",
 			"subMenuChildActionIds": [
 				[
 					2470,
@@ -22085,7 +22085,7 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 200,
 			"enabled": true,
-			"navigationURL": "##under-construction##",
+			"navigationURL": "",
 			"subMenuChildActionIds": [
 				[
 					2511,
@@ -22145,7 +22145,7 @@
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": ""
 		},
 		{
 			"id": 2467,
@@ -22185,7 +22185,7 @@
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": ""
 		},
 		{
 			"id": 2471,
@@ -22285,7 +22285,7 @@
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": ""
 		},
 		{
 			"id": 2474,
@@ -22314,7 +22314,7 @@
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": ""
 		},
 		{
 			"id": 2477,
@@ -22352,7 +22352,7 @@
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "##under-construction##"
+			"navigationURL": ""
 		},
 		{
 			"id": 2480,
