@@ -22508,11 +22508,11 @@
 		{
 			"id": 2537,
 			"url": "menu",
-			"displayName": "Apply for Technical Clearance",
+			"displayName": "Scrutiny Tool",
 			"menuType": "EMP_E_SERVICES_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/obpas/technicalClearance"
+			"navigationURL": "/obpas/scrutinyTool"
 		},
 		{
 			"id": 2511,
