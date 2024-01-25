@@ -22058,13 +22058,13 @@
 				[
 					2473,
 					2474,
-					2529,
-					2475
+					2529
 				],
 				[
 					2476,
 					2477,
-					2521
+					2521,
+					2475
 				],
 				[
 					2479,
@@ -22321,15 +22321,6 @@
 			"navigationURL": "/obpas/technicalClearance"
 		},
 		{
-			"id": 2475,
-			"url": "menu",
-			"displayName": "Apply for Completion Order",
-			"menuType": "E_SERVICES_SUB_MENU",
-			"orderNumber": 30,
-			"enabled": true,
-			"navigationURL": "/underconstruction"
-		},
-		{
 			"id": 2476,
 			"name": "engineering",
 			"url": "menu",
@@ -22346,6 +22337,15 @@
 			"displayName": "Construction Licence",
 			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": "/underconstruction"
+		},
+		{
+			"id": 2475,
+			"url": "menu",
+			"displayName": "Apply for Completion Order",
+			"menuType": "E_SERVICES_SUB_MENU",
+			"orderNumber": 51,
 			"enabled": true,
 			"navigationURL": "/underconstruction"
 		},
