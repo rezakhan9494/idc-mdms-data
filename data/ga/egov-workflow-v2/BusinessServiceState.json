@@ -121,6 +121,54 @@
 			"code": "Pending Application Fee Payment",
 			"description": "",
 			"name": "Pending Application Fee Payment"
+		},
+		{
+			"active": true,
+			"code": "Pendding for approval at Member Secretary IPDC",
+			"description": "",
+			"name": "Pendding for approval at Member Secretary IPDC"
+		},
+		{
+			"active": true,
+			"code": "Awaiting Approval for Construction License Issuance",
+			"description": "",
+			"name": "Awaiting Approval for Construction License Issuance"
+		},
+		{
+			"active": true,
+			"code": "Pending Deputy GM's Verification",
+			"description": "",
+			"name": "Pending Deputy GM's Verification"
+		},
+		{
+			"active": true,
+			"code": "Pending General Manager's Approval",
+			"description": "",
+			"name": "Pending General Manager's Approval"
+		},
+		{
+			"active": true,
+			"code": "Approved",
+			"description": "",
+			"name": "Approved"
+		},
+		{
+			"active": true,
+			"code": "Rejected",
+			"description": "",
+			"name": "Rejected"
+		},
+		{
+			"active": true,
+			"code": "Draft",
+			"description": "",
+			"name": "Draft"
+		},
+		{
+			"active": true,
+			"code": "TC Order Issued / Payment Pending",
+			"description": "",
+			"name": "TC Order Issued / Payment Pending"
 		}
 	]
 }
