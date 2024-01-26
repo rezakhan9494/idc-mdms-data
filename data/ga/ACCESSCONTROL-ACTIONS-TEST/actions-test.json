@@ -22014,10 +22014,6 @@
 				],
 				[
 					"SKIP",
-					2468
-				],
-				[
-					"SKIP",
 					2469
 				]
 			]
@@ -22179,16 +22175,6 @@
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/aboutus"
-		},
-		{
-			"id": 2468,
-			"name": "organizationStructure",
-			"url": "menu",
-			"displayName": "Organization Structure",
-			"menuType": "SUB_MENU",
-			"orderNumber": 30,
-			"enabled": true,
-			"navigationURL": "/underconstruction"
 		},
 		{
 			"id": 2469,
