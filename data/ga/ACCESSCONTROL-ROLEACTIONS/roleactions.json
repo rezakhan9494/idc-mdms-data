@@ -26994,127 +26994,148 @@
 			"rolecode": "LESSEE",
 			"actionid": 2471,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2472,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2514,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2515,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2516,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2517,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2518,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2522,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2528,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2474,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2475,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2477,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2520,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2519,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2534,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2530,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2531,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2532,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2533,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "ARCHITECT",
 			"actionid": 2536,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		},
 		{
 			"rolecode": "ARCHITECT",
 			"actionid": 2537,
 			"actioncode": "",
-			"tenantId": "ga"
+			"tenantId": "ga",
+			"isMenu": true
 		}
 	]
 }
