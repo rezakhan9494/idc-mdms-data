@@ -22521,7 +22521,7 @@
 			"orderNumber": "10",
 			"parentTitle": "",
 			"displayName": "Goa Industrial Development Act, 1965",
-			"documentReferenceId": "83cd504d-b5f4-459e-a86c-c2ddda050c75"
+			"documentReferenceId": "cbedd8f2-92a1-4bb0-b8e2-a952a9d8ff59"
 		},
 		{
 			"id": 2483,
@@ -22530,7 +22530,7 @@
 			"enabled": true,
 			"orderNumber": "20",
 			"displayName": "Goa Industrial Development Corporation (Allotment, Transfer and Sub-Lease) Regulation, 2023",
-			"documentReferenceId": "64793e7d-540d-4d4c-b724-911e53b62c20"
+			"documentReferenceId": "6a3c2937-fee0-4ae8-8947-6570bdac4944"
 		},
 		{
 			"id": 2512,
@@ -22556,7 +22556,7 @@
 			"enabled": true,
 			"orderNumber": "20",
 			"displayName": "Bicholim",
-			"documentReferenceId": "7f97d782-f4d0-4f94-8012-cae6aae78d77"
+			"documentReferenceId": "efd43536-e785-46ca-8e67-3fd4708924c8"
 		},
 		{
 			"id": 2495,
@@ -22785,7 +22785,7 @@
 		{
 			"id": 2538,
 			"url": "menu",
-			"displayName": "Industrial Estates Site Plans",
+			"displayName": "India Industrial Land Bank",
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 1,
 			"enabled": true
