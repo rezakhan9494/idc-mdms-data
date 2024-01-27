@@ -22026,7 +22026,39 @@
 			"menuType": "MAIN_MENU_HEADER",
 			"orderNumber": 100,
 			"enabled": true,
-			"navigationURL": "/goa-idc/plotdetails"
+			"navigationURL": "",
+			"subMenuChildActionIds": [
+				[
+					2512,
+					2484,
+					2485,
+					2495,
+					2486,
+					2487,
+					2488,
+					2489,
+					2491,
+					2493,
+					2494,
+					2496,
+					2490,
+					2497,
+					2498,
+					2499,
+					2500,
+					2501,
+					2502,
+					2503,
+					2504,
+					2505,
+					2506,
+					2507
+				],
+				[
+					2538,
+					2539
+				]
+			]
 		},
 		{
 			"id": 2462,
@@ -22110,32 +22142,6 @@
 					2511,
 					2482,
 					2483
-				],
-				[
-					2512,
-					2484,
-					2485,
-					2495,
-					2486,
-					2487,
-					2488,
-					2489,
-					2491,
-					2493,
-					2494,
-					2496,
-					2490,
-					2497,
-					2498,
-					2499,
-					2500,
-					2501,
-					2502,
-					2503,
-					2504,
-					2505,
-					2506,
-					2507
 				],
 				[
 					2513,
@@ -22529,7 +22535,7 @@
 		{
 			"id": 2512,
 			"url": "menu",
-			"displayName": "Industrial Estates Development Plans",
+			"displayName": "Industrial Estates Site Plans",
 			"menuType": "SUB_MENU_HEADER",
 			"orderNumber": 1,
 			"enabled": true
@@ -22775,6 +22781,23 @@
 			"orderNumber": "30",
 			"displayName": "Engineering",
 			"documentReferenceId": ""
+		},
+		{
+			"id": 2538,
+			"url": "menu",
+			"displayName": "Industrial Estates Site Plans",
+			"menuType": "SUB_MENU_HEADER",
+			"orderNumber": 1,
+			"enabled": true
+		},
+		{
+			"id": 2539,
+			"url": "menu",
+			"displayName": "Goa Industrial Land Bank",
+			"menuType": "SUB_MENU",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": "/goa-idc/plotdetails"
 		}
 	]
 }
