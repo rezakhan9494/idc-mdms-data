@@ -22798,6 +22798,17 @@
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": "/goa-idc/plotdetails"
+		},
+		{
+			"id": 2540,
+			"name": "BPA Service WF Action",
+			"url": "/bpa-services/v1/wf/_action",
+			"displayName": "BPA Service WF Action",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPA Service WF Action"
 		}
 	]
 }
