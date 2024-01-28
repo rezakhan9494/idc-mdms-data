@@ -27178,6 +27178,12 @@
 			"actionid": 2540,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2540,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
