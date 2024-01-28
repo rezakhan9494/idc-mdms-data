@@ -8,27 +8,27 @@
 			"active": true
 		},
 		{
-			"name": "Estate Division",
+			"name": "Estate",
 			"code": "ESTD",
 			"active": true
 		},
 		{
-			"name": "Engineering Section",
+			"name": "Engineering",
 			"code": "ENGS",
 			"active": true
 		},
 		{
-			"name": "Accounts Section",
+			"name": "Accounts",
 			"code": "ACCS",
 			"active": true
 		},
 		{
-			"name": "Industrial Planning & Development Committee (37B Committee)",
+			"name": "IPDC (37B)",
 			"code": "IPDC",
 			"active": true
 		},
 		{
-			"name": "Legal Section",
+			"name": "Legal",
 			"code": "LGLS",
 			"active": true
 		},

@@ -4,55 +4,55 @@
 	"Designation": [
 		{
 			"code": "MD",
-			"name": "Managing Director (MD)",
+			"name": "Managing Director",
 			"description": "Managing Director (MD)",
 			"active": true
 		},
 		{
 			"code": "GM",
-			"name": "General Manager (GM)",
+			"name": "General Manager",
 			"description": "General Manager (GM)",
 			"active": true
 		},
 		{
 			"code": "DGM",
-			"name": "Deputy General Manager (DGM)",
+			"name": "Deputy General Manager",
 			"description": "Deputy General Manager (DGM)",
 			"active": true
 		},
 		{
 			"code": "AM",
-			"name": "Assistant Manager (AM)",
+			"name": "Assistant Manager",
 			"description": "Assistant Manager (AM)",
 			"active": true
 		},
 		{
 			"code": "ARM",
-			"name": "Area Manager (ARM)",
+			"name": "Area Manager",
 			"description": "Area Manager (ARM)",
 			"active": true
 		},
 		{
 			"code": "FM",
-			"name": "Field Manager (FM)",
+			"name": "Field Manager",
 			"description": "Field Manager (FM)",
 			"active": true
 		},
 		{
 			"code": "SLAO",
-			"name": "Special Land Acquisition Officer (SLAO)",
+			"name": "Special Land Acquisition Officer",
 			"description": "Special Land Acquisition Officer (SLAO)",
 			"active": true
 		},
 		{
 			"code": "CAO",
-			"name": "Chief Accounts Officer (CAO)",
+			"name": "Chief Accounts Officer",
 			"description": "Chief Accounts Officer (CAO)",
 			"active": true
 		},
 		{
 			"code": "MSC",
-			"name": "Member Secretary (MSC)",
+			"name": "Member Secretary",
 			"description": "Member Secretary (MSC)",
 			"active": true
 		}
