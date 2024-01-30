@@ -67,7 +67,7 @@
       "rolecode": "BPA_COL_APPROVER"
     },{
       "departmentcode": "ENGS",
-      "rolecode": "EMP_FIELD_INSPECTOR"
+      "rolecode": "FIELD_INSPECTOR"
     }
   ]
 }

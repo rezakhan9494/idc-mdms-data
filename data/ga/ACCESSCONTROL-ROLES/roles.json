@@ -43,11 +43,6 @@
 			"description": "Who has a access to verify Employee."
 		},
 		{
-			"code": "EMP_FIELD_INSPECTOR",
-			"name": "Employee Field Inspector",
-			"description": "Employee Field Inspector."
-		},
-		{
 			"code": "EU_CREATOR",
 			"name": "Enterprise User Creator",
 			"description": "Who has a access to create Enterprise User Creator."
@@ -126,6 +121,11 @@
 			"code": "BPA_COL_APPROVER",
 			"name": "Construction License Approver",
 			"description": "Construction License Approver."
+		},
+		{
+			"code": "FIELD_INSPECTOR",
+			"name": "Field Inspector",
+			"description": "Field Inspector."
 		}
 	]
 }
