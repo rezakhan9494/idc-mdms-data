@@ -121,6 +121,11 @@
 			"code": "BPA_COL_APPROVER",
 			"name": "Construction License Approver",
 			"description": "Construction License Approver."
+		},
+		{
+			"code": "FIELD_INSPECTOR",
+			"name": "Field Inspector",
+			"description": "Field Inspector."
 		}
 	]
 }

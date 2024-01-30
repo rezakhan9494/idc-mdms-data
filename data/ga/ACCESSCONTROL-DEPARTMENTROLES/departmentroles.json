@@ -65,7 +65,9 @@
     },{
       "departmentcode": "GIDC",
       "rolecode": "BPA_COL_APPROVER"
+    },{
+      "departmentcode": "ENGS",
+      "rolecode": "FIELD_INSPECTOR"
     }
-   
   ]
 }
