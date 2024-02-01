@@ -22208,7 +22208,7 @@
 			"menuType": "E_SERVICES_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/apply-for-plot"
 		},
 		{
 			"id": 2472,
