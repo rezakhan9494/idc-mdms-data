@@ -22809,6 +22809,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPA Service WF Action"
+		},
+		{
+			"id": 2541,
+			"name": "EmployeeWorkflowInitiate",
+			"url": "/egov-hrms/employees/workflow/process/_initiate",
+			"displayName": "Employee Workflow Initiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EmployeeWorkflowInitiate"
 		}
 	]
 }
