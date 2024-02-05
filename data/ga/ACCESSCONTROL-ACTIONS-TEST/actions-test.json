@@ -22694,6 +22694,17 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2545,
+			"name": "DashboardCardSearch",
+			"url": "/egov-common-masters/dashboard/cards/_search",
+			"displayName": "Dashboard Card Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.DashboardCardSearch"
 		}
 	]
 }
