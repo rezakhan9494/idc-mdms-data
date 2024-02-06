@@ -22705,6 +22705,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.DashboardCardSearch"
+		},
+		{
+			"id": 2546,
+			"name": "SearchApplicationMetadata",
+			"url": "/egov-common-masters/application/search/metadata",
+			"displayName": "Search Application Metadata",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchApplicationMetadata"
 		}
 	]
 }
