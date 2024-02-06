@@ -1,0 +1,30 @@
+{
+	"tenantId": "ga",
+	"moduleName": "common-masters",
+	"ModuleTypeToBusinessServiceMap": [
+		{
+			"moduleName": "Administration",
+			"moduleCode": "ADMIN",
+			"businessServiceCode": "EMP",
+			"businessServiceName": "Employee Registration",
+			"navUrl": "/goa-idc/emp/empPreview?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Administration",
+			"moduleCode": "ADMIN",
+			"businessServiceCode": "ARCH",
+			"businessServiceName": "Architect Onboarding",
+			"navUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Administration",
+			"moduleCode": "ADMIN",
+			"businessServiceCode": "EU",
+			"businessServiceName": "Enterprise User Registration",
+			"navUrl": "/goa-idc/eu/euPreview?applicationNumber=%s&tenantId=%s",
+			"active": true
+		}
+	]
+}
