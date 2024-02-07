@@ -27537,6 +27537,13 @@
 			"isDashboardContent": true
 		},
 		{
+			"rolecode": "EMP_APPROVER",
+			"actionid": 2554,
+			"actioncode": "",
+			"tenantId": "ga",
+			"isDashboardContent": true
+		},
+		{
 			"rolecode": "EU_APPROVER",
 			"actionid": 2551,
 			"actioncode": "",
@@ -27553,6 +27560,13 @@
 		{
 			"rolecode": "EU_APPROVER",
 			"actionid": 2553,
+			"actioncode": "",
+			"tenantId": "ga",
+			"isDashboardContent": true
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"actionid": 2554,
 			"actioncode": "",
 			"tenantId": "ga",
 			"isDashboardContent": true
@@ -27579,6 +27593,13 @@
 			"isDashboardContent": true
 		},
 		{
+			"rolecode": "BPA_APPROVER",
+			"actionid": 2554,
+			"actioncode": "",
+			"tenantId": "ga",
+			"isDashboardContent": true
+		},
+		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 2551,
 			"actioncode": "",
@@ -27595,6 +27616,13 @@
 		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 2553,
+			"actioncode": "",
+			"tenantId": "ga",
+			"isDashboardContent": true
+		},
+		{
+			"rolecode": "BPA_COL_APPROVER",
+			"actionid": 2554,
 			"actioncode": "",
 			"tenantId": "ga",
 			"isDashboardContent": true
