@@ -22828,6 +22828,62 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2555,
+			"name": "obpas_total_applications",
+			"url": "dashboard-cards",
+			"displayName": "Total Applications",
+			"orderNumber": 10,
+			"enabled": true,
+			"path": "OBPAS.obpas_total_applications",
+			"navigationURL": "/obpas_total_applications",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2556,
+			"name": "obpas_pending_applications",
+			"url": "dashboard-cards",
+			"displayName": "Pending Applications",
+			"orderNumber": 20,
+			"enabled": true,
+			"path": "OBPAS.obpas_pending_applications",
+			"navigationURL": "/obpas_pending_applications",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2557,
+			"name": "obpas_approved_applications",
+			"url": "dashboard-cards",
+			"displayName": "Approved Applications",
+			"orderNumber": 30,
+			"enabled": true,
+			"path": "OBPAS.obpas_approved_applications",
+			"navigationURL": "/obpas_approved_applications",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2558,
+			"name": "obpas_nearing_slas_applications",
+			"url": "dashboard-cards",
+			"displayName": "Nearing SLAs",
+			"orderNumber": 40,
+			"enabled": true,
+			"path": "OBPAS.obpas_nearing_slas_applications",
+			"navigationURL": "/obpas_nearing_slas_applications",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
 		}
 	]
 }
