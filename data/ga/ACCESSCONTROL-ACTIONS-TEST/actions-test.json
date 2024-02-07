@@ -22727,6 +22727,51 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchApplication"
+		},
+		{
+			"id": 2548,
+			"name": "obpas_inbox",
+			"url": "dashboard-worklist",
+			"displayName": "Inbox",
+			"orderNumber": 10,
+			"enabled": true,
+			"code": "worklist",
+			"path": "OBPAS.obpas_inbox",
+			"navigationURL": "/obpas_inbox",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2549,
+			"name": "obpas_nearing_slas",
+			"url": "dashboard-worklist",
+			"displayName": "Nearing SLAs",
+			"orderNumber": 20,
+			"enabled": true,
+			"code": "worklist",
+			"path": "OBPAS.obpas_nearing_slas",
+			"navigationURL": "/obpas_nearing_slas",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2550,
+			"name": "obpas_search_applications",
+			"url": "dashboard-worklist",
+			"displayName": "Search Applications",
+			"orderNumber": 30,
+			"enabled": true,
+			"code": "worklist_option",
+			"path": "OBPAS.obpas_search_applications",
+			"navigationURL": "/obpas_search_applications",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
 		}
 	]
 }
