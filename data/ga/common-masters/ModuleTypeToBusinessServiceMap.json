@@ -25,6 +25,14 @@
 			"businessServiceName": "Enterprise User Registration",
 			"navUrl": "/goa-idc/eu/euPreview?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "OBPAS",
+			"moduleCode": "OBPAS",
+			"businessServiceCode": "BPA1",
+			"businessServiceName": "Building Plan Approval",
+			"navUrl": "/goa-idc/obpas/technicalClearance?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
