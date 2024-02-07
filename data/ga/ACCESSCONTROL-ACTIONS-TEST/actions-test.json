@@ -22716,6 +22716,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchApplicationMetadata"
+		},
+		{
+			"id": 2547,
+			"name": "SearchApplication",
+			"url": "/egov-common-masters/application/search/",
+			"displayName": "Search Application",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchApplication"
 		}
 	]
 }
