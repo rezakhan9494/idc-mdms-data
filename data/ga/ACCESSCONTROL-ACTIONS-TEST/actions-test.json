@@ -22782,7 +22782,7 @@
 			"enabled": true,
 			"path": "Administration.admin_total_applications",
 			"navigationURL": "/admin_total_applications",
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EEC9",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -22796,10 +22796,10 @@
 			"enabled": true,
 			"path": "Administration.admin_pending_applications",
 			"navigationURL": "/admin_pending_applications",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#818831",
 			"iconName": "fa-file",
-			"textColor": "#516900"
+			"textColor": "#818831"
 		},
 		{
 			"id": 2553,
@@ -22810,10 +22810,10 @@
 			"enabled": true,
 			"path": "Administration.admin_approved_applications",
 			"navigationURL": "/admin_approved_applications",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#45852E",
 			"iconName": "fa-file",
-			"textColor": "#516900"
+			"textColor": "#45852E"
 		},
 		{
 			"id": 2554,
@@ -22824,10 +22824,10 @@
 			"enabled": true,
 			"path": "Administration.admin_nearing_slas_applications",
 			"navigationURL": "/admin_nearing_slas_applications",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#399267",
 			"iconName": "fa-file",
-			"textColor": "#516900"
+			"textColor": "#399267"
 		},
 		{
 			"id": 2555,
@@ -22838,7 +22838,7 @@
 			"enabled": true,
 			"path": "OBPAS.obpas_total_applications",
 			"navigationURL": "/obpas_total_applications",
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EEC9",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -22852,10 +22852,10 @@
 			"enabled": true,
 			"path": "OBPAS.obpas_pending_applications",
 			"navigationURL": "/obpas_pending_applications",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#818831",
 			"iconName": "fa-file",
-			"textColor": "#516900"
+			"textColor": "#818831"
 		},
 		{
 			"id": 2557,
@@ -22866,10 +22866,10 @@
 			"enabled": true,
 			"path": "OBPAS.obpas_approved_applications",
 			"navigationURL": "/obpas_approved_applications",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#45852E",
 			"iconName": "fa-file",
-			"textColor": "#516900"
+			"textColor": "#45852E"
 		},
 		{
 			"id": 2558,
@@ -22880,10 +22880,10 @@
 			"enabled": true,
 			"path": "OBPAS.obpas_nearing_slas_applications",
 			"navigationURL": "/obpas_nearing_slas_applications",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#399267",
 			"iconName": "fa-file",
-			"textColor": "#516900"
+			"textColor": "#399267"
 		},
 		{
 			"id": 2559,
