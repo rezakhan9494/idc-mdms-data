@@ -22906,8 +22906,8 @@
 			"orderNumber": 10,
 			"path": "Administration.admin_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#FFFFFF",
+			"iconColor": "#45852E",
 			"iconName": "fa-file"
 		},
 		{
@@ -22920,7 +22920,7 @@
 			"orderNumber": 20,
 			"path": "Estate.estate_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22934,8 +22934,8 @@
 			"orderNumber": 30,
 			"path": "OBPAS.obpas_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#FFFFFF",
+			"iconColor": "#323E4A",
 			"iconName": "fa-file"
 		},
 		{
@@ -22948,8 +22948,8 @@
 			"orderNumber": 40,
 			"path": "Engineering.engineering_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#FFFFFF",
+			"iconColor": "#90A82F",
 			"iconName": "fa-file"
 		},
 		{
@@ -22962,8 +22962,8 @@
 			"orderNumber": 50,
 			"path": "Legal.legal_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#FFFFFF",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file"
 		},
 		{
@@ -22976,8 +22976,8 @@
 			"orderNumber": 60,
 			"path": "NOCs.noc_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#FFFFFF",
+			"iconColor": "#45852E",
 			"iconName": "fa-file"
 		},
 		{
@@ -22990,7 +22990,7 @@
 			"orderNumber": 70,
 			"path": "Tax & Dues Collection.tax_dues_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -23003,7 +23003,7 @@
 			"path": "Administration.admin_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23016,7 +23016,7 @@
 			"path": "Administration.admin_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23029,7 +23029,7 @@
 			"path": "Administration.admin_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23042,7 +23042,7 @@
 			"path": "Administration.admin_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23054,8 +23054,8 @@
 			"orderNumber": 50,
 			"path": "Estate.estate_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EDDF",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23067,8 +23067,8 @@
 			"orderNumber": 60,
 			"path": "Estate.estate_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EDDF",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23080,8 +23080,8 @@
 			"orderNumber": 70,
 			"path": "Estate.estate_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EDDF",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23093,8 +23093,8 @@
 			"orderNumber": 80,
 			"path": "Estate.estate_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EDDF",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23106,8 +23106,8 @@
 			"orderNumber": 90,
 			"path": "OBPAS.obpas_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23119,8 +23119,8 @@
 			"orderNumber": 100,
 			"path": "OBPAS.obpas_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23132,8 +23132,8 @@
 			"orderNumber": 110,
 			"path": "OBPAS.obpas_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23145,8 +23145,8 @@
 			"orderNumber": 120,
 			"path": "OBPAS.obpas_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23158,8 +23158,8 @@
 			"orderNumber": 130,
 			"path": "Engineering.engineering_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23171,8 +23171,8 @@
 			"orderNumber": 140,
 			"path": "Engineering.engineering_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23184,8 +23184,8 @@
 			"orderNumber": 150,
 			"path": "Engineering.engineering_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23197,8 +23197,8 @@
 			"orderNumber": 160,
 			"path": "Engineering.engineering_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23210,8 +23210,8 @@
 			"orderNumber": 170,
 			"path": "Legal.legal_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23223,8 +23223,8 @@
 			"orderNumber": 180,
 			"path": "Legal.legal_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23236,8 +23236,8 @@
 			"orderNumber": 190,
 			"path": "Legal.legal_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23249,8 +23249,8 @@
 			"orderNumber": 200,
 			"path": "Legal.legal_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23262,8 +23262,8 @@
 			"orderNumber": 210,
 			"path": "NOCs.noc_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#DDE4CA",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23275,8 +23275,8 @@
 			"orderNumber": 220,
 			"path": "NOCs.noc_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#DDE4CA",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23288,8 +23288,8 @@
 			"orderNumber": 230,
 			"path": "NOCs.noc_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#DDE4CA",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23301,8 +23301,8 @@
 			"orderNumber": 240,
 			"path": "NOCs.noc_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"backgroundColor": "#DDE4CA",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23315,7 +23315,7 @@
 			"path": "Tax & Dues Collection.tax_dues_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23328,7 +23328,7 @@
 			"path": "Tax & Dues Collection.tax_dues_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23341,7 +23341,7 @@
 			"path": "Tax & Dues Collection.tax_dues_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23354,7 +23354,7 @@
 			"path": "Tax & Dues Collection.tax_dues_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		}
