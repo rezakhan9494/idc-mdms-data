@@ -26115,6 +26115,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2408,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "LESSEE",
 			"actionid": 2408,
 			"actioncode": "",
@@ -26433,6 +26439,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2403,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ALLOTTEE",
 			"actionid": 2403,
 			"actioncode": "",
@@ -26469,6 +26481,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 695,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ALLOTTEE",
 			"actionid": 695,
 			"actioncode": "",
@@ -26517,6 +26535,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2416,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ALLOTTEE",
 			"actionid": 2416,
 			"actioncode": "",
@@ -26554,6 +26578,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2417,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2417,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26596,6 +26626,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2424,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2424,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26650,6 +26686,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2425,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2425,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26704,6 +26746,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2427,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2427,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26746,6 +26794,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2428,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2428,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26794,6 +26848,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2429,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2429,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -26860,6 +26920,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2439,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27150,6 +27216,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2540,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ALLOTTEE",
 			"actionid": 2540,
 			"actioncode": "",
@@ -27187,6 +27259,12 @@
 		},
 		{
 			"rolecode": "APPLICANT",
+			"actionid": 1730,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 1730,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27321,6 +27399,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2545,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ALLOTTEE",
 			"actionid": 2545,
 			"actioncode": "",
@@ -27375,6 +27459,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2546,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "LESSEE",
 			"actionid": 2546,
 			"actioncode": "",
@@ -27418,6 +27508,12 @@
 		},
 		{
 			"rolecode": "ALLOTTEE",
+			"actionid": 2547,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2547,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27641,6 +27737,12 @@
 		},
 		{
 			"rolecode": "ALLOTTEE",
+			"actionid": 2559,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
 			"actionid": 2559,
 			"actioncode": "",
 			"tenantId": "ga"
