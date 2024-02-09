@@ -22907,7 +22907,7 @@
 			"path": "Administration.admin_dashboard_gidc_cards",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#45852E",
 			"iconName": "fa-file"
 		},
 		{
@@ -22935,7 +22935,7 @@
 			"path": "OBPAS.obpas_dashboard_gidc_cards",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#323E4A",
 			"iconName": "fa-file"
 		},
 		{
@@ -22949,7 +22949,7 @@
 			"path": "Engineering.engineering_dashboard_gidc_cards",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#90A82F",
 			"iconName": "fa-file"
 		},
 		{
@@ -22963,7 +22963,7 @@
 			"path": "Legal.legal_dashboard_gidc_cards",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file"
 		},
 		{
@@ -22977,7 +22977,7 @@
 			"path": "NOCs.noc_dashboard_gidc_cards",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#45852E",
 			"iconName": "fa-file"
 		},
 		{
