@@ -22906,7 +22906,7 @@
 			"orderNumber": 10,
 			"path": "Administration.admin_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22920,7 +22920,7 @@
 			"orderNumber": 20,
 			"path": "Estate.estate_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22934,7 +22934,7 @@
 			"orderNumber": 30,
 			"path": "OBPAS.obpas_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22948,7 +22948,7 @@
 			"orderNumber": 40,
 			"path": "Engineering.engineering_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22962,7 +22962,7 @@
 			"orderNumber": 50,
 			"path": "Legal.legal_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22976,7 +22976,7 @@
 			"orderNumber": 60,
 			"path": "NOCs.noc_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
@@ -22990,7 +22990,7 @@
 			"orderNumber": 70,
 			"path": "Tax & Dues Collection.tax_dues_dashboard_gidc_cards",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#516900",
 			"iconName": "fa-file"
 		},
