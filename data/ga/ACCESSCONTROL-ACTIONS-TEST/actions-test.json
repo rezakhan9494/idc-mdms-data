@@ -23003,7 +23003,7 @@
 			"path": "Administration.admin_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23016,7 +23016,7 @@
 			"path": "Administration.admin_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23029,7 +23029,7 @@
 			"path": "Administration.admin_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23042,7 +23042,7 @@
 			"path": "Administration.admin_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23055,7 +23055,7 @@
 			"path": "Estate.estate_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23068,7 +23068,7 @@
 			"path": "Estate.estate_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23081,7 +23081,7 @@
 			"path": "Estate.estate_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23094,7 +23094,7 @@
 			"path": "Estate.estate_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23107,7 +23107,7 @@
 			"path": "OBPAS.obpas_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23120,7 +23120,7 @@
 			"path": "OBPAS.obpas_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23133,7 +23133,7 @@
 			"path": "OBPAS.obpas_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23146,7 +23146,7 @@
 			"path": "OBPAS.obpas_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23159,7 +23159,7 @@
 			"path": "Engineering.engineering_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23172,7 +23172,7 @@
 			"path": "Engineering.engineering_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23185,7 +23185,7 @@
 			"path": "Engineering.engineering_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23198,7 +23198,7 @@
 			"path": "Engineering.engineering_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23211,7 +23211,7 @@
 			"path": "Legal.legal_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23224,7 +23224,7 @@
 			"path": "Legal.legal_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23237,7 +23237,7 @@
 			"path": "Legal.legal_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23250,7 +23250,7 @@
 			"path": "Legal.legal_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23263,7 +23263,7 @@
 			"path": "NOCs.noc_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23276,7 +23276,7 @@
 			"path": "NOCs.noc_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23289,7 +23289,7 @@
 			"path": "NOCs.noc_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23302,7 +23302,7 @@
 			"path": "NOCs.noc_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23315,7 +23315,7 @@
 			"path": "Tax & Dues Collection.tax_dues_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23328,7 +23328,7 @@
 			"path": "Tax & Dues Collection.tax_dues_nearing_slas",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
 		},
@@ -23341,7 +23341,7 @@
 			"path": "Tax & Dues Collection.tax_dues_inbox",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		},
@@ -23354,7 +23354,7 @@
 			"path": "Tax & Dues Collection.tax_dues_search_applications",
 			"enabled": true,
 			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
+			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
 		}
