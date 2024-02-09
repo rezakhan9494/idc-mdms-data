@@ -23054,7 +23054,7 @@
 			"orderNumber": 50,
 			"path": "Estate.estate_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EDDF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23067,7 +23067,7 @@
 			"orderNumber": 60,
 			"path": "Estate.estate_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EDDF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23080,7 +23080,7 @@
 			"orderNumber": 70,
 			"path": "Estate.estate_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EDDF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23093,7 +23093,7 @@
 			"orderNumber": 80,
 			"path": "Estate.estate_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EDDF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23106,7 +23106,7 @@
 			"orderNumber": 90,
 			"path": "OBPAS.obpas_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EEC9",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23119,7 +23119,7 @@
 			"orderNumber": 100,
 			"path": "OBPAS.obpas_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EEC9",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23132,7 +23132,7 @@
 			"orderNumber": 110,
 			"path": "OBPAS.obpas_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EEC9",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23145,7 +23145,7 @@
 			"orderNumber": 120,
 			"path": "OBPAS.obpas_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E7EEC9",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23158,7 +23158,7 @@
 			"orderNumber": 130,
 			"path": "Engineering.engineering_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23171,7 +23171,7 @@
 			"orderNumber": 140,
 			"path": "Engineering.engineering_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23184,7 +23184,7 @@
 			"orderNumber": 150,
 			"path": "Engineering.engineering_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23197,7 +23197,7 @@
 			"orderNumber": 160,
 			"path": "Engineering.engineering_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23210,7 +23210,7 @@
 			"orderNumber": 170,
 			"path": "Legal.legal_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23223,7 +23223,7 @@
 			"orderNumber": 180,
 			"path": "Legal.legal_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23236,7 +23236,7 @@
 			"orderNumber": 190,
 			"path": "Legal.legal_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23249,7 +23249,7 @@
 			"orderNumber": 200,
 			"path": "Legal.legal_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23262,7 +23262,7 @@
 			"orderNumber": 210,
 			"path": "NOCs.noc_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#DDE4CA",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23275,7 +23275,7 @@
 			"orderNumber": 220,
 			"path": "NOCs.noc_nearing_slas",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#DDE4CA",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23288,7 +23288,7 @@
 			"orderNumber": 230,
 			"path": "NOCs.noc_inbox",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#DDE4CA",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23301,7 +23301,7 @@
 			"orderNumber": 240,
 			"path": "NOCs.noc_search_applications",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#DDE4CA",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
