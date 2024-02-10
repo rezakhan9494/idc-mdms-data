@@ -5,62 +5,62 @@
 		{
 			"designationCode": "AM",
 			"designationName": "Assistant Manager",
-			"rolecode": "EMP_CREATOR",
+			"roleCode": "EMP_CREATOR",
 			"active": true
 		},
 		{
 			"designationCode": "GM",
 			"designationName": "General Manager",
-			"rolecode": "EMP_APPROVER",
+			"roleCode": "EMP_APPROVER",
 			"active": true
 		},
 		{
 			"designationCode": "DGM",
 			"designationName": "Deputy General Manager",
-			"rolecode": "EMP_VERIFIER",
+			"roleCode": "EMP_VERIFIER",
 			"active": true,
 			"active": true
 		},
 		{
 			"designationCode": "GM",
 			"designationName": "General Manager",
-			"rolecode": "EU_APPROVER",
+			"roleCode": "EU_APPROVER",
 			"active": true
 		},
 		{
 			"designationCode": "DGM",
 			"designationName": "Deputy General Manager",
-			"rolecode": "EU_VERIFIER",
+			"roleCode": "EU_VERIFIER",
 			"active": true
 		},
 		{
 			"designationCode": "DGM",
 			"designationName": "Deputy General Manager",
-			"rolecode": "BPA_VERIFIER_L1",
+			"roleCode": "BPA_VERIFIER_L1",
 			"active": true
 		},
 		{
 			"designationCode": "DGM",
 			"designationName": "Deputy General Manager",
-			"rolecode": "BPA_VERIFIER_L2",
+			"roleCode": "BPA_VERIFIER_L2",
 			"active": true
 		},
 		{
 			"designationCode": "GM",
 			"designationName": "General Manager",
-			"rolecode": "BPA_APPROVER",
+			"roleCode": "BPA_APPROVER",
 			"active": true
 		},
 		{
 			"designationCode": "AM",
 			"designationName": "Assistant Manager",
-			"rolecode": "BPA_COL_INITIATOR",
+			"roleCode": "BPA_COL_INITIATOR",
 			"active": true
 		},
 		{
 			"designationCode": "GM",
 			"designationName": "General Manager",
-			"rolecode": "BPA_COL_APPROVER",
+			"roleCode": "BPA_COL_APPROVER",
 			"active": true
 		}
 	]
