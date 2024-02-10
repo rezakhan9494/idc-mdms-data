@@ -1,0 +1,56 @@
+{
+	"tenantId": "ga",
+	"moduleName": "ACCESSCONTROL-ROLES",
+	"rolesdesignations": [
+		{
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"rolecode": "EMP_CREATOR"
+		},
+		{
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"rolecode": "EMP_APPROVER"
+		},
+		{
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"rolecode": "EMP_VERIFIER"
+		},
+		{
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"rolecode": "EU_APPROVER"
+		},
+		{
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"rolecode": "EU_VERIFIER"
+		},
+		{
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"rolecode": "BPA_VERIFIER_L1"
+		},
+		{
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"rolecode": "BPA_VERIFIER_L2"
+		},
+		{
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"rolecode": "BPA_APPROVER"
+		},
+		{
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"rolecode": "BPA_COL_INITIATOR"
+		},
+		{
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"rolecode": "BPA_COL_APPROVER"
+		}
+	]
+}
