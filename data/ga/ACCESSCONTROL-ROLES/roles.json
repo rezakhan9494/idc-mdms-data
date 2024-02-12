@@ -8,9 +8,9 @@
 			"description": "Internal role for plain access"
 		},
 		{
-			"code": "SUPERUSER",
-			"name": "Super User",
-			"description": "System Administrator. Can change all master data and has access to all the system screens."
+			"code": "GIDC_MD",
+			"name": "Goa IDC Managing Director",
+			"description": "Goa IDC Managing Director (MD)"
 		},
 		{
 			"code": "EMPLOYEE",

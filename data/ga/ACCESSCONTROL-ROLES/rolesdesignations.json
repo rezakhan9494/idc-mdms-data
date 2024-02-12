@@ -3,64 +3,69 @@
 	"moduleName": "ACCESSCONTROL-ROLES",
 	"rolesdesignations": [
 		{
-			"designationCode": "AM",
-			"designationName": "Assistant Manager",
 			"roleCode": "EMP_CREATOR",
-			"active": true
-		},
-		{
-			"designationCode": "GM",
-			"designationName": "General Manager",
-			"roleCode": "EMP_APPROVER",
-			"active": true
-		},
-		{
-			"designationCode": "DGM",
-			"designationName": "Deputy General Manager",
-			"roleCode": "EMP_VERIFIER",
-			"active": true,
-			"active": true
-		},
-		{
-			"designationCode": "GM",
-			"designationName": "General Manager",
-			"roleCode": "EU_APPROVER",
-			"active": true
-		},
-		{
-			"designationCode": "DGM",
-			"designationName": "Deputy General Manager",
-			"roleCode": "EU_VERIFIER",
-			"active": true
-		},
-		{
-			"designationCode": "DGM",
-			"designationName": "Deputy General Manager",
-			"roleCode": "BPA_VERIFIER_L1",
-			"active": true
-		},
-		{
-			"designationCode": "DGM",
-			"designationName": "Deputy General Manager",
-			"roleCode": "BPA_VERIFIER_L2",
-			"active": true
-		},
-		{
-			"designationCode": "GM",
-			"designationName": "General Manager",
-			"roleCode": "BPA_APPROVER",
-			"active": true
-		},
-		{
 			"designationCode": "AM",
 			"designationName": "Assistant Manager",
-			"roleCode": "BPA_COL_INITIATOR",
 			"active": true
 		},
 		{
+			"roleCode": "EMP_APPROVER",
 			"designationCode": "GM",
 			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "EMP_VERIFIER",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "EU_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "EU_VERIFIER",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "BPA_VERIFIER_L1",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "BPA_VERIFIER_L2",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "BPA_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "BPA_COL_INITIATOR",
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"active": true
+		},
+		{
 			"roleCode": "BPA_COL_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"roleCode": "GIDC_MD",
+			"designationCode": "MD",
+			"designationName": "Managing Director",
 			"active": true
 		}
 	]
