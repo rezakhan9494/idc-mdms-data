@@ -1,7 +1,7 @@
 {
 	"tenantId": "ga",
 	"moduleName": "common-masters",
-	"postal": [
+	"postalAddressData": [
 		{
 			"pincode": "515631",
 			"district": "Anantapur",
