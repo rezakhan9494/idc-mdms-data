@@ -23357,6 +23357,17 @@
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
+		},
+		{
+			"id": 2595,
+			"name": "EnterpriseWorkflowInitiate",
+			"url": "/user/enterprise/workflow/process/_initiate",
+			"displayName": "Enterprise Workflow Initiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EnterpriseWorkflowInitiate"
 		}
 	]
 }
