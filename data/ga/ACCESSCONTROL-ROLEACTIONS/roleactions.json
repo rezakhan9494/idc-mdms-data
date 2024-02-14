@@ -27818,6 +27818,18 @@
 			"actionid": 2535,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"actionid": 2595,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"actionid": 2595,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
