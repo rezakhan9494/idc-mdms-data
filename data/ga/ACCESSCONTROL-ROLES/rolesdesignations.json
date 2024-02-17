@@ -52,8 +52,8 @@
 		},
 		{
 			"roleCode": "BPA_COL_INITIATOR",
-			"designationCode": "AM",
-			"designationName": "Assistant Manager",
+			"designationCode": "GM",
+			"designationName": "General Manager",
 			"active": true
 		},
 		{
