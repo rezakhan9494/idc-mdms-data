@@ -45,10 +45,10 @@
 		{
 			"departmentcode": "ENGS",
 			"rolecode": "FIELD_INSPECTOR"
-		}
+		},
 		{
 			"departmentcode": "ENGS",
 			"rolecode": "BPA_COL_INITIATOR"
-		},
+		}
 	]
 }
