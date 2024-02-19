@@ -22350,7 +22350,7 @@
 			"orderNumber": "10",
 			"parentTitle": "",
 			"displayName": "Goa Industrial Development Act, 1965",
-			"documentReferenceId": "a29a5787-fe36-432e-9e82-33015dd0f156"
+			"documentName": "IDC_PORTAL_Goa_Industrial_Development_Act_1965"
 		},
 		{
 			"id": 2483,
@@ -22359,7 +22359,7 @@
 			"enabled": true,
 			"orderNumber": "20",
 			"displayName": "Goa Industrial Development Corporation (Allotment, Transfer and Sub-Lease) Regulation, 2023",
-			"documentReferenceId": "ffaf8472-b159-42f8-8c1c-b2f476835663"
+			"documentName": "IDC_PORTAL_Goa_IDC_Allotment_Transfer_And_Sub_Lease_Regulation_2023"
 		},
 		{
 			"id": 2512,
@@ -22376,7 +22376,7 @@
 			"enabled": true,
 			"orderNumber": "10",
 			"displayName": "Bethora",
-			"documentReferenceId": "19843ef3-f6c0-4247-98c6-7112d9358903"
+			"documentName": "IDC_PORTAL_SitePlane_Bethora"
 		},
 		{
 			"id": 2485,
@@ -22385,7 +22385,7 @@
 			"enabled": true,
 			"orderNumber": "20",
 			"displayName": "Bicholim",
-			"documentReferenceId": "fb4b9482-6324-4c7b-950b-648c988445a6"
+			"documentName": "IDC_PORTAL_SitePlane_Bicholim"
 		},
 		{
 			"id": 2495,
@@ -22394,7 +22394,7 @@
 			"enabled": true,
 			"orderNumber": "21",
 			"displayName": "Cacora",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Cacora"
 		},
 		{
 			"id": 2486,
@@ -22403,7 +22403,7 @@
 			"enabled": true,
 			"orderNumber": "30",
 			"displayName": "Canacona",
-			"documentReferenceId": "fc918794-6b2a-4958-ba63-439274b03308"
+			"documentName": "IDC_PORTAL_SitePlane_Canacona"
 		},
 		{
 			"id": 2487,
@@ -22412,7 +22412,7 @@
 			"enabled": true,
 			"orderNumber": "40",
 			"displayName": "Colvale",
-			"documentReferenceId": "573d4c1a-25f2-42af-99f8-4574d428f8a9"
+			"documentName": "IDC_PORTAL_SitePlane_Colvale"
 		},
 		{
 			"id": 2488,
@@ -22421,7 +22421,7 @@
 			"enabled": true,
 			"orderNumber": "50",
 			"displayName": "Corlim",
-			"documentReferenceId": "9d3afda4-20cc-44f1-999a-af809f15c7cf"
+			"documentName": "IDC_PORTAL_SitePlane_Corlim"
 		},
 		{
 			"id": 2489,
@@ -22430,7 +22430,7 @@
 			"enabled": true,
 			"orderNumber": "60",
 			"displayName": "Cuncolim",
-			"documentReferenceId": "f7c98fda-296b-44be-bf60-3176d784f213"
+			"documentName": "IDC_PORTAL_SitePlane_Cuncolim"
 		},
 		{
 			"id": 2491,
@@ -22439,7 +22439,7 @@
 			"enabled": true,
 			"orderNumber": "80",
 			"displayName": "Honda",
-			"documentReferenceId": "b43fcb2e-1096-48b3-9a54-3bde4fe3adc2"
+			"documentName": "IDC_PORTAL_SitePlane_Honda"
 		},
 		{
 			"id": 2493,
@@ -22448,7 +22448,7 @@
 			"enabled": true,
 			"orderNumber": "100",
 			"displayName": "Kundaim",
-			"documentReferenceId": "bb40302a-647f-48d2-b05a-6875424f4403"
+			"documentName": "IDC_PORTAL_SitePlane_Kundaim"
 		},
 		{
 			"id": 2494,
@@ -22457,7 +22457,7 @@
 			"enabled": true,
 			"orderNumber": "110",
 			"displayName": "Latambarcem",
-			"documentReferenceId": "0d185038-1338-4624-880a-6fd2edd342dc"
+			"documentName": "IDC_PORTAL_SitePlane_Latambarcem"
 		},
 		{
 			"id": 2496,
@@ -22466,7 +22466,7 @@
 			"enabled": true,
 			"orderNumber": "130",
 			"displayName": "Mapusa",
-			"documentReferenceId": "c2b6ff9a-e9f0-4bf3-96a7-03e29516db5f"
+			"documentName": "IDC_PORTAL_SitePlane_Mapusa"
 		},
 		{
 			"id": 2490,
@@ -22475,7 +22475,7 @@
 			"enabled": true,
 			"orderNumber": "131",
 			"displayName": "Marcaim",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Marcaim"
 		},
 		{
 			"id": 2497,
@@ -22484,7 +22484,7 @@
 			"enabled": true,
 			"orderNumber": "140",
 			"displayName": "Margao",
-			"documentReferenceId": "053946b3-3d51-4520-a4bd-ac9b56195e2f"
+			"documentName": "IDC_PORTAL_SitePlane_Margao"
 		},
 		{
 			"id": 2498,
@@ -22493,7 +22493,7 @@
 			"enabled": true,
 			"orderNumber": "150",
 			"displayName": "Panchwadi",
-			"documentReferenceId": "14b3f68c-0879-42a5-a800-668d2df708d5"
+			"documentName": "IDC_PORTAL_SitePlane_Panchwadi"
 		},
 		{
 			"id": 2499,
@@ -22502,7 +22502,7 @@
 			"enabled": true,
 			"orderNumber": "160",
 			"displayName": "Pilerne",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Pilerne"
 		},
 		{
 			"id": 2500,
@@ -22511,7 +22511,7 @@
 			"enabled": true,
 			"orderNumber": "170",
 			"displayName": "Pissurlem",
-			"documentReferenceId": "8923a86f-cc99-417b-b257-87e688af7a19"
+			"documentName": "IDC_PORTAL_SitePlane_Pissurlem"
 		},
 		{
 			"id": 2501,
@@ -22520,7 +22520,7 @@
 			"enabled": true,
 			"orderNumber": "180",
 			"displayName": "Quittol",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Quittol"
 		},
 		{
 			"id": 2502,
@@ -22529,7 +22529,7 @@
 			"enabled": true,
 			"orderNumber": "190",
 			"displayName": "Sancoale",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Sancoale"
 		},
 		{
 			"id": 2503,
@@ -22538,7 +22538,7 @@
 			"enabled": true,
 			"orderNumber": "200",
 			"displayName": "Sanguem",
-			"documentReferenceId": "17f82f51-f00f-4db2-b60c-cdd1131943f7"
+			"documentName": "IDC_PORTAL_SitePlane_Sanguem"
 		},
 		{
 			"id": 2504,
@@ -22547,7 +22547,7 @@
 			"enabled": true,
 			"orderNumber": "210",
 			"displayName": "Shiroda",
-			"documentReferenceId": "9d051d4e-a5b4-48dc-adbd-00f2abeca8f3"
+			"documentName": "IDC_PORTAL_SitePlane_Shiroda"
 		},
 		{
 			"id": 2505,
@@ -22556,7 +22556,7 @@
 			"enabled": true,
 			"orderNumber": "220",
 			"displayName": "Thivim",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Thivim"
 		},
 		{
 			"id": 2506,
@@ -22565,7 +22565,7 @@
 			"enabled": true,
 			"orderNumber": "230",
 			"displayName": "Tuem",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Tuem"
 		},
 		{
 			"id": 2507,
@@ -22574,7 +22574,7 @@
 			"enabled": true,
 			"orderNumber": "240",
 			"displayName": "Verna",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Canacona"
 		},
 		{
 			"id": 2513,
@@ -22591,7 +22591,7 @@
 			"enabled": true,
 			"orderNumber": "10",
 			"displayName": "Estate",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Estate"
 		},
 		{
 			"id": 2509,
@@ -22600,7 +22600,7 @@
 			"enabled": true,
 			"orderNumber": "20",
 			"displayName": "OBPAS",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_OBPAS"
 		},
 		{
 			"id": 2510,
@@ -22609,7 +22609,7 @@
 			"enabled": true,
 			"orderNumber": "30",
 			"displayName": "Engineering",
-			"documentReferenceId": ""
+			"documentName": "IDC_PORTAL_SitePlane_Engineering"
 		},
 		{
 			"id": 2538,
