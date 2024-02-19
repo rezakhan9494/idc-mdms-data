@@ -36,10 +36,6 @@
 		},
 		{
 			"departmentcode": "IPDC",
-			"rolecode": "BPA_COL_INITIATOR"
-		},
-		{
-			"departmentcode": "IPDC",
 			"rolecode": "BPA_COL_APPROVER"
 		},
 		{
@@ -49,6 +45,10 @@
 		{
 			"departmentcode": "ENGS",
 			"rolecode": "FIELD_INSPECTOR"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "BPA_COL_INITIATOR"
 		}
 	]
 }

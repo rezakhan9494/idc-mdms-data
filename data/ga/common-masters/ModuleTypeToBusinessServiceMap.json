@@ -29,8 +29,8 @@
 		{
 			"moduleName": "OBPAS",
 			"moduleCode": "OBPAS",
-			"businessServiceCode": "BPA1",
-			"businessServiceName": "Building Plan Approval",
+			"businessServiceCode": "WF_BPA_TC",
+			"businessServiceName": "Technical Clearance",
 			"navUrl": "/goa-idc/obpas/technicalClearance?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
