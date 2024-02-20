@@ -22888,7 +22888,7 @@
 		{
 			"id": 2559,
 			"name": "UserEntitySearch",
-			"url": "/user/entity/_search",
+			"url": "/user/enterprise/entity/_search",
 			"displayName": "User Entity Search",
 			"orderNumber": 1,
 			"enabled": true,
