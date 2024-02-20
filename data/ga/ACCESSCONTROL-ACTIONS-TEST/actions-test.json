@@ -23368,6 +23368,28 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EnterpriseWorkflowInitiate"
+		},
+		{
+			"id": 2596,
+			"name": "IdcNotificationMarkAsRead",
+			"url": "/idc-notification-service/usernotification/details/_markasread",
+			"displayName": "IdcNotification Mark As Read",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcNotificationMarkAsRead"
+		},
+		{
+			"id": 2597,
+			"name": "UserNotificationSearch",
+			"url": "/idc-notification-service/usernotification/details/_search",
+			"displayName": "UserNotification Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UserNotificationSearch"
 		}
 	]
 }
