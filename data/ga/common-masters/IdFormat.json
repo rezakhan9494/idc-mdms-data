@@ -637,6 +637,10 @@
     {
       "format": "PB-DTR-[cy:yyyy-MM-dd]-[SEQ_EG_DTR_ID]",
       "idname": "anuragpanda-dtr.registrationid"
-    }
+    },
+	{
+      "format": "GIDC-EU-[cy:yyyyMMdd]-[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
+      "idname": "enterprise.entity.registrationnumber"
+	}
   ]
 }
