@@ -4,22 +4,22 @@
   "EmployeeType": [
     {
       "code": "PERMANENT",
+      "name": "Permanent",
       "active": true
     },
     {
       "code": "TEMPORARY",
-      "active": true
-    },
-    {
-      "code": "DAILYWAGES",
+      "name": "Temporary",
       "active": true
     },
     {
       "code": "CONTRACT",
+      "name": "Contract",
       "active": true
     },
     {
       "code": "DEPUTATION",
+      "name": "Deputation",
       "active": true
     }
   ]
