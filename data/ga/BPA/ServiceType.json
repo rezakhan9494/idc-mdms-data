@@ -1,12 +1,39 @@
 {
-    "tenantId": "ga",
-    "moduleName": "BPA",
-    "ServiceType": [
-       {
-        "code": "NEW_CONSTRUCTION",
-        "active": true,
-        "applicationType":["BUILDING_PLAN_SCRUTINY","BUILDING_OC_PLAN_SCRUTINY"]
-      }
-    ]
-  }
-  
+  "tenantId":"ga",
+  "moduleName":"BPA",
+  "ServiceType":[
+     {
+        "code":"NEW_CONSTRUCTION",
+        "title":"New Construction",
+        "active":true,
+        "applicationType":[
+           "TECHNICAL_CLEARANCE",
+           "CONSTRUCTION_LICENCE",
+           "OCCUPANCY_CERTIFICATE",
+           "COMPLETION_ORDER"
+        ]
+     },
+     {
+        "code":"ADDITION_ALTERATION",
+        "title":"Addition and Alteration",
+        "active":true,
+        "applicationType":[
+           "TECHNICAL_CLEARANCE",
+           "CONSTRUCTION_LICENCE",
+           "OCCUPANCY_CERTIFICATE",
+           "COMPLETION_ORDER"
+        ]
+     },
+     {
+        "code":"RECONSTRUCTION",
+        "title":"Reconstruction",
+        "active":true,
+        "applicationType":[
+           "TECHNICAL_CLEARANCE",
+           "CONSTRUCTION_LICENCE",
+           "OCCUPANCY_CERTIFICATE",
+           "COMPLETION_ORDER"
+        ]
+     }
+  ]
+}
