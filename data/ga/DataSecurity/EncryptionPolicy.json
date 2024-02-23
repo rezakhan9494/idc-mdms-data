@@ -235,15 +235,6 @@
 					"type": "Normal"
 				}
 			]
-		},
-		{
-			"key": "EncrypterDecrypterWrapper",
-			"attributeList": [
-				{
-					"jsonPath": "value",
-					"type": "Normal"
-				}
-			]
 		}
 	]
 }
