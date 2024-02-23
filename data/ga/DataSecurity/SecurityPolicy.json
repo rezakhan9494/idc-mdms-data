@@ -1524,22 +1524,6 @@
 				}
 			],
 			"roleBasedDecryptionPolicy": []
-		},
-		{
-			"model": "EncrypterDecrypterTextWrapper",
-			"uniqueIdentifier": {
-				"name": "value",
-				"jsonPath": "/value"
-			},
-			"attributes": [
-				{
-					"name": "value",
-					"jsonPath": "value",
-					"patternId": "002",
-					"defaultVisibility": "PLAIN"
-				}
-			],
-			"roleBasedDecryptionPolicy": []
 		}
 	]
 }
