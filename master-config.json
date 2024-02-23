@@ -1333,5 +1333,30 @@
 				]
 			}
 		}
-	}
+	},
+	"egov-workflow-v2": {
+        "BusinessService": {
+            "isStateLevel": true,
+            "masterName": "BusinessService",
+            "moduleDefinition": null,
+            "uniqueKeys": [
+                "$.code"
+            ]
+        },
+        "BusinessServiceAction": {
+            "isStateLevel": true,
+            "masterName": "BusinessServiceAction",
+            "moduleDefinition": null,
+            "uniqueKeys": [
+                "$.code"
+            ]
+        },
+        "BusinessServiceState": {
+            "isStateLevel": true,
+            "masterName": "BusinessServiceState",
+            "uniqueKeys": [
+                "$.code"
+            ]
+        }
+    }
 }
