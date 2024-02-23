@@ -23390,17 +23390,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UserNotificationSearch"
-		},
-		{
-			"id": 2598,
-			"name": "Access_Actions_MDMS_get",
-			"url": "/access/v1/actions/mdms/_get",
-			"displayName": "Access_Actions_MDMS_get",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.Access_Actions_MDMS_get"
 		}
 	]
 }
