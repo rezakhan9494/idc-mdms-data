@@ -1526,7 +1526,7 @@
 			"roleBasedDecryptionPolicy": []
 		},
 		{
-			"model": "EncrypterDecrypterWrapper",
+			"model": "EncrypterDecrypterTextWrapper",
 			"uniqueIdentifier": {
 				"name": "value",
 				"jsonPath": "/value"
