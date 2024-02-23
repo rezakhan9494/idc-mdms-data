@@ -235,6 +235,15 @@
 					"type": "Normal"
 				}
 			]
+		},
+		{
+			"key": "RegistrationNumber",
+			"attributeList": [
+				{
+					"jsonPath": "registrationNumber",
+					"type": "Normal"
+				}
+			]
 		}
 	]
 }
