@@ -19,6 +19,13 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "serviceType": "NEW_CONSTRUCTION",
+      "riskType": "High",
+      "feeType": "ApplicationFee",
+      "amount": 100
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "serviceType": "NEW_CONSTRUCTION",
       "riskType": "ALL",
       "feeType": "ApplicationFee",
       "amount": 100
