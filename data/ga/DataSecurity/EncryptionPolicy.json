@@ -237,10 +237,10 @@
 			]
 		},
 		{
-			"key": "RegistrationNumber",
+			"key": "EncrypterDecrypterWrapper",
 			"attributeList": [
 				{
-					"jsonPath": "registrationNumber",
+					"jsonPath": "value",
 					"type": "Normal"
 				}
 			]
