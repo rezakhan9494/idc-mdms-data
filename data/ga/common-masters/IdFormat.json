@@ -641,6 +641,14 @@
 	{
       "format": "GIDC-EU-[cy:yyyyMMdd]-[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
       "idname": "enterprise.entity.registrationnumber"
+	},
+	{
+      "format": "GIDC-EMP-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+      "idname": "hrms.empregistrationnumber"
+	},
+	{
+      "format": "GIDC-ARCH-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+      "idname": "hrms.archregistrationnumber"
 	}
   ]
 }
