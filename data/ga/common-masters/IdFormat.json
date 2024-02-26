@@ -643,11 +643,11 @@
       "idname": "enterprise.entity.registrationnumber"
 	},
 	{
-      "format": "GIDC-EMP-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+      "format": "GIDC-EMP-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
       "idname": "hrms.empregistrationnumber"
 	},
 	{
-      "format": "GIDC-ARCH-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+      "format": "GIDC-ARCH-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
       "idname": "hrms.archregistrationnumber"
 	}
   ]
