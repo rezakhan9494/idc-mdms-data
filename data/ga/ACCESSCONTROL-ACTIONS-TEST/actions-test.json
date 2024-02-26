@@ -22275,7 +22275,7 @@
 			"id": 2534,
 			"url": "menu",
 			"displayName": "USER_MANAGEMENT",
-			"menuType": "EMP_E_SERVICES_SUB_MENU_HEADER",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
@@ -22284,7 +22284,7 @@
 			"id": 2530,
 			"url": "menu",
 			"displayName": "EMPLOYEE_REGISTRATION",
-			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/usermanagement/employeecreation"
@@ -22293,7 +22293,7 @@
 			"id": 2531,
 			"url": "menu",
 			"displayName": "ARCHITECT_ONBOARDING",
-			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/goa-idc/usermanagement/architectCreation"
@@ -22302,7 +22302,7 @@
 			"id": 2532,
 			"url": "menu",
 			"displayName": "EMPLOYEE_SEARCH",
-			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/goa-idc/usermanagement/searchapplication"
@@ -22311,7 +22311,7 @@
 			"id": 2533,
 			"url": "menu",
 			"displayName": "EMPLOYEE_ACTIVATION_DEACTIVATION",
-			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
 			"navigationURL": "/goa-idc/underconstruction"
@@ -22320,7 +22320,7 @@
 			"id": 2536,
 			"url": "menu",
 			"displayName": "OBPAS",
-			"menuType": "EMP_E_SERVICES_SUB_MENU_HEADER",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
@@ -22329,7 +22329,7 @@
 			"id": 2537,
 			"url": "menu",
 			"displayName": "Scrutiny Tool",
-			"menuType": "EMP_E_SERVICES_SUB_MENU",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/obpas/scrutinyTool"
