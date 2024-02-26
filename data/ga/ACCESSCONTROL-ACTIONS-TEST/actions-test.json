@@ -22689,7 +22689,7 @@
 			"enabled": true,
 			"code": "worklist_option",
 			"path": "ADMINISTRATION.admin_search_applications",
-			"navigationURL": "/admin_search_applications",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"backgroundColor": "#E3F0CF",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
@@ -22767,7 +22767,7 @@
 			"enabled": true,
 			"code": "worklist_option",
 			"path": "OBPAS.obpas_search_applications",
-			"navigationURL": "/obpas_search_applications",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"backgroundColor": "#E3F0CF",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
@@ -23044,6 +23044,7 @@
 			"backgroundColor": "#E3F0CF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
@@ -23096,6 +23097,7 @@
 			"backgroundColor": "#E7EDDF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
@@ -23148,6 +23150,7 @@
 			"backgroundColor": "#E7EEC9",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
@@ -23200,6 +23203,7 @@
 			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
@@ -23252,6 +23256,7 @@
 			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
@@ -23304,6 +23309,7 @@
 			"backgroundColor": "#DDE4CA",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
@@ -23356,6 +23362,7 @@
 			"backgroundColor": "#E3F0CF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
 			"code": "worklist_option"
 		},
 		{
