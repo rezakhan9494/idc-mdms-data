@@ -27048,148 +27048,127 @@
 			"rolecode": "LESSEE",
 			"actionid": 2471,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2472,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2514,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2515,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2516,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2517,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2518,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2522,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2528,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2474,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2475,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2477,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2520,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2519,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2534,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2530,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2531,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2532,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2533,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "ARCHITECT",
 			"actionid": 2536,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "ARCHITECT",
 			"actionid": 2537,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isMenu": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMPLOYEE",
@@ -27315,64 +27294,55 @@
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2542,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2542,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_VERIFIER",
 			"actionid": 2542,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2543,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2543,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_VERIFIER",
 			"actionid": 2543,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2544,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_VERIFIER",
 			"actionid": 2544,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_VERIFIER",
 			"actionid": 2544,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMPLOYEE",
@@ -27540,176 +27510,151 @@
 			"rolecode": "BPA_VERIFIER_L1",
 			"actionid": 2548,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_VERIFIER_L1",
 			"actionid": 2549,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_VERIFIER_L1",
 			"actionid": 2550,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_VERIFIER_L2",
 			"actionid": 2548,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_VERIFIER_L2",
 			"actionid": 2549,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_VERIFIER_L2",
 			"actionid": 2550,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_INITIATOR",
 			"actionid": 2548,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_INITIATOR",
 			"actionid": 2549,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_INITIATOR",
 			"actionid": 2550,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_APPROVER",
 			"actionid": 2551,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_APPROVER",
 			"actionid": 2552,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_APPROVER",
 			"actionid": 2553,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMP_APPROVER",
 			"actionid": 2554,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_APPROVER",
 			"actionid": 2551,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_APPROVER",
 			"actionid": 2552,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_APPROVER",
 			"actionid": 2553,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EU_APPROVER",
 			"actionid": 2554,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_APPROVER",
 			"actionid": 2555,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_APPROVER",
 			"actionid": 2556,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_APPROVER",
 			"actionid": 2557,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_APPROVER",
 			"actionid": 2558,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 2555,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 2556,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 2557,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "BPA_COL_APPROVER",
 			"actionid": 2558,
 			"actioncode": "",
-			"tenantId": "ga",
-			"isDashboardContent": true
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "EMPLOYEE",
