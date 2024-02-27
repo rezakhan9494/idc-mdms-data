@@ -478,6 +478,22 @@
       "format": "GA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
       "idname": "bpa.permitnumber"
     },
+	{
+      "format": "BP/TC/[cy:yyyy]/[SEQ_EG_BP_TC_APN]",
+      "idname": "bpa.tc.aplnumber"
+    },
+	{
+      "format": "BP/CL/[cy:yyyy]/[SEQ_EG_BP_CL_APN]",
+      "idname": "bpa.cl.aplnumber"
+    },
+	{
+      "format": "BP/OC/[cy:yyyy]/[SEQ_EG_BP_OC_APN]",
+      "idname": "bpa.oc.aplnumber"
+    },
+	{
+      "format": "BP/CO/[cy:yyyy]/[SEQ_EG_BP_CO_APN]",
+      "idname": "bpa.co.aplnumber"
+    },
     {
       "format": "PB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
       "idname": "pg.txnid"
