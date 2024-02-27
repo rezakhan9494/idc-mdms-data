@@ -643,6 +643,22 @@
       "idname": "enterprise.entity.registrationnumber"
 	},
 	{
+      "format": "BP/TC/[cy:yyyy]/[SEQ_EG_BP_TC_APN]",
+      "idname": "bpa.tc.aplnumber"
+    },
+	{
+      "format": "BP/CL/[cy:yyyy]/[SEQ_EG_BP_CL_APN]",
+      "idname": "bpa.cl.aplnumber"
+    },
+	{
+      "format": "BP/OC/[cy:yyyy]/[SEQ_EG_BP_OC_APN]",
+      "idname": "bpa.oc.aplnumber"
+    },
+	{
+      "format": "BP/CO/[cy:yyyy]/[SEQ_EG_BP_CO_APN]",
+      "idname": "bpa.co.aplnumber"
+    },
+    {
       "format": "GIDC-EMP-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
       "idname": "hrms.empregistrationnumber"
 	},

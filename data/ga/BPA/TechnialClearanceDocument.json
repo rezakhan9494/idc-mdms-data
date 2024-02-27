@@ -1,0 +1,30 @@
+{
+   "tenantId": "ga",
+   "moduleName": "BPA",
+   "TechnialClearanceDocument": [
+     {
+       "title": "Submission Building Plan",
+       "field": "SITEPLAN",
+       "type": "CONSTANT_DATA_FIELD.MULTI_FILE_FIELD",
+       "isRequired": true
+     },
+     {
+       "title": "Questionnaire",
+       "field": "DOCUMENT_QUESTIONNAIRE",
+       "type": "CONSTANT_DATA_FIELD.MULTI_FILE_FIELD",
+       "isRequired": true
+     },
+     {
+       "title": "Affidavit from the owner",
+       "field": "DOCUMENT_AFFIDAVIT",
+       "type": "CONSTANT_DATA_FIELD.MULTI_FILE_FIELD",
+       "isRequired": false
+     },
+     {
+       "title": "Power of Attorney",
+       "field": "DOCUMENT_POWER_ATTORNEY",
+       "type": "CONSTANT_DATA_FIELD.MULTI_FILE_FIELD",
+       "isRequired": false
+     }
+   ]
+ }
