@@ -23446,6 +23446,54 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UserNotificationSearch"
+		},
+		{
+			"id": 2598,
+			"name": "engineering_inbox",
+			"url": "dashboard-worklist",
+			"displayName": "INBOX",
+			"orderNumber": 10,
+			"enabled": true,
+			"code": "worklist",
+			"path": "ENGINEERING.engineering_inbox",
+			"moduleName": "Engineering",
+			"navigationURL": "/engineering_inbox",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2599,
+			"name": "engineering_nearing_slas",
+			"url": "dashboard-worklist",
+			"displayName": "NEARING_SLAS",
+			"orderNumber": 20,
+			"enabled": true,
+			"code": "worklist",
+			"path": "ENGINEERING.engineering_nearing_slas",
+			"moduleName": "Engineering",
+			"navigationURL": "/engineering_nearing_slas",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2600,
+			"name": "engineering_search_applications",
+			"url": "dashboard-worklist",
+			"displayName": "SEARCH_APPLICATIONS",
+			"orderNumber": 30,
+			"enabled": true,
+			"code": "worklist_option",
+			"path": "ENGINEERING.engineering_search_applications",
+			"moduleName": "Engineering",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
 		}
 	]
 }

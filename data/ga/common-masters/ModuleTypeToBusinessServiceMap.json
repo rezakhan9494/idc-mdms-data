@@ -33,6 +33,14 @@
 			"businessServiceName": "Technical Clearance",
 			"navUrl": "/goa-idc/obpas/technicalClearance?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WF_BPA_CL",
+			"businessServiceName": "Construction Licence",
+			"navUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
