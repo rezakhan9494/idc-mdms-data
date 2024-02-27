@@ -4,10 +4,22 @@
   "Specalization": [
     {
       "code": "ARTS",
+      "name": "Arts",
       "active": true
     },
     {
       "code": "SCIENCE",
+      "name": "Science",
+      "active": true
+    },
+    {
+      "code": "COMMERCE",
+      "name": "Commerce",
+      "active": true
+    },
+    {
+      "code": "N/A",
+      "name": "N/A",
       "active": true
     }
   ]

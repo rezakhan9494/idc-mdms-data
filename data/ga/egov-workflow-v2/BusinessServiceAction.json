@@ -1,0 +1,90 @@
+{
+	"tenantId": "ga",
+	"moduleName": "egov-workflow-v2",
+	"BusinessServiceAction": [
+		{
+			"code": "CREATE",
+			"name": "Create",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "UPDATE",
+			"name": "Send to Verifier",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "VERIFY",
+			"name": "Verify",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "RETURN_TO_INITIATOR",
+			"name": "Return to Initiator",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "RETURN_TO_VERIFIER",
+			"name": "Return to Verifier",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "SUBMIT",
+			"name": "Submit",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "FORWARD",
+			"name": "Forward",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "REJECT",
+			"name": "Reject",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "APPROVE",
+			"name": "Approve",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "SENDBACK_TO_CITIZEN",
+			"name": "Send back to Citizen",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "INITIATE",
+			"name": "Initiate",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "PAY",
+			"name": "Pay",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "SKIP_PAYMENT",
+			"name": "Skip Payment",
+			"description": "",
+			"active": true
+		},
+		{
+			"code": "SENDBACK",
+			"name": "Send back",
+			"description": "",
+			"active": true
+		}
+	]
+}

@@ -463,19 +463,19 @@
       "idname": "sewerageservice.connection.id"
     },
     {
-      "format": "GA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+      "format": "GIDC-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
       "idname": "bpa.aplnumber"
     },
     {
-      "format": "GA-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_APN]",
+      "format": "GIDC-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_APN]",
       "idname": "bpa.tp.aplnumber"
     },
 	{
-      "format": "GA-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_PN]",
+      "format": "GIDC-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_PN]",
       "idname": "bpa.tp.permitnumber"
     },
     {
-      "format": "GA-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+      "format": "GIDC-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
       "idname": "bpa.permitnumber"
     },
 	{
@@ -653,6 +653,10 @@
     {
       "format": "PB-DTR-[cy:yyyy-MM-dd]-[SEQ_EG_DTR_ID]",
       "idname": "anuragpanda-dtr.registrationid"
-    }
+    },
+	{
+      "format": "GIDC-EU-[cy:yyyyMMdd]-[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
+      "idname": "enterprise.entity.registrationnumber"
+	}
   ]
 }

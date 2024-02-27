@@ -1,0 +1,54 @@
+{
+	"tenantId": "ga",
+	"moduleName": "common-masters",
+	"EntityCategory": [
+		{
+			"code": "INDIVIDUAL",
+			"name": "Individual",
+			"description": "Individual",
+			"active": true
+		},
+		{
+			"code": "TRUST",
+			"name": "Trust",
+			"description": "Trust",
+			"active": true
+		},
+		{
+			"code": "PROP_FIRM",
+			"name": "Proprietorship firm",
+			"description": "Proprietorship firm",
+			"active": true
+		},
+		{
+			"code": "PARTNERSHIP",
+			"name": "Partnership",
+			"description": "Partnership",
+			"active": true
+		},
+		{
+			"code": "LIMITED_LIABILITY_PARTNERSHIP",
+			"name": "Limited Liability Partnership",
+			"description": "Limited Liability Partnership",
+			"active": true
+		},
+		{
+			"code": "LTD_COMPANY",
+			"name": "Private or Public Limited Company",
+			"description": "Private or Public Limited Company",
+			"active": true
+		},
+		{
+			"code": "COOP_SOCIETY",
+			"name": "Co-operative Society",
+			"description": "Co-operative Society",
+			"active": true
+		},
+		{
+			"code": "GOV_STAT_CORP",
+			"name": "Central Government / State Government Department / Statutory Corporation",
+			"description": "Central Government / State Government Department / Statutory Corporation",
+			"active": true
+		}
+	]
+}

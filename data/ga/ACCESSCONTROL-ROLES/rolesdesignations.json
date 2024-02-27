@@ -1,0 +1,72 @@
+{
+	"tenantId": "ga",
+	"moduleName": "ACCESSCONTROL-ROLES",
+	"rolesdesignations": [
+		{
+			"rolecode": "EMP_CREATOR",
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EU_VERIFIER",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_VERIFIER_L1",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_VERIFIER_L2",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_COL_INITIATOR",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_COL_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "GIDC_MD",
+			"designationCode": "MD",
+			"designationName": "Managing Director",
+			"active": true
+		}
+	]
+}
