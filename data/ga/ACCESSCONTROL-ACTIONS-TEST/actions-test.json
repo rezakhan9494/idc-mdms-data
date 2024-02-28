@@ -22922,7 +22922,7 @@
 			"moduleName": "Administration",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#45852E",
+			"iconColor": "#B7CF53",
 			"iconName": "fa-file"
 		},
 		{
@@ -22937,7 +22937,7 @@
 			"moduleName": "Estate",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#80B036",
 			"iconName": "fa-file"
 		},
 		{
@@ -22952,7 +22952,7 @@
 			"moduleName": "OBPAS",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#323E4A",
+			"iconColor": "#45852E",
 			"iconName": "fa-file"
 		},
 		{
@@ -22967,7 +22967,7 @@
 			"moduleName": "Engineering",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#90A82F",
+			"iconColor": "#323E4A",
 			"iconName": "fa-file"
 		},
 		{
@@ -22982,7 +22982,7 @@
 			"moduleName": "Legal",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#4C6245",
+			"iconColor": "#B7CF53",
 			"iconName": "fa-file"
 		},
 		{
@@ -22997,7 +22997,7 @@
 			"moduleName": "NOCs",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#45852E",
+			"iconColor": "#80B036",
 			"iconName": "fa-file"
 		},
 		{
@@ -23012,7 +23012,7 @@
 			"moduleName": "Tax & Dues Collection",
 			"enabled": true,
 			"backgroundColor": "#FFFFFF",
-			"iconColor": "#516900",
+			"iconColor": "#45852E",
 			"iconName": "fa-file"
 		},
 		{
