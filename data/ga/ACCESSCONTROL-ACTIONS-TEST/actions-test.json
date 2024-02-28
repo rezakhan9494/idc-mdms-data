@@ -22305,7 +22305,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "/goa-idc/usermanagement/searchapplication"
+			"navigationURL": "/goa-idc/underconstruction"
 		},
 		{
 			"id": 2533,
