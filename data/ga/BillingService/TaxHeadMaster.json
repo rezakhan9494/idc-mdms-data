@@ -2482,6 +2482,26 @@
       "order": "0",
       "isRequired": false,
       "isDiscountApplicable": false
+    },
+	{
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Technical Clearance Application fees",
+      "code": "BPA_TC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Technical Clearance Application GST fees",
+      "code": "BPA_APPL_GST_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
   ]
 }
