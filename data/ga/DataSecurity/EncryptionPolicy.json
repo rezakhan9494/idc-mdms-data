@@ -72,6 +72,14 @@
 				{
 					"jsonPath": "passport",
 					"type": "Normal"
+				},
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
+					"type": "Normal"
 				}
 			]
 		},
@@ -100,6 +108,14 @@
 				},
 				{
 					"jsonPath": "emailId",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
 					"type": "Normal"
 				}
 			]
