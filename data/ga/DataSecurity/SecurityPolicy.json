@@ -122,6 +122,18 @@
 					"jsonPath": "passport",
 					"patternId": "001",
 					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "firstName",
+					"jsonPath": "firstName",
+					"patternId": "002",
+					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "lastName",
+					"jsonPath": "lastName",
+					"patternId": "002",
+					"defaultVisibility": "PLAIN"
 				}
 			],
 			"roleBasedDecryptionPolicy": [
@@ -568,6 +580,18 @@
 					"name": "passport",
 					"jsonPath": "passport",
 					"patternId": null,
+					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "firstName",
+					"jsonPath": "firstName",
+					"patternId": "002",
+					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "lastName",
+					"jsonPath": "lastName",
+					"patternId": "002",
 					"defaultVisibility": "PLAIN"
 				}
 			],
