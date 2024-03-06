@@ -21567,7 +21567,7 @@
 		{
 			"id": 2409,
 			"name": "SearchDepartmentRolesByDepartmentCode",
-			"url": "/egov-hrms/employees/departmentroles/{tenantId}/{departmentCode}",
+			"url": "/egov-hrms/employees/departmentroles",
 			"displayName": "Search department-roles by department-code",
 			"orderNumber": 1,
 			"enabled": true,
