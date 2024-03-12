@@ -22314,7 +22314,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/empsearch?active_deactive=true"
 		},
 		{
 			"id": 2536,
