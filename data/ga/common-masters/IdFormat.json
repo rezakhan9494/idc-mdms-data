@@ -665,6 +665,14 @@
 	{
       "format": "GIDC-ARCH-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
       "idname": "hrms.archregistrationnumber"
+	},
+    {
+      "format": "GIDC-EMP-UPDATE-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+      "idname": "hrms.emp.update.registrationnumber"
+	},
+	{
+      "format": "GIDC-ARCH-UPDATE-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+      "idname": "hrms.arch.update.registrationnumber"
 	}
   ]
 }
