@@ -23494,6 +23494,28 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2601,
+			"name": "EmployeeProfileUpdateSearch",
+			"url": "/egov-hrms/employees/profile-update/_search",
+			"displayName": "Employee Profile-Update Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EmployeeProfileUpdateSearch"
+		},
+		{
+			"id": 2602,
+			"name": "EmployeeProfileUpdateInitiate",
+			"url": "/egov-hrms/employees/profile-update/_initiate",
+			"displayName": "Employee Profile-Update Initiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EmployeeProfileUpdateInitiate"
 		}
 	]
 }
