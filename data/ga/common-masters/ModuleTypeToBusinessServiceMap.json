@@ -27,6 +27,14 @@
 			"active": true
 		},
 		{
+			"moduleName": "Administration",
+			"moduleCode": "ADMIN",
+			"businessServiceCode": "EMP-PROFILE-UPDATE",
+			"businessServiceName": "Employee Profile Update",
+			"navUrl": "/goa-idc/emp/empPreview/profile-update?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
 			"moduleName": "OBPAS",
 			"moduleCode": "OBPAS",
 			"businessServiceCode": "WF_BPA_TC",
