@@ -69,19 +69,19 @@
 			"active": true
 		},
 		{
-			"rolecode": "ESTD_VERIFIER_AM",
+			"rolecode": "ESTD_VERIFIER_L1",
 			"designationCode": "AM",
 			"designationName": "Assistant Manager",
 			"active": true
 		},
 		{
-			"rolecode": "ESTD_VERIFIER_DGM",
+			"rolecode": "ESTD_VERIFIER_L2",
 			"designationCode": "DGM",
 			"designationName": "Deputy General Manager",
 			"active": true
 		},
 		{
-			"rolecode": "ESTD_VERIFIER_GM",
+			"rolecode": "ESTD_VERIFIER_L3",
 			"designationCode": "GM",
 			"designationName": "General Manager",
 			"active": true

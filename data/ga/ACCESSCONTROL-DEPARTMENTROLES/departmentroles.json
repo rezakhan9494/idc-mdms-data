@@ -52,15 +52,15 @@
 		},
 		{
 			"departmentcode": "ESTD",
-			"rolecode": "ESTD_VERIFIER_AM"
+			"rolecode": "ESTD_VERIFIER_L1"
 		},
 		{
 			"departmentcode": "ESTD",
-			"rolecode": "ESTD_VERIFIER_DGM"
+			"rolecode": "ESTD_VERIFIER_L2"
 		},
 		{
 			"departmentcode": "ESTD",
-			"rolecode": "ESTD_VERIFIER_GM"
+			"rolecode": "ESTD_VERIFIER_L3"
 		}
 	]
 }
