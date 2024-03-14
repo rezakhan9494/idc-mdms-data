@@ -67,6 +67,30 @@
 			"designationCode": "MD",
 			"designationName": "Managing Director",
 			"active": true
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_AM",
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_DGM",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_GM",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ESTD_APPROVER",
+			"designationCode": "MD",
+			"designationName": "Managing Director",
+			"active": true
 		}
 	]
 }
