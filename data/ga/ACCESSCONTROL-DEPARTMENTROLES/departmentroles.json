@@ -49,6 +49,18 @@
 		{
 			"departmentcode": "ENGS",
 			"rolecode": "BPA_COL_INITIATOR"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ESTD_VERIFIER_L1"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ESTD_VERIFIER_L2"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ESTD_VERIFIER_L3"
 		}
 	]
 }

@@ -126,6 +126,22 @@
 			"code": "FIELD_INSPECTOR",
 			"name": "Field Inspector",
 			"description": "Field Inspector."
+		},
+		{
+			"code": "ESTD_VERIFIER_L1",
+			"name": "Estate Verifier L1",
+			"description": "Estate Verifier L1"
+		},
+		{
+			"code": "ESTD_VERIFIER_L2",
+			"name": "Estate Verifier L2",
+			"description": "Estate Verifier L2"
+		},
+		{
+			"code": "ESTD_VERIFIER_L3",
+			"name": "Estate Verifier L3",
+			"description": "Estate Verifier L3"
 		}
+		
 	]
 }
