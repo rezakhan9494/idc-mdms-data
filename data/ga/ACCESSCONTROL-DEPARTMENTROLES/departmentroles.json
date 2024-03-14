@@ -61,10 +61,6 @@
 		{
 			"departmentcode": "ESTD",
 			"rolecode": "ESTD_VERIFIER_GM"
-		},
-		{
-			"departmentcode": "ESTD",
-			"rolecode": "ESTD_APPROVER"
 		}
 	]
 }

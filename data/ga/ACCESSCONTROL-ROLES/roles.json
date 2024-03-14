@@ -141,11 +141,7 @@
 			"code": "ESTD_VERIFIER_GM",
 			"name": "Estate Verifier GM",
 			"description": "Estate Verifier GM"
-		},
-		{
-			"code": "ESTD_APPROVER",
-			"name": "Estate Approver",
-			"description": "Estate Advertisement Approved by MD only"
 		}
+		
 	]
 }

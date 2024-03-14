@@ -85,12 +85,6 @@
 			"designationCode": "GM",
 			"designationName": "General Manager",
 			"active": true
-		},
-		{
-			"rolecode": "ESTD_APPROVER",
-			"designationCode": "MD",
-			"designationName": "Managing Director",
-			"active": true
 		}
 	]
 }
