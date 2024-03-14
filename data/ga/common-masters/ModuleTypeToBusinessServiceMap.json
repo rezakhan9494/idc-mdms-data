@@ -31,7 +31,7 @@
 			"moduleCode": "ADMIN",
 			"businessServiceCode": "EMP-PROFILE-UPDATE",
 			"businessServiceName": "Employee Profile Update",
-			"navUrl": "/goa-idc/emp/empPreview/profile-update?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/emp-profile?update=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
