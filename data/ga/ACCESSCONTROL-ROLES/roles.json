@@ -141,7 +141,11 @@
 			"code": "ESTD_VERIFIER_L3",
 			"name": "Estate Verifier L3",
 			"description": "Estate Verifier L3"
+		},
+		{
+			"code": "DEED_CREATOR",
+			"name": "Deed Creator",
+			"description": "Deed Creator"
 		}
-		
 	]
 }
