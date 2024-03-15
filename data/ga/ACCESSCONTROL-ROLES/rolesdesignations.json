@@ -85,6 +85,12 @@
 			"designationCode": "GM",
 			"designationName": "General Manager",
 			"active": true
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"designationCode": "LA",
+			"designationName": "Legal Assistant",
+			"active": true
 		}
 	]
 }

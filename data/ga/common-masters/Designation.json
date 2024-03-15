@@ -55,6 +55,12 @@
 			"name": "Member Secretary",
 			"description": "Member Secretary (MSC)",
 			"active": true
+		},
+		{
+			"code": "LA",
+			"name": "Legal Assistant",
+			"description": "Legal Assistant (LA)",
+			"active": true
 		}
 	]
 }

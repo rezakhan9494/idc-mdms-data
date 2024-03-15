@@ -62,5 +62,9 @@
 			"departmentcode": "ESTD",
 			"rolecode": "ADV_VERIFIER_L3"
 		},
+		{
+			"departmentcode": "LGLS",
+			"rolecode": "DEED_CREATOR"
+		}
 	]
 }
