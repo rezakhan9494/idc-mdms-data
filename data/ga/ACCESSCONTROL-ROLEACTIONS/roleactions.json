@@ -27129,7 +27129,31 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMPLOYEE",
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2534,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"actionid": 2534,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"actionid": 2534,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"actionid": 2534,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_VERIFIER",
 			"actionid": 2534,
 			"actioncode": "",
 			"tenantId": "ga"
