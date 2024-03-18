@@ -669,6 +669,10 @@
 		{
 			"format": "GIDC-PRF-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.emp.profile.update.registrationnumber"
+		},
+		{
+			"format": "GIDC-DEED-[cy:yyyyMMdd]-[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
+			"idname": "idc.legal.deed.applicationnumber"
 		}
 	]
 }
