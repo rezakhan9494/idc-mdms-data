@@ -14,5 +14,12 @@
     "roles": [
         "AIRPORT_AUTHORITY_APPROVER"
     ]
+    },
+	{
+        "code": "HEALTH_NOC_SRV",
+        "active": true,
+        "roles": [
+        "HEALTH_NOC_APPROVER"
+        ]
     }]
 }

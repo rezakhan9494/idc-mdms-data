@@ -6,17 +6,25 @@
        "code": "FIRE_NOC",
        "isActive": true,
        "offlineWF":"FIRE_NOC_OFFLINE",
-       "onlineWF":"FIRE_NOC_SRV",
+       "onlineWF":"NOC",
        "mode":"online",
        "NocUserRole":"FIRE_NOC_APPROVER"
     },
     {
       "code":"AIRPORT_AUTHORITY",
       "isActive": true,
-      "offlineWF":"AIRPORT_NOC_OFFLINE",
-      "onlineWF":"AIRPORT_NOC_SRV",
+      "offlineWF":"NOC",
+      "onlineWF":"NOC",
       "mode":"offline",
        "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
+    },
+    {
+      "code":"HEALTH_NOC",
+      "isActive": true,
+      "offlineWF":"NOC",
+      "onlineWF":"NOC",
+      "mode":"online",
+       "NocUserRole":"HEALTH_NOC_APPROVER"
     }
   ]
 }
