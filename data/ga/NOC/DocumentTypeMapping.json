@@ -61,6 +61,36 @@
                "required": false
             }
          ]
+      },
+	  {
+         "applicationType": "PROVISIONAL",
+         "nocType": "HEALTH_NOC",
+         "docTypes":[
+            {
+               "documentType": "NOC.HEALTH",
+               "required": true
+            }
+         ]
+      },
+      {
+         "applicationType": "NEW",
+         "nocType": "HEALTH_NOC",
+         "docTypes":[
+            {
+               "documentType": "NOC.HEALTH",
+               "required": true
+            }
+         ]
+      },
+      {
+         "applicationType": "RENEW",
+         "nocType": "HEALTH_NOC",
+         "docTypes":[
+            {
+               "documentType": "NOC.HEALTH",
+               "required": false
+            }
+         ]
       }
    ]
 }
