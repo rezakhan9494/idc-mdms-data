@@ -91,6 +91,12 @@
 			"designationCode": "LA",
 			"designationName": "Legal Assistant",
 			"active": true
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"designationCode": "ARM",
+			"designationName": "Area Manager",
+			"active": true
 		}
 	]
 }
