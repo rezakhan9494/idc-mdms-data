@@ -567,6 +567,18 @@
 			"idname": "noc.application.number"
 		},
 		{
+			"format": "NOC/FIRE/[SEQ_NOC_APN]",
+			"idname": "fire.noc.number"
+		},
+		{
+			"format": "NOC/HEALTH/[SEQ_NOC_APN]",
+			"idname": "health.noc.number"
+		},
+		{
+			"format": "NOC/FNB/[SEQ_NOC_APN]",
+			"idname": "fnb.noc.number"
+		},
+		{
 			"format": "PB-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
 			"idname": "pgr.servicerequestid"
 		},
