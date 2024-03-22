@@ -27931,6 +27931,36 @@
 			"actionid": 2602,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2603,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2604,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2604,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2605,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2605,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }

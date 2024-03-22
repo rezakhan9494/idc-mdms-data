@@ -146,6 +146,11 @@
 			"code": "DEED_CREATOR",
 			"name": "Deed Creator",
 			"description": "Deed Creator"
+		},
+		{
+			"code": "NOC_CREATOR",
+			"name": "NOC Creator",
+			"description": "NOC Creator"
 		}
 	]
 }

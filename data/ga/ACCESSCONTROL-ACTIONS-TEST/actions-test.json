@@ -23516,6 +23516,39 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EmployeeProfileUpdateInitiate"
+		},
+		{
+			"id": 2603,
+			"name": "NocCreateV2",
+			"url": "/noc-services/v2/noc/_create",
+			"displayName": "NOC Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.NocCreateV2"
+		},
+		{
+			"id": 2604,
+			"name": "NocSearchV2",
+			"url": "/noc-services/v2/noc/_search",
+			"displayName": "NOC Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.NocSearchV2"
+		},
+		{
+			"id": 2605,
+			"name": "NocWorkflowInitiate",
+			"url": "/noc-services/v2/noc/workflow/process/_initiate",
+			"displayName": "Noc Workflow Initiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.NocWorkflowInitiate"
 		}
 	]
 }

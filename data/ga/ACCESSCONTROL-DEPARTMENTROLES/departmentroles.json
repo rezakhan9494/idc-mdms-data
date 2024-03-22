@@ -51,6 +51,10 @@
 			"rolecode": "BPA_COL_INITIATOR"
 		},
 		{
+			"departmentcode": "ENGS",
+			"rolecode": "NOC_CREATOR"
+		},
+		{
 			"departmentcode": "ESTD",
 			"rolecode": "ADV_VERIFIER_L1"
 		},
