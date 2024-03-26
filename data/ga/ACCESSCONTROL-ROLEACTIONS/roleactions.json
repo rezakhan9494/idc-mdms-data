@@ -27075,7 +27075,7 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "LESSEE",
 			"actionid": 2517,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27087,7 +27087,7 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "LESSEE",
 			"actionid": 2522,
 			"actioncode": "",
 			"tenantId": "ga"
