@@ -27961,6 +27961,48 @@
 			"actionid": 2605,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2606,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2607,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2607,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2608,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2608,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2609,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2609,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }

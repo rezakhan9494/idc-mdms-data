@@ -22055,7 +22055,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/applyfortransfer"
 		},
 		{
 			"id": 2515,
@@ -22064,7 +22064,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/applyforsptransfer "
 		},
 		{
 			"id": 2516,
@@ -22091,7 +22091,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 80,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/mortgage"
 		},
 		{
 			"id": 2522,
@@ -23549,6 +23549,50 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.NocWorkflowInitiate"
+		},
+		{
+			"id": 2606,
+			"name": "IdcLegalDeedCreate",
+			"url": "/idc-legal-service/legal/v1/deed/_create",
+			"displayName": "Idc Legal Deed Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcLegalDeedCreate"
+		},
+		{
+			"id": 2607,
+			"name": "IdcLegalDeedUpdate",
+			"url": "/idc-legal-service/legal/v1/deed/_update",
+			"displayName": "Idc Legal Deed Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcLegalDeedUpdate"
+		},
+		{
+			"id": 2608,
+			"name": "IdcLegalDeedSearch",
+			"url": "/idc-legal-service/legal/v1/deed/_search",
+			"displayName": "Idc Legal Deed Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcLegalDeedSearch"
+		},
+		{
+			"id": 2609,
+			"name": "IdcLegalDeedWorkflowInitiate",
+			"url": "/idc-legal-service/legal/v1/deed/workflow/process/_initiate",
+			"displayName": "Idc Legal Deed Workflow Initiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcLegalDeedWorkflowInitiate"
 		}
 	]
 }
