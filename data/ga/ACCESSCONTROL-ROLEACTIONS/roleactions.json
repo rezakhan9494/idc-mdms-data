@@ -28021,6 +28021,24 @@
 			"actionid": 2612,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2613,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2614,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2615,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }

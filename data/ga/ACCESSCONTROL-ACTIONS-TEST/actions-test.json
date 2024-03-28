@@ -23636,6 +23636,49 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2613,
+			"url": "dashboard-worklist",
+			"displayName": "INBOX",
+			"orderNumber": 10,
+			"enabled": true,
+			"code": "worklist",
+			"path": "LEGAL.noc_inbox",
+			"moduleName": "Legal",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2614,
+			"url": "dashboard-worklist",
+			"displayName": "OVERDUE",
+			"orderNumber": 20,
+			"enabled": true,
+			"code": "worklist",
+			"path": "LEGAL.noc_nearing_slas",
+			"moduleName": "Legal",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2615,
+			"url": "dashboard-worklist",
+			"displayName": "SEARCH_APPLICATIONS",
+			"orderNumber": 30,
+			"enabled": true,
+			"code": "worklist_option",
+			"path": "LEGAL.noc_search_applications",
+			"moduleName": "Legal",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
 		}
 	]
 }
