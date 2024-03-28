@@ -22046,7 +22046,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/apply-deed?deedType=LEASE_DEED"
 		},
 		{
 			"id": 2514,
@@ -22082,7 +22082,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/apply-deed?deedType=DEED_OF_SURRENDER"
 		},
 		{
 			"id": 2518,
@@ -22100,7 +22100,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 90,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/apply-deed?deedType=DEED_OF_EXTENSION"
 		},
 		{
 			"id": 2528,
