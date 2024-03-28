@@ -23593,6 +23593,49 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.IdcLegalDeedWorkflowInitiate"
+		},
+		{
+			"id": 2610,
+			"url": "dashboard-worklist",
+			"displayName": "INBOX",
+			"orderNumber": 10,
+			"enabled": true,
+			"code": "worklist",
+			"path": "NOCS.noc_inbox",
+			"moduleName": "NOCs",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2611,
+			"url": "dashboard-worklist",
+			"displayName": "OVERDUE",
+			"orderNumber": 20,
+			"enabled": true,
+			"code": "worklist",
+			"path": "NOCS.noc_nearing_slas",
+			"moduleName": "NOCs",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2612,
+			"url": "dashboard-worklist",
+			"displayName": "SEARCH_APPLICATIONS",
+			"orderNumber": 30,
+			"enabled": true,
+			"code": "worklist_option",
+			"path": "NOCS.noc_search_applications",
+			"moduleName": "NOCs",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
 		}
 	]
 }

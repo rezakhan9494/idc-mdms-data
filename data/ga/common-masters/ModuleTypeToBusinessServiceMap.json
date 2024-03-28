@@ -57,6 +57,14 @@
 			"businessServiceName": "Legal Deed",
 			"navUrl": "/goa-idc/lease-deed?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "NOCs",
+			"moduleCode": "NOCS",
+			"businessServiceCode": "NOC",
+			"businessServiceName": "No Objection Certificate",
+			"navUrl": "/goa-idc/noc?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
