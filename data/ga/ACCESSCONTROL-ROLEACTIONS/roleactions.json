@@ -28003,6 +28003,42 @@
 			"actionid": 2609,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2610,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2611,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2612,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2613,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2614,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"actionid": 2615,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
