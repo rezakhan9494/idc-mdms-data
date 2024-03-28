@@ -49,6 +49,14 @@
 			"businessServiceName": "Construction Licence",
 			"navUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL-DEED",
+			"businessServiceName": "Legal Deed",
+			"navUrl": "/goa-idc/lease-deed?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
