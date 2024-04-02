@@ -49,6 +49,14 @@
 			"businessServiceName": "No Objection Certificate",
 			"navUrl": "/goa-idc/noc?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "OBPAS",
+			"moduleCode": "OBPAS",
+			"businessServiceCode": "WF_BPA_OC",
+			"businessServiceName": "Occupancy Certificate",
+			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
