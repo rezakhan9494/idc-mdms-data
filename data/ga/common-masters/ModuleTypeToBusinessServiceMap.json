@@ -19,22 +19,6 @@
 			"active": true
 		},
 		{
-			"moduleName": "Administration",
-			"moduleCode": "ADMIN",
-			"businessServiceCode": "EU",
-			"businessServiceName": "Enterprise User Registration",
-			"navUrl": "/goa-idc/eu/euPreview?applicationNumber=%s&tenantId=%s",
-			"active": true
-		},
-		{
-			"moduleName": "Administration",
-			"moduleCode": "ADMIN",
-			"businessServiceCode": "EMP-PROFILE-UPDATE",
-			"businessServiceName": "Employee Profile Update",
-			"navUrl": "/goa-idc/emp-profile?update=true&applicationNumber=%s&tenantId=%s",
-			"active": true
-		},
-		{
 			"moduleName": "OBPAS",
 			"moduleCode": "OBPAS",
 			"businessServiceCode": "WF_BPA_TC",
