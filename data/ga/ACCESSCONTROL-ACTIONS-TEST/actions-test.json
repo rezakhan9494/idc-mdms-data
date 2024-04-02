@@ -22310,7 +22310,7 @@
 		{
 			"id": 2533,
 			"url": "menu",
-			"displayName": "EMPLOYEE_ACTIVATION_DEACTIVATION",
+			"displayName": "EMPLOYEE_REACTIVATION_DEACTIVATION",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
