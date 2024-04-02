@@ -27993,6 +27993,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "GIDC_MD",
+			"actionid": 2608,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ALLOTTEE",
 			"actionid": 2609,
 			"actioncode": "",
@@ -28000,6 +28006,12 @@
 		},
 		{
 			"rolecode": "DEED_CREATOR",
+			"actionid": 2609,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "GIDC_MD",
 			"actionid": 2609,
 			"actioncode": "",
 			"tenantId": "ga"
