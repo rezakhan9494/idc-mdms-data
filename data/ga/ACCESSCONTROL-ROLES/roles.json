@@ -151,6 +151,11 @@
 			"code": "NOC_CREATOR",
 			"name": "NOC Creator",
 			"description": "NOC Creator"
+		},
+		{
+			"code": "BPA_OC_APPROVER",
+			"name": "Occupancy Certificate Approver",
+			"description": "Occupancy Certificate Approver"
 		}
 	]
 }
