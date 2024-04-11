@@ -1,0 +1,23 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"PowerRequirement": [
+		{
+			"code": "LESS_EQUAL_50",
+			"name": "Power Requirement ≤ 50 (L.T.)",
+			"active": true
+		},{
+			"code": "BETWEEN_50_AND_100",
+			"name": "50 (L.T.) < Power Requirement ≤ 100 (L.T.)",
+			"active": true
+		},{
+			"code": "BETWEEN_100_AND_1000",
+			"name": "100 (L.T.) < Power Requirement ≤ 1000 (H.T.)",
+			"active": true
+		},{
+			"code": "MORE_THAN_1000",
+			"name": "Power Requirement > 1000 (H.T.)",
+			"active": true
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"PollutionCategory": [
+		{
+			"code": "WHITE",
+			"name": "White",
+			"isOnlyForSpecialProject": false,
+			"active": true
+		},{
+			"code": "GREEN",
+			"name": "Green",
+			"isOnlyForSpecialProject": false,
+			"active": true
+		},{
+			"code": "ORANGE",
+			"name": "Orange",
+			"isOnlyForSpecialProject": false,
+			"active": true
+		},{
+			"code": "RED",
+			"name": "Red",
+			"isOnlyForSpecialProject": true,
+			"active": true
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"ProjectExpansionType": [
+		{
+			"code": "SAME_ESTATE",
+			"name": "Within the same Industrial Area or Industrial Estate",
+			"active": true
+		},{
+			"code": "DIFF_ESTATE",
+			"name": "Elsewhere within the State of Goa",
+			"active": true
+		}
+	]
+}
