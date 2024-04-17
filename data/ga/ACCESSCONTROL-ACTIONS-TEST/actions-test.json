@@ -23679,6 +23679,39 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2616,
+			"name": "EstMigrationDataCreate",
+			"url": "/idc-estate-service/data-migration/_create",
+			"displayName": "Est Migration Data Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstMigrationDataCreate"
+		},
+		{
+			"id": 2617,
+			"name": "EstMigrationDataUpdate",
+			"url": "/idc-estate-service/data-migration/_update",
+			"displayName": "Est Migration Data Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstMigrationDataUpdate"
+		},
+		{
+			"id": 2618,
+			"name": "EstMigrationDataSearch",
+			"url": "/idc-estate-service/data-migration/_search",
+			"displayName": "Est Migration Data Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstMigrationDataSearch"
 		}
 	]
 }
