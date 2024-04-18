@@ -689,6 +689,10 @@
 		{
 			"format": "GIDC-FORM-A-[cy:yyyyMMdd]-[SEQ_IDC_APPLICATION_FORM_A_NUMBER]",
 			"idname": "idc.form.a.applicationNumber"
+		},
+		{
+			"format": "GIDC-ALLOT-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "allot.allotmentNumber"
 		}
 	]
 }
