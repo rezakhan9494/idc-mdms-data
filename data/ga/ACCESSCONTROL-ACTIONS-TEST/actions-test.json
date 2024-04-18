@@ -23712,6 +23712,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstMigrationDataSearch"
+		},
+		{
+			"id": 2619,
+			"name": "EnterpriseEntityOwnershipCalculate",
+			"url": "/user/enterprise/owner/_calculate",
+			"displayName": "Enterprise Entity Ownership Calculate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EnterpriseEntityOwnershipCalculate"
 		}
 	]
 }
