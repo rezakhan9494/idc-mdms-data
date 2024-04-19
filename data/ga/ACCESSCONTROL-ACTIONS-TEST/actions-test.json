@@ -23723,6 +23723,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EnterpriseEntityOwnershipCalculate"
+		},
+		{
+			"id": 2620,
+			"name": "EstatePlotServiceSearch",
+			"url": "/idc-estate-service/plot/_search",
+			"displayName": "Estate Plot Service Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstatePlotServiceSearch"
 		}
 	]
 }
