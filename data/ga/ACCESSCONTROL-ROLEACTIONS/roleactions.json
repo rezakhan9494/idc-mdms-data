@@ -28081,6 +28081,36 @@
 			"actionid": 2620,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2621,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"actionid": 2621,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"actionid": 2621,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"actionid": 2621,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EU_VERIFIER",
+			"actionid": 2621,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
