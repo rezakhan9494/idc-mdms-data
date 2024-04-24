@@ -23744,6 +23744,17 @@
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/migration/migrationform"
+		},
+		{
+			"id": 2622,
+			"name": "EstatePlotSearchMetadata",
+			"url": "/idc-estate-service/plot/_metadata-search",
+			"displayName": "Estate Plot Search Metadata",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstatePlotSearchMetadata"
 		}
 	]
 }
