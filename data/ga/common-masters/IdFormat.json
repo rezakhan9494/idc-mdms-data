@@ -579,6 +579,10 @@
 			"idname": "fnb.noc.number"
 		},
 		{
+			"format": "NOC/BANK/[SEQ_NOC_APN]",
+			"idname": "bank.noc.number"
+		},
+		{
 			"format": "PB-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
 			"idname": "pgr.servicerequestid"
 		},
@@ -685,6 +689,14 @@
 		{
 			"format": "GIDC-DEED-[cy:yyyyMMdd]-[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
 			"idname": "idc.legal.deed.applicationnumber"
+		},
+		{
+			"format": "GIDC-FORM-A-[cy:yyyyMMdd]-[SEQ_IDC_APPLICATION_FORM_A_NUMBER]",
+			"idname": "idc.form.a.applicationNumber"
+		},
+		{
+			"format": "GIDC-ALLOT-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "allot.allotmentNumber"
 		}
 	]
 }

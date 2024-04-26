@@ -1,0 +1,23 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"EmploymentCount": [
+		{
+			"code": "UP_TO_20",
+			"name": "Up to 20",
+			"active": true
+		},{
+			"code": "BETWEEN_21_AND_100",
+			"name": "Between 21 to 100",
+			"active": true
+		},{
+			"code": "BETWEEN_101_AND_500",
+			"name": "Between 101 to 500",
+			"active": true
+		},{
+			"code": "MORE_THAN_501",
+			"name": "More than 501",
+			"active": true
+		}
+	]
+}

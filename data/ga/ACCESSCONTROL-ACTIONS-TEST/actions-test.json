@@ -21939,7 +21939,8 @@
 					2530,
 					2531,
 					2532,
-					2533
+					2533,
+					2621
 				],
 				[
 					2536,
@@ -23679,6 +23680,81 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2616,
+			"name": "EstMigrationDataCreate",
+			"url": "/idc-estate-service/data-migration/_create",
+			"displayName": "Est Migration Data Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstMigrationDataCreate"
+		},
+		{
+			"id": 2617,
+			"name": "EstMigrationDataUpdate",
+			"url": "/idc-estate-service/data-migration/_update",
+			"displayName": "Est Migration Data Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstMigrationDataUpdate"
+		},
+		{
+			"id": 2618,
+			"name": "EstMigrationDataSearch",
+			"url": "/idc-estate-service/data-migration/_search",
+			"displayName": "Est Migration Data Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstMigrationDataSearch"
+		},
+		{
+			"id": 2619,
+			"name": "EnterpriseEntityOwnershipCalculate",
+			"url": "/user/enterprise/owner/_calculate",
+			"displayName": "Enterprise Entity Ownership Calculate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EnterpriseEntityOwnershipCalculate"
+		},
+		{
+			"id": 2620,
+			"name": "EstatePlotServiceSearch",
+			"url": "/idc-estate-service/plot/_search",
+			"displayName": "Estate Plot Service Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstatePlotServiceSearch"
+		},
+		{
+			"id": 2621,
+			"url": "menu",
+			"displayName": "ESTATE_DATA_MIGRATION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/goa-idc/migration/migrationform"
+		},
+		{
+			"id": 2622,
+			"name": "EstatePlotSearchMetadata",
+			"url": "/idc-estate-service/plot/_metadata-search",
+			"displayName": "Estate Plot Search Metadata",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstatePlotSearchMetadata"
 		}
 	]
 }
