@@ -579,6 +579,10 @@
 			"idname": "fnb.noc.number"
 		},
 		{
+			"format": "NOC/BANK/[SEQ_NOC_APN]",
+			"idname": "bank.noc.number"
+		},
+		{
 			"format": "PB-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
 			"idname": "pgr.servicerequestid"
 		},
