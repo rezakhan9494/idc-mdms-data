@@ -23755,6 +23755,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstatePlotSearchMetadata"
+		},
+		{
+			"id": 2623,
+			"name": "EstateVacantPlotSearch",
+			"url": "/idc-estate-service/plot/_search_vacant_plot",
+			"displayName": "Estate Vacant Plot Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateVacantPlotSearch"
 		}
 	]
 }
