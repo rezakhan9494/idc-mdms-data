@@ -411,6 +411,12 @@
 				"jsonPath": "owners/*/pan",
 				"patternId": "005",
 				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "owners/*/name",
+				"jsonPath": "owners/*/name",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
 			}
 		],
 		"roleBasedDecryptionPolicy": []
@@ -461,6 +467,12 @@
 			{
 				"name": "pan",
 				"jsonPath": "pan",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "name",
+				"jsonPath": "name",
 				"patternId": "005",
 				"defaultVisibility": "PLAIN"
 			}
