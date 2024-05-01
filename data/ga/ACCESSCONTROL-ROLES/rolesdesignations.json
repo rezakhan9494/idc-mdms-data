@@ -1,0 +1,108 @@
+{
+	"tenantId": "ga",
+	"moduleName": "ACCESSCONTROL-ROLES",
+	"rolesdesignations": [
+		{
+			"rolecode": "EMP_CREATOR",
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EMP_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EMP_VERIFIER",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EU_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "EU_VERIFIER",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_VERIFIER_L1",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_VERIFIER_L2",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_COL_INITIATOR",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_COL_APPROVER",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "GIDC_MD",
+			"designationCode": "MD",
+			"designationName": "Managing Director",
+			"active": true
+		},
+		{
+			"rolecode": "ADV_VERIFIER_L1",
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ADV_VERIFIER_L2",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ADV_VERIFIER_L3",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"designationCode": "LA",
+			"designationName": "Legal Assistant",
+			"active": true
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"designationCode": "ARM",
+			"designationName": "Area Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_OC_APPROVER",
+			"designationCode": "ARM",
+			"designationName": "Area Manager",
+			"active": true
+		}
+	]
+}

@@ -1,71 +1,78 @@
 {
-  "tenantId": "ga",
-  "moduleName": "ACCESSCONTROL-DEPARTMENTROLES",
-  "departmentroles": [
-    {
-      "departmentcode": "ADMIN",
-      "rolecode": "EMP_CREATOR"
-    },{
-      "departmentcode": "ADMIN",
-      "rolecode": "EMP_APPROVER"
-    },{
-      "departmentcode": "ADMIN",
-      "rolecode": "EMP_VERIFIER"
-    },{
-      "departmentcode": "ADMIN",
-      "rolecode": "EU_APPROVER"
-    },{
-      "departmentcode": "ADMIN",
-      "rolecode": "EU_VERIFIER"
-    },{
-      "departmentcode": "IPDC",
-      "rolecode": "BPA_VERIFIER_L1"
-    },{
-      "departmentcode": "IPDC",
-      "rolecode": "BPA_VERIFIER_L2"
-    },{
-      "departmentcode": "IPDC",
-      "rolecode": "BPA_APPROVER"
-    },{
-      "departmentcode": "IPDC",
-      "rolecode": "BPA_COL_INITIATOR"
-    },{
-      "departmentcode": "IPDC",
-      "rolecode": "BPA_COL_APPROVER"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "EMP_CREATOR"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "EMP_APPROVER"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "EMP_VERIFIER"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "EU_APPROVER"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "EU_VERIFIER"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "ARCHITECT"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "BPA_VERIFIER_L1"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "BPA_VERIFIER_L2"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "BPA_APPROVER"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "BPA_COL_INITIATOR"
-    },{
-      "departmentcode": "GIDC",
-      "rolecode": "BPA_COL_APPROVER"
-    }
-   
-  ]
+	"tenantId": "ga",
+	"moduleName": "ACCESSCONTROL-DEPARTMENTROLES",
+	"departmentroles": [
+		{
+			"departmentcode": "ADMIN",
+			"rolecode": "EMP_CREATOR"
+		},
+		{
+			"departmentcode": "ADMIN",
+			"rolecode": "EMP_APPROVER"
+		},
+		{
+			"departmentcode": "ADMIN",
+			"rolecode": "EMP_VERIFIER"
+		},
+		{
+			"departmentcode": "ADMIN",
+			"rolecode": "EU_APPROVER"
+		},
+		{
+			"departmentcode": "ADMIN",
+			"rolecode": "EU_VERIFIER"
+		},
+		{
+			"departmentcode": "IPDC",
+			"rolecode": "BPA_VERIFIER_L1"
+		},
+		{
+			"departmentcode": "IPDC",
+			"rolecode": "BPA_VERIFIER_L2"
+		},
+		{
+			"departmentcode": "IPDC",
+			"rolecode": "BPA_APPROVER"
+		},
+		{
+			"departmentcode": "IPDC",
+			"rolecode": "BPA_COL_APPROVER"
+		},
+		{
+			"departmentcode": "GIDC",
+			"rolecode": "GIDC_MD"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "FIELD_INSPECTOR"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "BPA_COL_INITIATOR"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "NOC_CREATOR"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "BPA_OC_APPROVER"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ADV_VERIFIER_L1"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ADV_VERIFIER_L2"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ADV_VERIFIER_L3"
+		},
+		{
+			"departmentcode": "LGLS",
+			"rolecode": "DEED_CREATOR"
+		}
+	]
 }

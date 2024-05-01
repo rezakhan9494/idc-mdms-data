@@ -1,0 +1,27 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"EnterpriseSubcategory": [
+		{
+			"code": "MANUFACTURING",
+			"name": "Manufacturing Activity",
+			"active": true
+		},{
+			"code": "IT",
+			"name": "IT/IT Enabled Services",
+			"active": true
+		},{
+			"code": "R&D",
+			"name": "R&D Center",
+			"active": true
+		},{
+			"code": "AUTOMOBILE",
+			"name": "Automobile Repair & Servicing",
+			"active": true
+		},{
+			"code": "LOGISTICS",
+			"name": "Logistics & warehousing",
+			"active": true
+		}
+	]
+}

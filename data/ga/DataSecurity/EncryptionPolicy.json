@@ -72,6 +72,14 @@
 				{
 					"jsonPath": "passport",
 					"type": "Normal"
+				},
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
+					"type": "Normal"
 				}
 			]
 		},
@@ -100,6 +108,14 @@
 				},
 				{
 					"jsonPath": "emailId",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
 					"type": "Normal"
 				}
 			]
@@ -130,6 +146,116 @@
 			"attributeList": [
 				{
 					"jsonPath": "address/street",
+					"type": "Normal"
+				}
+			]
+		},
+		{
+			"key": "EnterpriseEntity",
+			"attributeList": [
+				{
+					"jsonPath": "entityName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "phoneNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "email",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "panNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "gstNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "password",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "entityBankDetail/accountHolderName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "entityBankDetail/accountNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "addresses/*/address1",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/middleName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/lastName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/mobileNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/email",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/address1",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/pan",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/name",
+					"type": "Normal"
+				}
+			]
+		},
+		{
+			"key": "EntityOwner",
+			"attributeList": [
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "middleName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "mobileNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "email",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "address1",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "pan",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "name",
 					"type": "Normal"
 				}
 			]

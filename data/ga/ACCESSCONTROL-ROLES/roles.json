@@ -8,9 +8,9 @@
 			"description": "Internal role for plain access"
 		},
 		{
-			"code": "SUPERUSER",
-			"name": "Super User",
-			"description": "System Administrator. Can change all master data and has access to all the system screens."
+			"code": "GIDC_MD",
+			"name": "Goa IDC Managing Director",
+			"description": "Goa IDC Managing Director (MD)"
 		},
 		{
 			"code": "EMPLOYEE",
@@ -121,6 +121,41 @@
 			"code": "BPA_COL_APPROVER",
 			"name": "Construction License Approver",
 			"description": "Construction License Approver."
+		},
+		{
+			"code": "FIELD_INSPECTOR",
+			"name": "Field Inspector",
+			"description": "Field Inspector."
+		},
+		{
+			"code": "ADV_VERIFIER_L1",
+			"name": "Advertisement Verifier L1",
+			"description": "Advertisement Verifier L1"
+		},
+		{
+			"code": "ADV_VERIFIER_L2",
+			"name": "Advertisement Verifier L2",
+			"description": "Advertisement Verifier L2"
+		},
+		{
+			"code": "ADV_VERIFIER_L3",
+			"name": "Advertisement Verifier L3",
+			"description": "Advertisement Verifier L3"
+		},
+		{
+			"code": "DEED_CREATOR",
+			"name": "Deed Creator",
+			"description": "Deed Creator"
+		},
+		{
+			"code": "NOC_CREATOR",
+			"name": "NOC Creator",
+			"description": "NOC Creator"
+		},
+		{
+			"code": "BPA_OC_APPROVER",
+			"name": "Occupancy Certificate Approver",
+			"description": "Occupancy Certificate Approver"
 		}
 	]
 }

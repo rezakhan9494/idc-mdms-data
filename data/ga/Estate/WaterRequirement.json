@@ -1,0 +1,19 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"WaterRequirement": [
+		{
+			"code": "LESS_EQUAL_30",
+			"name": "Water Requirement ≤ 30",
+			"active": true
+		},{
+			"code": "BETWEEN_30_AND_100",
+			"name": "30 < Water Requirement ≤ 100",
+			"active": true
+		},{
+			"code": "MORE_THAN_100",
+			"name": "Water Requirement > 100",
+			"active": true
+		}
+	]
+}
