@@ -23766,6 +23766,39 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateVacantPlotSearch"
+		},
+		{
+			"id": 2624,
+			"name": "EstateAvertisementCreate",
+			"url": "/idc-estate-service/advertisement/_create",
+			"displayName": "EstateAvertisementCreate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateAvertisementCreate"
+		},
+		{
+			"id": 2625,
+			"name": "EstateWorkflowInitiate",
+			"url": "/idc-estate-service/estate/workflow/process/_initiate",
+			"displayName": "Estate Workflow Initiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateWorkflowInitiate"
+		},
+		{
+			"id": 2626,
+			"name": "EstateAvertisementSearch",
+			"url": "/idc-estate-service/advertisement/_search",
+			"displayName": "Estate Avertisement Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateAvertisementCreate"
 		}
 	]
 }
