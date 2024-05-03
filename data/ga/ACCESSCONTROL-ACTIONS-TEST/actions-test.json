@@ -23799,6 +23799,18 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateAvertisementCreate"
+		},
+		{
+			"id": 2627,
+			"name": "LocalizationMessagesCacheBust",
+			"url": "/localization/messages/cache-bust",
+			"displayName": "Localization Messages Cache Bust",
+			"orderNumber": 1,
+			"parentModule": "",
+			"enabled": false,
+			"serviceCode": "filestore url",
+			"code": "null",
+			"path": ""
 		}
 	]
 }
