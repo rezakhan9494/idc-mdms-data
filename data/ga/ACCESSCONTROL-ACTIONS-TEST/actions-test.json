@@ -23851,6 +23851,7 @@
 			"displayName": "SEARCH_APPLICATIONS",
 			"orderNumber": 30,
 			"enabled": true,
+			"code": "worklist_option",
 			"path": "ESTD.estate_search_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
