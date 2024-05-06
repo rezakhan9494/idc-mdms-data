@@ -23859,6 +23859,66 @@
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
+		},
+		{
+			"id": 2631,
+			"name": "estate_total_applications",
+			"url": "dashboard-cards",
+			"displayName": "TOTAL_APPLICATIONS",
+			"orderNumber": 10,
+			"enabled": true,
+			"path": "ESTD.estate_total_applications",
+			"moduleName": "Estate",
+			"navigationURL": "/estate_total_applications",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2632,
+			"name": "estate_pending_applications",
+			"url": "dashboard-cards",
+			"displayName": "PENDING_APPLICATIONS",
+			"orderNumber": 20,
+			"enabled": true,
+			"path": "ESTD.estate_pending_applications",
+			"moduleName": "Estate",
+			"navigationURL": "/estate_pending_applications",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#818831",
+			"iconName": "fa-file",
+			"textColor": "#818831"
+		},
+		{
+			"id": 2633,
+			"name": "estate_approved_applications",
+			"url": "dashboard-cards",
+			"displayName": "APPROVED_APPLICATIONS",
+			"orderNumber": 30,
+			"enabled": true,
+			"path": "ESTD.estate_approved_applications",
+			"moduleName": "Estate",
+			"navigationURL": "/estate_approved_applications",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#45852E",
+			"iconName": "fa-file",
+			"textColor": "#45852E"
+		},
+		{
+			"id": 2634,
+			"name": "estate_nearing_slas_applications",
+			"url": "dashboard-cards",
+			"displayName": "OVERDUE",
+			"orderNumber": 40,
+			"enabled": true,
+			"path": "ESTD.estate_nearing_slas_applications",
+			"moduleName": "Estate",
+			"navigationURL": "/estate_nearing_slas_applications",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#399267",
+			"iconName": "fa-file",
+			"textColor": "#399267"
 		}
 	]
 }
