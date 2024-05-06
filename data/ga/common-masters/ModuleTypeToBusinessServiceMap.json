@@ -57,6 +57,14 @@
 			"businessServiceName": "Occupancy Certificate",
 			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "ADV",
+			"businessServiceName": "Advertisement Approval",
+			"navUrl": "/goa-idc/advertisement/review?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
