@@ -28147,6 +28147,12 @@
 			"actionid": 2626,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2627,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
