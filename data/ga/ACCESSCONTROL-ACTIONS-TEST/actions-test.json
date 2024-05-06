@@ -23811,6 +23811,53 @@
 			"serviceCode": "filestore url",
 			"code": "null",
 			"path": ""
+		},
+		{
+			"id": 2628,
+			"name": "estate_inbox",
+			"url": "dashboard-worklist",
+			"displayName": "INBOX",
+			"orderNumber": 10,
+			"enabled": true,
+			"code": "worklist",
+			"path": "ESTD.estate_inbox",
+			"moduleName": "Estate",
+			"navigationURL": "/estate_inbox",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2629,
+			"name": "estate_nearing_slas",
+			"url": "dashboard-worklist",
+			"displayName": "OVERDUE",
+			"orderNumber": 20,
+			"enabled": true,
+			"code": "worklist",
+			"path": "ESTD.estate_nearing_slas",
+			"moduleName": "Estate",
+			"navigationURL": "/estate_nearing_slas",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2630,
+			"name": "estate_search_applications",
+			"url": "dashboard-worklist",
+			"displayName": "SEARCH_APPLICATIONS",
+			"orderNumber": 30,
+			"enabled": true,
+			"path": "ESTD.estate_search_applications",
+			"moduleName": "Estate",
+			"navigationURL": "/goa-idc/usermanagement/searchapplication",
+			"backgroundColor": "#E3F0CF",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
 		}
 	]
 }
