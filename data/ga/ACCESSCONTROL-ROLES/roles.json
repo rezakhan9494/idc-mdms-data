@@ -128,21 +128,6 @@
 			"description": "Field Inspector."
 		},
 		{
-			"code": "ADV_VERIFIER_L1",
-			"name": "Advertisement Verifier L1",
-			"description": "Advertisement Verifier L1"
-		},
-		{
-			"code": "ADV_VERIFIER_L2",
-			"name": "Advertisement Verifier L2",
-			"description": "Advertisement Verifier L2"
-		},
-		{
-			"code": "ADV_VERIFIER_L3",
-			"name": "Advertisement Verifier L3",
-			"description": "Advertisement Verifier L3"
-		},
-		{
 			"code": "DEED_CREATOR",
 			"name": "Deed Creator",
 			"description": "Deed Creator"
@@ -156,6 +141,21 @@
 			"code": "BPA_OC_APPROVER",
 			"name": "Occupancy Certificate Approver",
 			"description": "Occupancy Certificate Approver"
+		},
+		{
+			"code": "ESTD_VERIFIER_L1",
+			"name": "Estate Verifier L1",
+			"description": "Estate Verifier L1"
+		},
+		{
+			"code": "ESTD_VERIFIER_L2",
+			"name": "Estate Verifier L2",
+			"description": "Estate Verifier L2"
+		},
+		{
+			"code": "ESTD_VERIFIER_L3",
+			"name": "Estate Verifier L3",
+			"description": "Estate Verifier L3"
 		}
 	]
 }
