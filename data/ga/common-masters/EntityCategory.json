@@ -3,12 +3,6 @@
 	"moduleName": "common-masters",
 	"EntityCategory": [
 		{
-			"code": "INDIVIDUAL",
-			"name": "Individual",
-			"description": "Individual",
-			"active": true
-		},
-		{
 			"code": "TRUST",
 			"name": "Trust",
 			"description": "Trust",
