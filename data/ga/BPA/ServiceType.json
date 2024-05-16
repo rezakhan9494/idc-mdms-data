@@ -14,8 +14,8 @@
         ]
      },
      {
-        "code":"ADDITION_ALTERATION",
-        "title":"Addition and Alteration",
+        "code":"ADDITION",
+        "title":"Addition",
         "active":true,
         "applicationType":[
            "TECHNICAL_CLEARANCE",
@@ -25,8 +25,19 @@
         ]
      },
      {
-        "code":"RECONSTRUCTION",
-        "title":"Reconstruction",
+        "code":"REVISION",
+        "title":"Revision",
+        "active":true,
+        "applicationType":[
+           "TECHNICAL_CLEARANCE",
+           "CONSTRUCTION_LICENCE",
+           "OCCUPANCY_CERTIFICATE",
+           "COMPLETION_ORDER"
+        ]
+     },
+     {
+        "code":"PLOT_DEVELOPMENT",
+        "title":"Plot Development",
         "active":true,
         "applicationType":[
            "TECHNICAL_CLEARANCE",
