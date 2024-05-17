@@ -28237,6 +28237,12 @@
 			"actionid": 2636,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2636,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
