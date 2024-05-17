@@ -23929,6 +23929,17 @@
 			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": "/goa-idc/createadvertisement"
+		},
+		{
+			"id": 2636,
+			"name": "WorkflowDocumentCreate",
+			"url": "/egov-workflow-v2/egov-wf/process/document/_create",
+			"displayName": "Workflow Document Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.WorkflowDocumentCreate"
 		}
 	]
 }
