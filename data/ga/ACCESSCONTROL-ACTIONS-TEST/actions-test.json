@@ -23770,14 +23770,14 @@
 		},
 		{
 			"id": 2624,
-			"name": "EstateAvertisementCreate",
+			"name": "EstateAdvertisementCreate",
 			"url": "/idc-estate-service/advertisement/_create",
-			"displayName": "EstateAvertisementCreate",
+			"displayName": "EstateAdvertisementCreate",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.EstateAvertisementCreate"
+			"path": "Administration.EstateAdvertisementCreate"
 		},
 		{
 			"id": 2625,
@@ -23792,14 +23792,14 @@
 		},
 		{
 			"id": 2626,
-			"name": "EstateAvertisementSearch",
+			"name": "EstateAdvertisementSearch",
 			"url": "/idc-estate-service/advertisement/_search",
-			"displayName": "Estate Avertisement Create",
+			"displayName": "Estate Advertisement Create",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.EstateAvertisementCreate"
+			"path": "Administration.EstateAdvertisementCreate"
 		},
 		{
 			"id": 2627,
