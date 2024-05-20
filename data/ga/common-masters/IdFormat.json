@@ -713,6 +713,50 @@
 		{
 			"format": "GIDC-FORM-M-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.mortgage.applicationNumber"
+		},
+		{
+			"format": "GIDC-MORTGAGE-[cy:yyyyMMdd]-[SEQ_IDC_MORTGAGE_NUMBER]",
+			"idname": "idc.estate-application.mortgage.mortgageId"
+		},
+		{
+			"format": "GIDC-FORM-SL-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.sub-lease.applicationNumber"
+		},
+		{
+			"format": "GIDC-SUB-LEASE-[cy:yyyyMMdd]-[SEQ_IDC_SUB_LEASE_NUMBER]",
+			"idname": "idc.estate-application.sub-lease.subLeaseId"
+		},
+		{
+			"format": "GIDC-FORM-S-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.surrender.applicationNumber"
+		},
+		{
+			"format": "GIDC-SURRENDER-[cy:yyyyMMdd]-[SEQ_IDC_SURRENDER_NUMBER]",
+			"idname": "idc.estate-application.surrender.surrenderId"
+		},
+		{
+			"format": "GIDC-FORM-C-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.misc.applicationNumber"
+		},
+		{
+			"format": "GIDC-MISC-[cy:yyyyMMdd]-[SEQ_IDC_MISC_NUMBER]",
+			"idname": "idc.estate-application.misc.miscId"
+		},
+		{
+			"format": "GIDC-FORM-E-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.extension-lease-term.applicationNumber"
+		},
+		{
+			"format": "GIDC-EXTENSION-[cy:yyyyMMdd]-[SEQ_IDC_EXTENSION_NUMBER]",
+			"idname": "idc.estate-application.extension.extensionSubLeaseId"
+		},
+		{
+			"format": "GIDC-TRANSFER-[cy:yyyyMMdd]-[SEQ_IDC_TRANSFER_NUMBER]",
+			"idname": "idc.estate-application.transfer.transferId"
+		},
+		{
+			"format": "GIDC-SPECIAL-TRANSFER-[cy:yyyyMMdd]-[SEQ_IDC_SPECIAL_TRANSFER_NUMBER]",
+			"idname": "idc.estate-application.special.transfer.specialTransferId"
 		}
 	]
 }
