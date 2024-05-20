@@ -23928,7 +23928,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "/goa-idc/createadvertisement"
+			"navigationURL": "/goa-idc/advertisement"
 		},
 		{
 			"id": 2636,
