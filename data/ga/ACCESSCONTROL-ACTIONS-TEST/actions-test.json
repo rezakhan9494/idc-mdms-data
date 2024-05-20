@@ -21940,12 +21940,15 @@
 					2531,
 					2532,
 					2533,
-					2621,
-					2635
+					2621
 				],
 				[
 					2536,
 					2537
+				],
+				[
+					2637,
+					2635
 				]
 			]
 		},
@@ -23928,7 +23931,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "/goa-idc/createadvertisement"
+			"navigationURL": "/goa-idc/advertisement"
 		},
 		{
 			"id": 2636,
@@ -23940,6 +23943,15 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.WorkflowDocumentCreate"
+		},
+		{
+			"id": 2637,
+			"url": "menu",
+			"displayName": "OTHERS",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
 		}
 	]
 }
