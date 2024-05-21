@@ -73,9 +73,9 @@
 			"description": "Lessee."
 		},
 		{
-			"code": "TRANSFERRER",
-			"name": "Transferrer",
-			"description": "Transferrer."
+			"code": "TRANSFEROR",
+			"name": "Transferor",
+			"description": "Transferor."
 		},
 		{
 			"code": "TRANSFEREE",
