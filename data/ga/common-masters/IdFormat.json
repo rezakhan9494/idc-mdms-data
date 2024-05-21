@@ -727,7 +727,7 @@
 			"idname": "idc.estate-application.extension-lease-term.applicationNumber"
 		},
 		{
-			"format": "GIDC-ALLOT-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC-ALLOTMENT-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},
 		{
@@ -739,7 +739,7 @@
 			"idname": "idc.estate-allotment.miscellaneous.allotmentId"
 		},
 		{
-			"format": "GIDC-SUB-LEASE-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC-SUB LEASE-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.sub-lease.allotmentId"
 		},
 		{
@@ -755,7 +755,7 @@
 			"idname": "idc.estate-allotment.transfer.allotmentId"
 		},
 		{
-			"format": "GIDC-SPECIAL-TRANSFER-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC-SPL TRANSFER-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.special-transfer.allotmentId"
 		}
 	]
