@@ -23952,6 +23952,17 @@
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
+		},
+		{
+			"id": 2638,
+			"name": "EstateDocumentSearch",
+			"url": "/idc-estate-service/estate/documents/_search",
+			"displayName": "Estate Document Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateDocumentSearch"
 		}
 	]
 }
