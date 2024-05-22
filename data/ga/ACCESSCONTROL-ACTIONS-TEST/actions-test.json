@@ -23963,6 +23963,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateDocumentSearch"
+		},
+		{
+			"id": 2639,
+			"name": "EstateNicMasterDetailsSearch",
+			"url": "/idc-estate-service/nic-mst-details/_search",
+			"displayName": "Estate Nic MasterDetails Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateNicMasterDetailsSearch"
 		}
 	]
 }
