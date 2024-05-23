@@ -23974,6 +23974,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateNicMasterDetailsSearch"
+		},
+		{
+			"id": 2640,
+			"name": "EstateApplicationCreate",
+			"url": "/idc-estate-service/estate-application/_create",
+			"displayName": "Estate Application Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateApplicationCreate"
 		}
 	]
 }
