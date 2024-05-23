@@ -23996,6 +23996,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.AdvertisementUpdate"
+		},
+		{
+			"id": 2642,
+			"name": "EstateApplicationUpdate",
+			"url": "/idc-estate-service/estate-application/_update",
+			"displayName": "Estate Application Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateApplicationUpdate"
 		}
 	]
 }
