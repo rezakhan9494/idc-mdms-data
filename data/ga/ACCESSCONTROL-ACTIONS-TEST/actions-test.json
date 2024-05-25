@@ -24007,6 +24007,28 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateApplicationUpdate"
+		},
+		{
+			"id": 2643,
+			"name": "EstateTransferApplicationCreate",
+			"url": "/idc-estate-service/transfer/_create",
+			"displayName": "Estate Transfer Application Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateTransferApplicationCreate"
+		},
+		{
+			"id": 2644,
+			"name": "EstateTransferApplicationUpdate",
+			"url": "/idc-estate-service/transfer/_update",
+			"displayName": "Estate Transfer Application Update",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateTransferApplicationUpdate"
 		}
 	]
 }
