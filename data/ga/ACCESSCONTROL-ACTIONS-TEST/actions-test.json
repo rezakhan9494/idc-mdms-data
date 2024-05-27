@@ -24040,6 +24040,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateEntityRefDetailsSearch"
+		},
+		{
+			"id": 2646,
+			"name": "EstateApplicationSearch",
+			"url": "/idc-estate-service/estate-application/_search",
+			"displayName": "Estate Application Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateApplicationSearch"
 		}
 	]
 }
