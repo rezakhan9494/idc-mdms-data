@@ -63,7 +63,7 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "ADV",
 			"businessServiceName": "Advertisement Approval",
-			"navUrl": "/goa-idc/advertisement?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/createadvertisement?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]
