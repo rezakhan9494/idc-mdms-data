@@ -21902,6 +21902,8 @@
 				[
 					2470,
 					2471,
+					2647,
+					2648,
 					2472,
 					2514,
 					2515,
@@ -22038,11 +22040,11 @@
 		{
 			"id": 2471,
 			"url": "menu",
-			"displayName": "APPLY_FOR_PLOT",
+			"displayName": "APPLY_FOR_PLOT_VIA_ADVERTISEMENT",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/apply-for-plot"
+			"navigationURL": "/goa-idc/estate/allotment"
 		},
 		{
 			"id": 2472,
@@ -24029,6 +24031,46 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateTransferApplicationUpdate"
+		},
+		{
+			"id": 2645,
+			"name": "EstateEntityRefDetailsSearch",
+			"url": "/idc-estate-service/entity-reference-details/_search",
+			"displayName": "Estate Entity RefDetails Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateEntityRefDetailsSearch"
+		},
+		{
+			"id": 2646,
+			"name": "EstateApplicationSearch",
+			"url": "/idc-estate-service/estate-application/_search",
+			"displayName": "Estate Application Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateApplicationSearch"
+		},
+		{
+			"id": 2647,
+			"url": "menu",
+			"displayName": "APPLY_FOR_PLOT_VIA_IPB",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 21,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/allotment?ipb=true"
+		},
+		{
+			"id": 2648,
+			"url": "menu",
+			"displayName": "APPLY_FOR_PLOT_VIA_AUCTION",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 22,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/allotment?auction=true"
 		}
 	]
 }
