@@ -24029,6 +24029,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateTransferApplicationUpdate"
+		},
+		{
+			"id": 2645,
+			"name": "EstateEntityRefDetailsSearch",
+			"url": "/idc-estate-service/entity-reference-details/_search",
+			"displayName": "Estate Entity RefDetails Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateEntityRefDetailsSearch"
 		}
 	]
 }

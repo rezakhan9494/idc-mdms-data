@@ -27981,19 +27981,13 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "EMPLOYEE",
 			"actionid": 2608,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "DEED_CREATOR",
-			"actionid": 2608,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "GIDC_MD",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2608,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28301,6 +28295,18 @@
 		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2644,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2645,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2645,
 			"actioncode": "",
 			"tenantId": "ga"
 		}
