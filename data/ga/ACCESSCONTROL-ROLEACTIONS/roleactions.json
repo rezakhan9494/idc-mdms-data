@@ -27045,8 +27045,20 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "LESSEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2471,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2646,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2647,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
