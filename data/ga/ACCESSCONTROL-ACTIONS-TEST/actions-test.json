@@ -21902,8 +21902,8 @@
 				[
 					2470,
 					2471,
-					2646,
 					2647,
+					2648,
 					2472,
 					2514,
 					2515,
@@ -24064,7 +24064,7 @@
 			"navigationURL": "/goa-idc/estate/allotment?ipb=true"
 		},
 		{
-			"id": 2647,
+			"id": 2648,
 			"url": "menu",
 			"displayName": "APPLY_FOR_PLOT_VIA_AUCTION",
 			"menuType": "ROLE_BASED_SUB_MENU",
