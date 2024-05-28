@@ -563,7 +563,7 @@
 			"idname": "bpa.nc_oc_san_fee.receipt.id"
 		},
 		{
-			"format": "GIDC-NOC-[cy:yyyy-MM-dd]-[SEQ_NOC_APN]",
+			"format": "GIDC/NOC/[cy:yyyy]/[SEQ_NOC_APN]",
 			"idname": "noc.application.number"
 		},
 		{
@@ -655,7 +655,7 @@
 			"idname": "anuragpanda-dtr.registrationid"
 		},
 		{
-			"format": "GIDC-EU-[cy:yyyyMMdd]-[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
+			"format": "GIDC/EU/[cy:yyyy]/[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
 			"idname": "enterprise.entity.registrationnumber"
 		},
 		{
@@ -675,19 +675,19 @@
 			"idname": "bpa.co.aplnumber"
 		},
 		{
-			"format": "GIDC-EMP-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+			"format": "GIDC/EMP/[cy:yyyy]/[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.empregistrationnumber"
 		},
 		{
-			"format": "GIDC-ARCH-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+			"format": "GIDC/ARCH/[cy:yyyy]/[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.archregistrationnumber"
 		},
 		{
-			"format": "GIDC-PRF-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+			"format": "GIDC/PRF/[cy:yyyy]/[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.emp.profile.update.registrationnumber"
 		},
 		{
-			"format": "GIDC-DEED-[cy:yyyyMMdd]-[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
+			"format": "GIDC/DEED/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
 			"idname": "idc.legal.deed.applicationnumber"
 		},
 		{
