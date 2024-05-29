@@ -23932,7 +23932,7 @@
 			"url": "menu",
 			"displayName": "CREATE_ADVERTISEMENT",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 20,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/goa-idc/advertisement"
 		},
@@ -24133,7 +24133,7 @@
 			"url": "menu",
 			"displayName": "SEARCH_ADVERTISEMENT",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 9,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/search-advertisement"
 		}
