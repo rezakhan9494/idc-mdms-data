@@ -24082,6 +24082,50 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.TransferApplicationSearchAPI"
+		},
+		{
+			"id": 2650,
+			"name": "ScoringMasterDetailsSearchAPI",
+			"url": "/idc-estate-service/estate-scoring-master-details/_search",
+			"displayName": "ScoringMasterDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ScoringMasterDetailsSearchAPI"
+		},
+		{
+			"id": 2651,
+			"name": "ScoringMatrixSearchAPI",
+			"url": "/idc-estate-service/scoring-matrix/_search",
+			"displayName": "ScoringMatrixSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ScoringMatrixSearchAPI"
+		},
+		{
+			"id": 2652,
+			"name": "ScoringMatrixCreateAPI",
+			"url": "/idc-estate-service/scoring-matrix/_create",
+			"displayName": "ScoringMatrixCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ScoringMatrixCreateAPI"
+		},
+		{
+			"id": 2653,
+			"name": "ScoringMatrixUpdateAPI",
+			"url": "/idc-estate-service/scoring-matrix/_update",
+			"displayName": "ScoringMatrixUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ScoringMatrixUpdateAPI"
 		}
 	]
 }
