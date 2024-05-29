@@ -22044,7 +22044,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/allotment"
+			"navigationURL": "/goa-idc/estate/apply-for-plot"
 		},
 		{
 			"id": 2472,
