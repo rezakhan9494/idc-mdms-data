@@ -21950,7 +21950,8 @@
 				],
 				[
 					2637,
-					2635
+					2635,
+					2654
 				]
 			]
 		},
@@ -23931,7 +23932,7 @@
 			"url": "menu",
 			"displayName": "CREATE_ADVERTISEMENT",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 60,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/advertisement"
 		},
@@ -24126,6 +24127,15 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.ScoringMatrixUpdateAPI"
+		},
+		{
+			"id": 2654,
+			"url": "menu",
+			"displayName": "SEARCH_ADVERTISEMENT",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 09,
+			"enabled": true,
+			"navigationURL": "/goa-idc/search-advertisement"
 		}
 	]
 }
