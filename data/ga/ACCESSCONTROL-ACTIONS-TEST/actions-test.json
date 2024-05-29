@@ -24071,6 +24071,17 @@
 			"orderNumber": 22,
 			"enabled": true,
 			"navigationURL": "/goa-idc/estate/allotment?auction=true"
+		},
+		{
+			"id": 2649,
+			"name": "TransferApplicationSearchAPI",
+			"url": "/idc-estate-service/transfer/_search",
+			"displayName": "TransferApplicationSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.TransferApplicationSearchAPI"
 		}
 	]
 }
