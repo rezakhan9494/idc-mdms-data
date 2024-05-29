@@ -71,7 +71,7 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_TRANSFER",
 			"businessServiceName": "Transfer",
-			"navUrl": "/goa-idc/transfer?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/transferee?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
