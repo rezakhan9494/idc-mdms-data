@@ -24136,6 +24136,17 @@
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/search-advertisement"
+		},
+		{
+			"id": 2655,
+			"name": "EstateFeeMasterDetailsSearchAPI",
+			"url": "/idc-estate-service/fee-master-details/_search",
+			"displayName": "EstateFeeMasterDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateFeeMasterDetailsSearchAPI"
 		}
 	]
 }
