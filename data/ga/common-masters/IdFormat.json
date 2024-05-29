@@ -563,7 +563,7 @@
 			"idname": "bpa.nc_oc_san_fee.receipt.id"
 		},
 		{
-			"format": "GIDC-NOC-[cy:yyyy-MM-dd]-[SEQ_NOC_APN]",
+			"format": "GIDC/NOC/[cy:yyyy]/[SEQ_NOC_APN]",
 			"idname": "noc.application.number"
 		},
 		{
@@ -655,7 +655,7 @@
 			"idname": "anuragpanda-dtr.registrationid"
 		},
 		{
-			"format": "GIDC-EU-[cy:yyyyMMdd]-[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
+			"format": "GIDC/EU/[cy:yyyy]/[SEQ_IDC_ENTERPRISE_ENTITY_REGISTRATION_NUMBER]",
 			"idname": "enterprise.entity.registrationnumber"
 		},
 		{
@@ -675,19 +675,19 @@
 			"idname": "bpa.co.aplnumber"
 		},
 		{
-			"format": "GIDC-EMP-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+			"format": "GIDC/EMP/[cy:yyyy]/[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.empregistrationnumber"
 		},
 		{
-			"format": "GIDC-ARCH-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+			"format": "GIDC/ARCH/[cy:yyyy]/[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.archregistrationnumber"
 		},
 		{
-			"format": "GIDC-PRF-[cy:yyyyMMdd]-[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
+			"format": "GIDC/PRF/[cy:yyyy]/[SEQ_EG_HRMS_REGISTRATION_NUMBER]",
 			"idname": "hrms.emp.profile.update.registrationnumber"
 		},
 		{
-			"format": "GIDC-DEED-[cy:yyyyMMdd]-[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
+			"format": "GIDC/DEED/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
 			"idname": "idc.legal.deed.applicationnumber"
 		},
 		{
@@ -695,67 +695,67 @@
 			"idname": "idc.adv.advertisementNumber"
 		},
 		{
-			"format": "GIDC-FORM-A-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-A/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.allotment.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-T-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-T/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.transfer.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-ST-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-ST/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.special-transfer.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-M-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-M/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.mortgage.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-SL-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-SL/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.sub-lease.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-S-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-S/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.surrender.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-C-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-C/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.miscellaneous.applicationNumber"
 		},
 		{
-			"format": "GIDC-FORM-E-[cy:yyyyMMdd]-[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"format": "GIDC/FORM-E/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.extension-lease-term.applicationNumber"
 		},
 		{
-			"format": "GIDC-ALLOTMENT-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},
 		{
-			"format": "GIDC-MORTGAGE-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/MORTGAGE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.mortgage.allotmentId"
 		},
 		{
-			"format": "GIDC-MISC-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/MISC/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.miscellaneous.allotmentId"
 		},
 		{
-			"format": "GIDC-SUB LEASE-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/SUB LEASE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.sub-lease.allotmentId"
 		},
 		{
-			"format": "GIDC-EXTENSION-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/EXTENSION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.extension.allotmentId"
 		},
 		{
-			"format": "GIDC-SURRENDER-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/SURRENDER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.surrender.allotmentId"
 		},
 		{
-			"format": "GIDC-TRANSFER-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/TRANSFER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.transfer.allotmentId"
 		},
 		{
-			"format": "GIDC-SPL TRANSFER-[cy:yyyyMMdd]-[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.special-transfer.allotmentId"
 		}
 	]

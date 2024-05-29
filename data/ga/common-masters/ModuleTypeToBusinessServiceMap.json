@@ -65,6 +65,30 @@
 			"businessServiceName": "Advertisement Approval",
 			"navUrl": "/goa-idc/createadvertisement?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_TRANSFER",
+			"businessServiceName": "Transfer",
+			"navUrl": "/goa-idc/transfer?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_SPECIAL_TRANSFER",
+			"businessServiceName": "Plot Special Transfer",
+			"navUrl": "/goa-idc/special-transfer?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_ALLOTMENT",
+			"businessServiceName": "Plot Allotment",
+			"navUrl": "/goa-idc/allotment?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
