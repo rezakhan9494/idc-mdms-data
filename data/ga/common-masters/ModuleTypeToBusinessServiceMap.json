@@ -87,7 +87,7 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_ALLOTMENT",
 			"businessServiceName": "Plot Allotment",
-			"navUrl": "/goa-idc/allotment?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/allotment/workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]
