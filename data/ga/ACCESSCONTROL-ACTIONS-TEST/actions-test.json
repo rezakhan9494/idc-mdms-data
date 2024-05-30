@@ -22054,7 +22054,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "/goa-idc/apply-deed?deedType=LEASE_DEED"
+			"navigationURL": "/goa-idc/estate/lease-deed"
 		},
 		{
 			"id": 2514,
