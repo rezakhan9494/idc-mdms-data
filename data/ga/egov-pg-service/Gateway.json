@@ -1,0 +1,36 @@
+{
+	"tenantId": "ga",
+	"moduleName": "egov-pg-service",
+	"Gateway": [
+		{
+			"code": "AXIS",
+			"value": "Axis Bank",
+			"active": true
+		},
+		{
+			"code": "PAYTM",
+			"value": "Paytm",
+			"active": false
+		},
+		{
+			"code": "PHONEPE",
+			"value": "PhonePe",
+			"active": false
+		},
+		{
+			"code": "PAYU",
+			"value": "PayU",
+			"active": false
+		},
+		{
+			"code": "PNB",
+			"value": "Punjab National Bank",
+			"active": true
+		},
+		{
+			"code": "HDFC",
+			"value": "HDFC Bank",
+			"active": true
+		}
+	]
+}
