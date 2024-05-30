@@ -24147,6 +24147,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateFeeMasterDetailsSearchAPI"
+		},
+		{
+			"id": 2656,
+			"name": "EstateChecklistValidationAPI",
+			"url": "/idc-estate-service/checklist-validation/_search",
+			"displayName": "EstateChecklistValidationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateChecklistValidationAPI"
 		}
 	]
 }
