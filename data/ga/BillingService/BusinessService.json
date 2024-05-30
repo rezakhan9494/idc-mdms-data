@@ -1183,6 +1183,17 @@
       "isCitizen": true,
       "type": "Adhoc"
 
+    },
+     {
+      "businessService": "ESTD_FEE",
+      "code": "ESTD_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
