@@ -37,7 +37,7 @@
 		{
 			"moduleName": "Legal",
 			"moduleCode": "LGLS",
-			"businessServiceCode": "LEGAL-DEED",
+			"businessServiceCode": "LEGAL_DEED",
 			"businessServiceName": "Legal Deed",
 			"navUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
