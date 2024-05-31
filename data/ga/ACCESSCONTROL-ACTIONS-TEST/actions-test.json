@@ -24158,6 +24158,39 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateChecklistValidationAPI"
+		},
+		{
+			"id": 2657,
+			"name": "PG_ServiceIdcTransactionInitiate",
+			"url": "/pg-service/idc-payment-gateway/transaction/_initiate",
+			"displayName": "PG_ServiceIdcTransactionInitiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PG_ServiceIdcTransactionInitiate"
+		},
+		{
+			"id": 2658,
+			"name": "PG_ServiceIdcPaymentDetailsUpdate",
+			"url": "/pg-service/idc-payment-gateway/payment-details/_update",
+			"displayName": "PG_ServiceIdcPaymentDetailsUpdate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PG_ServiceIdcPaymentDetailsUpdate"
+		},
+		{
+			"id": 2659,
+			"name": "PG_ServiceTransactionUpdate",
+			"url": "/pg-service/transaction/v1/_update",
+			"displayName": "PG_ServiceTransactionUpdate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PG_ServiceTransactionUpdate"
 		}
 	]
 }
