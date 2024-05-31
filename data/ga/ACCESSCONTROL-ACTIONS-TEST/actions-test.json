@@ -22063,7 +22063,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/applyfortransfer"
+			"navigationURL": "/goa-idc/estate/transfer"
 		},
 		{
 			"id": 2515,
