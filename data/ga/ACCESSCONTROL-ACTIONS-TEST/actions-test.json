@@ -24191,6 +24191,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.PG_ServiceTransactionUpdate"
+		},
+		{
+			"id": 2660,
+			"name": "LegalDeedUpdateAPI",
+			"url": "/idc-legal-service/legal/v1/deed/_update",
+			"displayName": "LegalDeedUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.LegalDeedUpdateAPI"
 		}
 	]
 }
