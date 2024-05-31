@@ -21951,7 +21951,8 @@
 				[
 					2637,
 					2635,
-					2654
+					2654,
+					2661
 				]
 			]
 		},
@@ -24202,6 +24203,15 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.LegalDeedUpdateAPI"
+		},
+		{
+			"id": 2661,
+			"url": "menu",
+			"displayName": "BULK_ALLOTMENT",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/goa-idc/mass-allotment"
 		}
 	]
 }
