@@ -21951,7 +21951,8 @@
 				[
 					2637,
 					2635,
-					2654
+					2654,
+					2661
 				]
 			]
 		},
@@ -24158,6 +24159,59 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateChecklistValidationAPI"
+		},
+		{
+			"id": 2657,
+			"name": "PG_ServiceIdcTransactionInitiate",
+			"url": "/pg-service/idc-payment-gateway/transaction/_initiate",
+			"displayName": "PG_ServiceIdcTransactionInitiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PG_ServiceIdcTransactionInitiate"
+		},
+		{
+			"id": 2658,
+			"name": "PG_ServiceIdcPaymentDetailsUpdate",
+			"url": "/pg-service/idc-payment-gateway/payment-details/_update",
+			"displayName": "PG_ServiceIdcPaymentDetailsUpdate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PG_ServiceIdcPaymentDetailsUpdate"
+		},
+		{
+			"id": 2659,
+			"name": "PG_ServiceTransactionUpdate",
+			"url": "/pg-service/transaction/v1/_update",
+			"displayName": "PG_ServiceTransactionUpdate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PG_ServiceTransactionUpdate"
+		},
+		{
+			"id": 2660,
+			"name": "LegalDeedUpdateAPI",
+			"url": "/idc-legal-service/legal/v1/deed/_update",
+			"displayName": "LegalDeedUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.LegalDeedUpdateAPI"
+		},
+		{
+			"id": 2661,
+			"url": "menu",
+			"displayName": "BULK_ALLOTMENT",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/goa-idc/mass-allotment"
 		}
 	]
 }
