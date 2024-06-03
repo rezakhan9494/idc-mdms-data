@@ -24234,6 +24234,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPA_FIND_UTILIZATION_API"
+		},
+		{
+			"id": 2665,
+			"name": "EstatePaymentPendingVerificationAPI",
+			"url": "/idc-estate-service/scheduled-payment-details/pending-payments/_verify",
+			"displayName": "EstatePaymentPendingVerificationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstatePaymentPendingVerificationAPI"
 		}
 	]
 }
