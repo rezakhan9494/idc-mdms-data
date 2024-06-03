@@ -85,9 +85,25 @@
 		{
 			"moduleName": "Estate",
 			"moduleCode": "ESTD",
-			"businessServiceCode": "EST_ALLOTMENT",
-			"businessServiceName": "Plot Allotment",
-			"navUrl": "/goa-idc/estate/allotment/workflow?applicationNumber=%s&tenantId=%s",
+			"businessServiceCode": "EST_ADV_ALLOTMENT",
+			"businessServiceName": "Plot Allotment via Advertisement",
+			"navUrl": "/goa-idc/estate/allotment/workflow?adv=true&applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_IPB_ALLOTMENT",
+			"businessServiceName": "Plot Allotment via IPB",
+			"navUrl": "/goa-idc/estate/allotment/workflow?ipb=true&applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_AUCTION_ALLOTMENT",
+			"businessServiceName": "Plot Allotment via eAuction",
+			"navUrl": "/goa-idc/estate/allotment/workflow?auction=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]
