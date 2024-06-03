@@ -24201,6 +24201,39 @@
 			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/goa-idc/mass-allotment"
+		},
+		{
+			"id": 2662,
+			"name": "EnterpriseDetailsSearchAPI",
+			"url": "/idc-estate-service/enterprise-details/_search",
+			"displayName": "EnterpriseDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EnterpriseDetailsSearchAPI"
+		},
+		{
+			"id": 2663,
+			"name": "BPA_FIND_CERTIFICATION_API",
+			"url": "/bpa-services/v2/bpa/findCertificate",
+			"displayName": "BPA_FIND_CERTIFICATION_API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPA_FIND_CERTIFICATION_API"
+		},
+		{
+			"id": 2664,
+			"name": "BPA_FIND_UTILIZATION_API",
+			"url": "/bpa-services/v2/bpa/findUtilization",
+			"displayName": "BPA_FIND_UTILIZATION_API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPA_FIND_UTILIZATION_API"
 		}
 	]
 }
