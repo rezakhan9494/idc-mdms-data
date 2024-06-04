@@ -24245,6 +24245,28 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstatePaymentPendingVerificationAPI"
+		},
+		{
+			"id": 2666,
+			"name": "Sublease Create API",
+			"url": "idc-estate-service/sub-lease-details/_create",
+			"displayName": "Sublease Create API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Sublease Create API"
+		},
+		{
+			"id": 2667,
+			"name": "Sublease Update API",
+			"url": "idc-estate-service/sub-lease-details/_update",
+			"displayName": "Sublease Update API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Sublease Update API"
 		}
 	]
 }
