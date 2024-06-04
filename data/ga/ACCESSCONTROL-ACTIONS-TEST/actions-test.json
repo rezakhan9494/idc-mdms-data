@@ -24267,6 +24267,72 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.Sublease Update API"
+		},
+		{
+			"id": 2668,
+			"name": "Estate Master Details Update API",
+			"url": "/idc-estate-service/estate-master-details/_update",
+			"displayName": "Estate Master Details Update API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Estate Master Details Update API"
+		},
+		{
+			"id": 2669,
+			"name": "Estate Master Details Create API",
+			"url": "/idc-estate-service/estate-master-details/_create",
+			"displayName": "Estate Master Details Create API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Estate Master Details Create API"
+		},
+		{
+			"id": 2670,
+			"name": "Estate Master Details Search API",
+			"url": "/idc-estate-service/estate-master-details/_search",
+			"displayName": "Estate Master Details Search API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Estate Master Details Search API"
+		},
+		{
+			"id": 2671,
+			"name": "Plot Search API",
+			"url": "/idc-estate-service/plot/_search",
+			"displayName": "Plot Search API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Plot Search API"
+		},
+		{
+			"id": 2672,
+			"name": "Plot Create API",
+			"url": "/idc-estate-service/plot/_create",
+			"displayName": "Plot Create API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Plot Create API"
+		},
+		{
+			"id": 2673,
+			"name": "Plot Update API",
+			"url": "/idc-estate-service/plot/_update",
+			"displayName": "Plot Update API",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.Plot Update API"
 		}
 	]
 }
