@@ -24248,91 +24248,91 @@
 		},
 		{
 			"id": 2666,
-			"name": "Sublease Create API",
+			"name": "SubleaseCreateAPI",
 			"url": "/idc-estate-service/sub-lease-details/_create",
-			"displayName": "Sublease Create API",
+			"displayName": "SubleaseCreateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Sublease Create API"
+			"path": "Administration.SubleaseCreateAPI"
 		},
 		{
 			"id": 2667,
-			"name": "Sublease Update API",
+			"name": "SubleaseUpdateAPI",
 			"url": "/idc-estate-service/sub-lease-details/_update",
-			"displayName": "Sublease Update API",
+			"displayName": "SubleaseUpdateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Sublease Update API"
+			"path": "Administration.SubleaseUpdateAPI"
 		},
 		{
 			"id": 2668,
-			"name": "Estate Master Details Update API",
+			"name": "EstateMasterDetailsUpdateAPI",
 			"url": "/idc-estate-service/estate-master-details/_update",
-			"displayName": "Estate Master Details Update API",
+			"displayName": "EstateMasterDetailsUpdateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Estate Master Details Update API"
+			"path": "Administration.EstateMasterDetailsUpdateAPI"
 		},
 		{
 			"id": 2669,
-			"name": "Estate Master Details Create API",
+			"name": "EstateMasterDetailsCreateAPI",
 			"url": "/idc-estate-service/estate-master-details/_create",
-			"displayName": "Estate Master Details Create API",
+			"displayName": "EstateMasterDetailsCreateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Estate Master Details Create API"
+			"path": "Administration.EstateMasterDetailsCreateAPI"
 		},
 		{
 			"id": 2670,
-			"name": "Estate Master Details Search API",
+			"name": "EstateMasterDetailsSearchAPI",
 			"url": "/idc-estate-service/estate-master-details/_search",
-			"displayName": "Estate Master Details Search API",
+			"displayName": "EstateMasterDetailsSearchAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Estate Master Details Search API"
+			"path": "Administration.EstateMasterDetailsSearchAPI"
 		},
 		{
 			"id": 2671,
-			"name": "Plot Search API",
+			"name": "PlotSearchAPI",
 			"url": "/idc-estate-service/plot/_search",
-			"displayName": "Plot Search API",
+			"displayName": "PlotSearchAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Plot Search API"
+			"path": "Administration.PlotSearchAPI"
 		},
 		{
 			"id": 2672,
-			"name": "Plot Create API",
+			"name": "PlotCreateAPI",
 			"url": "/idc-estate-service/plot/_create",
-			"displayName": "Plot Create API",
+			"displayName": "PlotCreateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Plot Create API"
+			"path": "Administration.PlotCreateAPI"
 		},
 		{
 			"id": 2673,
-			"name": "Plot Update API",
+			"name": "PlotUpdateAPI",
 			"url": "/idc-estate-service/plot/_update",
-			"displayName": "Plot Update API",
+			"displayName": "PlotUpdateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.Plot Update API"
+			"path": "Administration.PlotUpdateAPI"
 		}
 	]
 }
