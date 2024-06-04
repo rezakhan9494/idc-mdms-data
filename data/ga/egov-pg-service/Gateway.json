@@ -5,7 +5,7 @@
 		{
 			"code": "AXIS",
 			"value": "Axis Bank",
-			"active": true
+			"active": false
 		},
 		{
 			"code": "PAYTM",
