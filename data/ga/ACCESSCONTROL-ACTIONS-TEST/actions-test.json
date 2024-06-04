@@ -24249,7 +24249,7 @@
 		{
 			"id": 2666,
 			"name": "Sublease Create API",
-			"url": "idc-estate-service/sub-lease-details/_create",
+			"url": "/idc-estate-service/sub-lease-details/_create",
 			"displayName": "Sublease Create API",
 			"orderNumber": 1,
 			"enabled": true,
@@ -24260,7 +24260,7 @@
 		{
 			"id": 2667,
 			"name": "Sublease Update API",
-			"url": "idc-estate-service/sub-lease-details/_update",
+			"url": "/idc-estate-service/sub-lease-details/_update",
 			"displayName": "Sublease Update API",
 			"orderNumber": 1,
 			"enabled": true,
