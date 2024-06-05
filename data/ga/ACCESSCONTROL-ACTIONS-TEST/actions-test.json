@@ -24333,6 +24333,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.PlotUpdateAPI"
+		},
+		{
+			"id": 2674,
+			"name": "IdcDocESignRequestAPI",
+			"url": "/idc-doc-esign-services/v1/generateESignRequest",
+			"displayName": "IdcDocESignRequestAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcDocESignRequestAPI"
 		}
 	]
 }
