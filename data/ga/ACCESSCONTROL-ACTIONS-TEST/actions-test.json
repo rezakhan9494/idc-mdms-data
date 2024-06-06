@@ -21952,7 +21952,9 @@
 					2637,
 					2635,
 					2654,
-					2661
+					2661,
+					2675,
+					2676
 				]
 			]
 		},
@@ -24198,7 +24200,7 @@
 			"url": "menu",
 			"displayName": "BULK_ALLOTMENT",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 30,
+			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/goa-idc/mass-allotment"
 		},
@@ -24344,6 +24346,24 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.IdcDocESignRequestAPI"
+		},
+		{
+			"id": 2675,
+			"url": "menu",
+			"displayName": "ESTATE_MASTER_REGISTRY",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/estate-registry"
+		},
+		{
+			"id": 2676,
+			"url": "menu",
+			"displayName": "PLOT_MASTER_REGISTRY",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 60,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/plot-registry"
 		}
 	]
 }
