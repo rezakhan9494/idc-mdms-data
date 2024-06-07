@@ -24364,6 +24364,28 @@
 			"orderNumber": 60,
 			"enabled": true,
 			"navigationURL": "/goa-idc/estate/plot-registry"
+		},
+		{
+			"id": 2677,
+			"name": "SchedulePaymentDetailsSearchAPI",
+			"url": "/idc-estate-service/scheduled-payment-details/_search",
+			"displayName": "SchedulePaymentDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SchedulePaymentDetailsSearchAPI"
+		},
+		{
+			"id": 2678,
+			"name": "EstateAllotmentSearchAPI",
+			"url": "/idc-estate-service/allotments/_search",
+			"displayName": "EstateAllotmentSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateAllotmentSearchAPI"
 		}
 	]
 }
