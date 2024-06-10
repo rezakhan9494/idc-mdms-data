@@ -24386,6 +24386,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateAllotmentSearchAPI"
+		},
+		{
+			"id": 2679,
+			"name": "PaymentDetailsSearchAPI",
+			"url": "/idc-estate-service/payment-details/_search",
+			"displayName": "PaymentDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PaymentDetailsSearchAPI"
 		}
 	]
 }
