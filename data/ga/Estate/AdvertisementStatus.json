@@ -1,0 +1,31 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"AdvertisementStatus": [
+		{
+			"code": "PENDING",
+			"name": "Pending",
+			"active": true
+		},
+		{
+			"code": "OPEN",
+			"name": "Open",
+			"active": true
+		},
+		{
+			"code": "CLOSED",
+			"name": "Closed",
+			"active": true
+		},
+		{
+			"code": "APPROVED",
+			"name": "Approved",
+			"active": true
+		},
+		{
+			"code": "REJECTED",
+			"name": "Rejected",
+			"active": true
+		}
+	]
+}
