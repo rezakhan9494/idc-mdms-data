@@ -8,6 +8,7 @@
 			"businessServiceCode": "EMP",
 			"businessServiceName": "Employee Registration",
 			"navUrl": "/goa-idc/emp/empPreview?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/emp/empPreview?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -16,6 +17,7 @@
 			"businessServiceCode": "ARCH",
 			"businessServiceName": "Architect Onboarding",
 			"navUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -24,6 +26,7 @@
 			"businessServiceCode": "WF_BPA_TC",
 			"businessServiceName": "Technical Clearance",
 			"navUrl": "/goa-idc/obpas/technicalClearance?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/technicalClearance?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -32,6 +35,7 @@
 			"businessServiceCode": "WF_BPA_CL",
 			"businessServiceName": "Construction Licence",
 			"navUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -40,6 +44,7 @@
 			"businessServiceCode": "LEGAL_DEED",
 			"businessServiceName": "Legal Deed",
 			"navUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -48,6 +53,7 @@
 			"businessServiceCode": "NOC",
 			"businessServiceName": "No Objection Certificate",
 			"navUrl": "/goa-idc/noc?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/noc?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -56,6 +62,7 @@
 			"businessServiceCode": "WF_BPA_OC",
 			"businessServiceName": "Occupancy Certificate",
 			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -64,6 +71,7 @@
 			"businessServiceCode": "ADV",
 			"businessServiceName": "Advertisement Approval",
 			"navUrl": "/goa-idc/createadvertisement?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/createadvertisement?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -72,6 +80,7 @@
 			"businessServiceCode": "EST_TRANSFER",
 			"businessServiceName": "Transfer",
 			"navUrl": "/goa-idc/transferee?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/transfer?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -80,6 +89,7 @@
 			"businessServiceCode": "EST_SPECIAL_TRANSFER",
 			"businessServiceName": "Plot Special Transfer",
 			"navUrl": "/goa-idc/special-transfer?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/special-transfer?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -88,6 +98,7 @@
 			"businessServiceCode": "EST_ADV_ALLOTMENT",
 			"businessServiceName": "Plot Allotment via Advertisement",
 			"navUrl": "/goa-idc/estate/allotment/workflow?adv=true&applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/allotment?adv=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -96,6 +107,7 @@
 			"businessServiceCode": "EST_IPB_ALLOTMENT",
 			"businessServiceName": "Plot Allotment via IPB",
 			"navUrl": "/goa-idc/estate/allotment/workflow?ipb=true&applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/allotment?ipb=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -104,6 +116,7 @@
 			"businessServiceCode": "EST_AUCTION_ALLOTMENT",
 			"businessServiceName": "Plot Allotment via eAuction",
 			"navUrl": "/goa-idc/estate/allotment/workflow?auction=true&applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/allotment?auction=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]
