@@ -24397,6 +24397,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.PaymentDetailsSearchAPI"
+		},
+		{
+			"id": 2680,
+			"name": "EstateFeeDetailsSearchAPI",
+			"url": "/idc-estate-service/fee-details/_search",
+			"displayName": "EstateFeeDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateFeeDetailsSearchAPI"
 		}
 	]
 }
