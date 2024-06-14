@@ -24412,7 +24412,7 @@
 		{
 			"id": 2681,
 			"name": "DueDateCalculationAPI",
-			"url": "/egov-common-masters/holidays/getDueDateCalculation",
+			"url": "/egov-common-masters/utils/calculate-due-date",
 			"displayName": "DueDateCalculationAPI",
 			"orderNumber": 1,
 			"enabled": true,
