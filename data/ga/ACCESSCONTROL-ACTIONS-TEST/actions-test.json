@@ -24423,13 +24423,24 @@
 		{
 			"id": 2682,
 			"name": "ConsolidatedSearchAPI",
-			"url": "/idc-estate-service/consolidated-doc/_fetch",
+			"url": "/idc-estate-service/estate/consolidated-doc/_search",
 			"displayName": "ConsolidatedSearchAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.ConsolidatedSearchAPI"
+		},
+		{
+			"id": 2683,
+			"name": "ConsolidatedDocESignAPI",
+			"url": "/idc-estate-service/estate/consolidated-doc/_esign",
+			"displayName": "ConsolidatedDocESignAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ConsolidatedDocESignAPI"
 		}
 	]
 }
