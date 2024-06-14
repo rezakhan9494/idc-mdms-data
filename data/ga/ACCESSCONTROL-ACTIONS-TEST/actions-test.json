@@ -24408,6 +24408,28 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateFeeDetailsSearchAPI"
+		},
+		{
+			"id": 2681,
+			"name": "DueDateCalculationAPI",
+			"url": "/egov-common-masters/holidays/getDueDateCalculation",
+			"displayName": "DueDateCalculationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.DueDateCalculationAPI"
+		},
+		{
+			"id": 2682,
+			"name": "ConsolidatedSearchAPI",
+			"url": "/idc-estate-service/consolidated-doc/_fetch",
+			"displayName": "ConsolidatedSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.ConsolidatedSearchAPI"
 		}
 	]
 }
