@@ -4,11 +4,11 @@
 	"WaterRequirement": [
 		{
 			"code": "LESS_EQUAL_30",
-			"name": "Water Requirement ≤ 30",
+			"name": "Water Requirement \u2264 30",
 			"active": true
 		},{
 			"code": "BETWEEN_30_AND_100",
-			"name": "30 < Water Requirement ≤ 100",
+			"name": "30 < Water Requirement \u2264 100",
 			"active": true
 		},{
 			"code": "MORE_THAN_100",
