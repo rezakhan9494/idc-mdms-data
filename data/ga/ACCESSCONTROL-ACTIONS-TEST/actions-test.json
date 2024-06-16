@@ -24198,11 +24198,11 @@
 		{
 			"id": 2661,
 			"url": "menu",
-			"displayName": "BULK_ALLOTMENT",
+			"displayName": "MASS_REJECTION",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "/goa-idc/mass-allotment"
+			"navigationURL": "/goa-idc/mass-rejection"
 		},
 		{
 			"id": 2662,
