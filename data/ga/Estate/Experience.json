@@ -1,0 +1,15 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"Experience": [
+		{
+			"code": "EXP_MORE_THAN_5",
+			"name": "More than 5 years' experience",
+			"active": true
+		},{
+			"code": "EXP_MORE_THAN_2",
+			"name": "More than 2 years' experience",
+			"active": true
+		}
+	]
+}
