@@ -103,6 +103,30 @@
 			"designationCode": "GM",
 			"designationName": "General Manager",
 			"active": true
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"designationCode": "ITM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_HQ",
+			"designationCode": "FM_HQ",
+			"designationName": "Field Inspector - HQ",
+			"active": true
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"designationCode": "FM_SITE",
+			"designationName": "Field Inspector - Site",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_TC_CO_APPROVER",
+			"designationCode": "MSC",
+			"designationName": "Member Secretary",
+			"active": true
 		}
 	]
 }
