@@ -23,8 +23,8 @@
 			"active": true
 		},
 		{
-			"code": "REJECTED",
-			"name": "Rejected",
+			"code": "CANCELLED",
+			"name": "Cancelled",
 			"active": true
 		}
 	]
