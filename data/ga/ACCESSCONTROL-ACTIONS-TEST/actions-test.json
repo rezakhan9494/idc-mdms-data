@@ -24452,6 +24452,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.LegalDocSearchAPI"
+		},
+		{
+			"id": 2685,
+			"name": "EstateWfCorrespondeDocDownloadAPI",
+			"url": "/idc-estate-service/estate/correspondence-doc/_generate",
+			"displayName": "EstateWfCorrespondeDocDownloadAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateWfCorrespondeDocDownloadAPI"
 		}
 	]
 }
