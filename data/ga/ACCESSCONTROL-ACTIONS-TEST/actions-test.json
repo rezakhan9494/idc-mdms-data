@@ -24441,6 +24441,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.ConsolidatedDocESignAPI"
+		},
+		{
+			"id": 2684,
+			"name": "LegalDocSearchAPI",
+			"url": "/idc-legal-service/legal/v1/deed/documents/_search",
+			"displayName": "LegalDocSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.LegalDocSearchAPI"
 		}
 	]
 }
