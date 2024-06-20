@@ -28753,6 +28753,24 @@
 			"actionid": 2685,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
