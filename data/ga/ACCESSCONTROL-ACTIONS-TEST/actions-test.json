@@ -24463,6 +24463,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateWfCorrespondeDocDownloadAPI"
+		},
+		{
+			"id": 2686,
+			"name": "EstateNotingDocGenerateAPI",
+			"url": "/idc-estate-service/estate/noting-documents/_generate",
+			"displayName": "EstateNotingDocGenerateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateNotingDocGenerateAPI"
 		}
 	]
 }
