@@ -28813,6 +28813,12 @@
 			"actionid": 2686,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2687,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }

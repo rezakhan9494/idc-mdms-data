@@ -24474,6 +24474,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateNotingDocGenerateAPI"
+		},
+		{
+			"id": 2687,
+			"name": "SearchRelatedApplicationAPI",
+			"url": "/egov-common-masters/related-application/_search",
+			"displayName": "SearchRelatedApplicationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchRelatedApplicationAPI"
 		}
 	]
 }
