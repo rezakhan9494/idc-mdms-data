@@ -118,15 +118,15 @@
 			"navUrl": "/goa-idc/estate/allotment/workflow?auction=true&applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/allotment?auction=true&applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_SPV",
+			"businessServiceName": "SPV Application",
+			"navUrl": "/goa-idc/estate/spv/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/spv/application?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
-	],
-	{
-		"moduleName": "Estate",
-		"moduleCode": "ESTD",
-		"businessServiceCode": "EST_SPV",
-		"businessServiceName": "SPV Application",
-		"navUrl": "/goa-idc/estate/spv/workflow?applicationNumber=%s&tenantId=%s",
-		"applicationNavUrl": "/goa-idc/estate/spv/application?applicationNumber=%s&tenantId=%s",
-		"active": true
-	}
+	]
 }
