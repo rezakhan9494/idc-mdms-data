@@ -27985,6 +27985,11 @@
 			"actionid": 2607,
 			"actioncode": "",
 			"tenantId": "ga"
+		},{
+			"rolecode": "LESSEE",
+			"actionid": 2607,
+			"actioncode": "",
+			"tenantId": "ga"
 		},
 		{
 			"rolecode": "DEED_CREATOR",
