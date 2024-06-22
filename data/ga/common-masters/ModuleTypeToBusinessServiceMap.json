@@ -127,6 +127,24 @@
 			"navUrl": "/goa-idc/estate/spv/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/spv/application?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_EXTENSION_TIMELINE_EMPLOYEE",
+			"businessServiceName": "Timeline Extension",
+			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_EXTENSION_TIMELINE_ENTERPRISE",
+			"businessServiceName": "Timeline Extension",
+			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
