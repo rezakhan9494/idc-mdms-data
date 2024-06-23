@@ -113,13 +113,13 @@
 		{
 			"rolecode": "FIELD_INSPECTOR_HQ",
 			"designationCode": "FM_HQ",
-			"designationName": "Field Inspector - HQ",
+			"designationName": "Field Manager (HQ)",
 			"active": true
 		},
 		{
 			"rolecode": "FIELD_INSPECTOR_SITE",
 			"designationCode": "FM_SITE",
-			"designationName": "Field Inspector - Site",
+			"designationName": "Field Manager (Site)",
 			"active": true
 		},
 		{
