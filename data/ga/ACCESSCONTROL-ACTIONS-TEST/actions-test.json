@@ -24198,7 +24198,7 @@
 		{
 			"id": 2661,
 			"url": "menu",
-			"displayName": "MASS_REJECTION",
+			"displayName": "BULK_REJECTION",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
