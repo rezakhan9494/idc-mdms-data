@@ -21905,6 +21905,7 @@
 					2647,
 					2648,
 					2472,
+					2688,
 					2514,
 					2515,
 					2516,
@@ -24485,6 +24486,26 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchRelatedApplicationAPI"
+		},
+		{
+			"id": 2688,
+			"url": "menu",
+			"displayName": "REGISTER_LEASE_DEED",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 31,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/register-lease-deed"
+		},
+		{
+			"id": 2689,
+			"name": "AllotmentValidActionSearchAPI",
+			"url": "/idc-estate-service/allotments-valid-action/_search",
+			"displayName": "AllotmentValidActionSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.AllotmentValidActionSearchAPI"
 		}
 	]
 }
