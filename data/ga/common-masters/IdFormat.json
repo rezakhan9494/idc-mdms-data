@@ -727,6 +727,14 @@
 			"idname": "idc.estate-application.extension-lease-term.applicationNumber"
 		},
 		{
+			"format": "GIDC/FORM-SPV/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.spv.applicationNumber"
+		},
+		{
+			"format": "GIDC/FORM-TE/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.timeline.allotment.extension.applicationNumber"
+		},
+		{
 			"format": "GIDC/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},

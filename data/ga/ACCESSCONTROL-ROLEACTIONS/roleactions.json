@@ -27987,6 +27987,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "LESSEE",
+			"actionid": 2607,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "DEED_CREATOR",
 			"actionid": 2607,
 			"actioncode": "",
@@ -28829,6 +28835,12 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2689,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L3",
+			"actionid": 2653,
 			"actioncode": "",
 			"tenantId": "ga"
 		}
