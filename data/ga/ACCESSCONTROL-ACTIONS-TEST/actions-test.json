@@ -21917,12 +21917,10 @@
 				],
 				[
 					2473,
-					2474,
-					2529
+					2474
 				],
 				[
 					2476,
-					2477,
 					2521,
 					2475
 				],
@@ -22163,32 +22161,13 @@
 			"navigationURL": ""
 		},
 		{
-			"id": 2477,
-			"name": "constructionLicence",
-			"url": "menu",
-			"displayName": "CONSTRUCTION_LICENCE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 50,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
 			"id": 2475,
 			"url": "menu",
-			"displayName": "APPLY_FOR_COMPLETION_ORDER",
+			"displayName": "APPLY_FOR_COMPLETION_ORDER_OCCUPANCY_CERTIFICATE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 51,
 			"enabled": true,
 			"navigationURL": "/goa-idc/obpas/occupancyCertificate"
-		},
-		{
-			"id": 2529,
-			"url": "menu",
-			"displayName": "OCCUPANCY_CERTIFICATE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 60,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
 		},
 		{
 			"id": 2521,
