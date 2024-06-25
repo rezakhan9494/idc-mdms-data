@@ -28837,48 +28837,6 @@
 			"actionid": 2653,
 			"actioncode": "",
 			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_INITIATOR",
-			"actionid": 2548,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_INITIATOR",
-			"actionid": 2549,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_COL_INITIATOR",
-			"actionid": 2550,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_OC_APPROVER",
-			"actionid": 2555,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_OC_APPROVER",
-			"actionid": 2556,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_OC_APPROVER",
-			"actionid": 2557,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "BPA_OC_APPROVER",
-			"actionid": 2558,
-			"actioncode": "",
-			"tenantId": "ga"
 		}
 	]
 }
