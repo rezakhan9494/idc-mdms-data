@@ -21953,7 +21953,8 @@
 					2654,
 					2661,
 					2675,
-					2676
+					2676,
+					2690
 				]
 			]
 		},
@@ -24485,6 +24486,15 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.AllotmentValidActionSearchAPI"
+		},
+		{
+			"id": 2690,
+			"url": "menu",
+			"displayName": "INITIATE_TIMELINE_EXTENSION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 70,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/initiate-extension"
 		}
 	]
 }
