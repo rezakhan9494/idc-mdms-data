@@ -145,6 +145,15 @@
 			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_CANCELLATION",
+			"businessServiceName": "Application Cancellation",
+			"navUrl": "/goa-idc/estate/cancellation-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/cancellation-workflow?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
