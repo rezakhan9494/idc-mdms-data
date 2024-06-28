@@ -166,6 +166,21 @@
 			"code": "BPA_TC_CO_APPROVER",
 			"name": "Technical Clearance Completion Order Approval",
 			"description": "Technical Clearance Completion Order Approval"
+		},
+		{
+			"code": "FIELD_INSPECTOR_SITE",
+			"name": "Field Inspector Site",
+			"description": "Field Inspection."
+		},
+		{
+			"code": "MEMBER_SECRETARY",
+			"name": "Member Secretary",
+			"description": "TC and CO Approver"
+		},
+		{
+			"code": "GM_ENGINEERING",
+			"name": "General Manager Engineering",
+			"description": "CL and OC Approver"
 		}
 	]
 }
