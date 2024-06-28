@@ -123,9 +123,19 @@
 			"description": "Construction License Approver."
 		},
 		{
-			"code": "FIELD_INSPECTOR",
-			"name": "Field Inspector",
-			"description": "Field Inspector."
+			"code": "FIELD_INSPECTOR_SITE",
+			"name": "Field Inspector Site",
+			"description": "Field Inspection."
+		},
+		{
+			"code": "MEMBER_SECRETARY",
+			"name": "Member Secretary",
+			"description": "TC and CO Approver"
+		},
+		{
+			"code": "GM_ENGINEERING",
+			"name": "General Manager Engineering",
+			"description": "CL and OC Approver"
 		}
 	]
 }
