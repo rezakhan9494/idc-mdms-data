@@ -22075,7 +22075,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/applyforsptransfer "
+			"navigationURL": "/goa-idc/estate/special-transfer"
 		},
 		{
 			"id": 2516,
