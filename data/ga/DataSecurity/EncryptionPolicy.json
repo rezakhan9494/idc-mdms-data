@@ -72,6 +72,14 @@
 				{
 					"jsonPath": "passport",
 					"type": "Normal"
+				},
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
+					"type": "Normal"
 				}
 			]
 		},
@@ -100,6 +108,14 @@
 				},
 				{
 					"jsonPath": "emailId",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
 					"type": "Normal"
 				}
 			]
@@ -200,6 +216,10 @@
 				{
 					"jsonPath": "owners/*/pan",
 					"type": "Normal"
+				},
+				{
+					"jsonPath": "owners/*/name",
+					"type": "Normal"
 				}
 			]
 		},
@@ -232,6 +252,10 @@
 				},
 				{
 					"jsonPath": "pan",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "name",
 					"type": "Normal"
 				}
 			]

@@ -46,6 +46,11 @@
 			"name": "Goa-IDC",
 			"code": "GIDC",
 			"active": true
+		},
+		{
+			"name": "Information Technology",
+			"code": "IT",
+			"active": true
 		}
 	]
 }

@@ -67,6 +67,66 @@
 			"designationCode": "MD",
 			"designationName": "Managing Director",
 			"active": true
+		},
+		{
+			"rolecode": "DEED_CREATOR",
+			"designationCode": "LA",
+			"designationName": "Legal Assistant",
+			"active": true
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"designationCode": "ARM",
+			"designationName": "Area Manager",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_OC_APPROVER",
+			"designationCode": "ARM",
+			"designationName": "Area Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L1",
+			"designationCode": "AM",
+			"designationName": "Assistant Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L2",
+			"designationCode": "DGM",
+			"designationName": "Deputy General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L3",
+			"designationCode": "GM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"designationCode": "ITM",
+			"designationName": "General Manager",
+			"active": true
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_HQ",
+			"designationCode": "FM_HQ",
+			"designationName": "Field Inspector - HQ",
+			"active": true
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"designationCode": "FM_SITE",
+			"designationName": "Field Inspector - Site",
+			"active": true
+		},
+		{
+			"rolecode": "BPA_TC_CO_APPROVER",
+			"designationCode": "MSC",
+			"designationName": "Member Secretary",
+			"active": true
 		}
 	]
 }

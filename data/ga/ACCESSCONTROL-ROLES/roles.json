@@ -73,9 +73,9 @@
 			"description": "Lessee."
 		},
 		{
-			"code": "TRANSFERRER",
-			"name": "Transferrer",
-			"description": "Transferrer."
+			"code": "TRANSFEROR",
+			"name": "Transferor",
+			"description": "Transferor."
 		},
 		{
 			"code": "TRANSFEREE",
@@ -123,19 +123,49 @@
 			"description": "Construction License Approver."
 		},
 		{
+			"code": "FIELD_INSPECTOR_HQ",
+			"name": "Field Inspector - HQ",
+			"description": "Field Inspector - HQ."
+		},
+		{
 			"code": "FIELD_INSPECTOR_SITE",
-			"name": "Field Inspector Site",
-			"description": "Field Inspection."
+			"name": "Field Inspector - Site",
+			"description": "Field Inspector - Site."
 		},
 		{
-			"code": "MEMBER_SECRETARY",
-			"name": "Member Secretary",
-			"description": "TC and CO Approver"
+			"code": "DEED_CREATOR",
+			"name": "Deed Creator",
+			"description": "Deed Creator"
 		},
 		{
-			"code": "GM_ENGINEERING",
-			"name": "General Manager Engineering",
-			"description": "CL and OC Approver"
+			"code": "NOC_CREATOR",
+			"name": "NOC Creator",
+			"description": "NOC Creator"
+		},
+		{
+			"code": "BPA_OC_APPROVER",
+			"name": "Occupancy Certificate Approver",
+			"description": "Occupancy Certificate Approver"
+		},
+		{
+			"code": "ESTD_VERIFIER_L1",
+			"name": "Estate Verifier L1",
+			"description": "Estate Verifier L1"
+		},
+		{
+			"code": "ESTD_VERIFIER_L2",
+			"name": "Estate Verifier L2",
+			"description": "Estate Verifier L2"
+		},
+		{
+			"code": "ESTD_VERIFIER_L3",
+			"name": "Estate Verifier L3",
+			"description": "Estate Verifier L3"
+		},
+		{
+			"code": "BPA_TC_CO_APPROVER",
+			"name": "Technical Clearance Completion Order Approval",
+			"description": "Technical Clearance Completion Order Approval"
 		}
 	]
 }

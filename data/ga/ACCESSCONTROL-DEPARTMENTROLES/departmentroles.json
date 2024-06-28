@@ -39,16 +39,52 @@
 			"rolecode": "BPA_COL_APPROVER"
 		},
 		{
+			"departmentcode": "IPDC",
+			"rolecode": "BPA_TC_CO_APPROVER"
+		},
+		{
 			"departmentcode": "GIDC",
 			"rolecode": "GIDC_MD"
 		},
 		{
 			"departmentcode": "ENGS",
-			"rolecode": "FIELD_INSPECTOR"
+			"rolecode": "FIELD_INSPECTOR_HQ"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "FIELD_INSPECTOR_SITE"
 		},
 		{
 			"departmentcode": "ENGS",
 			"rolecode": "BPA_COL_INITIATOR"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "NOC_CREATOR"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "BPA_OC_APPROVER"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ESTD_VERIFIER_L1"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ESTD_VERIFIER_L2"
+		},
+		{
+			"departmentcode": "ESTD",
+			"rolecode": "ESTD_VERIFIER_L3"
+		},
+		{
+			"departmentcode": "LGLS",
+			"rolecode": "DEED_CREATOR"
+		},
+		{
+			"departmentcode": "IT",
+			"rolecode": "IT_MANAGER"
 		}
 	]
 }

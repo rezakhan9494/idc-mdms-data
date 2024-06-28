@@ -1,0 +1,19 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"FinanceMeans": [
+		{
+			"code": "SELF_FUNDING",
+			"name": "Self-funding",
+			"active": true
+		},{
+			"code": "UNSECURED_LOANS_DEPOSITS",
+			"name": "Unsecured loans and deposits",
+			"active": true
+		},{
+			"code": "SECURED_TERM_LOAN",
+			"name": "Secured term loan from Financial Institutions",
+			"active": true
+		}
+	]
+}

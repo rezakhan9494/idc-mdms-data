@@ -1,22 +1,24 @@
 {
-  "tenantId": "ga",
-  "moduleName": "NOC",
-  "NocType": [
-     {
-       "code": "FIRE_NOC",
-       "isActive": true,
-       "offlineWF":"FIRE_NOC_OFFLINE",
-       "onlineWF":"FIRE_NOC_SRV",
-       "mode":"online",
-       "NocUserRole":"FIRE_NOC_APPROVER"
-    },
-    {
-      "code":"AIRPORT_AUTHORITY",
-      "isActive": true,
-      "offlineWF":"AIRPORT_NOC_OFFLINE",
-      "onlineWF":"AIRPORT_NOC_SRV",
-      "mode":"offline",
-       "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
-    }
-  ]
+	"tenantId": "ga",
+	"moduleName": "NOC",
+	"NocType": [
+		{
+			"code": "FIRE_NOC",
+			"isActive": true,
+			"name": "Fire",
+			"source": "COMPLETION_ORDER"
+		},
+		{
+			"code": "HEALTH_NOC",
+			"isActive": true,
+			"name": "Health",
+			"source": "COMPLETION_ORDER"
+		},
+		{
+			"code": "FACTORIES_AND_BOILERS_NOC",
+			"isActive": true,
+			"name": "Factories and boilers",
+			"source": "COMPLETION_ORDER"
+		}
+	]
 }

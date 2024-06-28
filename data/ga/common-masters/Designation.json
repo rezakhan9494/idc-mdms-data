@@ -33,9 +33,15 @@
 			"active": true
 		},
 		{
-			"code": "FM",
-			"name": "Field Manager",
-			"description": "Field Manager (FM)",
+			"code": "FM_SITE",
+			"name": "Field Inspector - Site",
+			"description": "ield Inspector (Site)",
+			"active": true
+		},
+		{
+			"code": "FM_HQ",
+			"name": "Field Inspector - HQ",
+			"description": "Field Inspector (HQ)",
 			"active": true
 		},
 		{
@@ -54,6 +60,18 @@
 			"code": "MSC",
 			"name": "Member Secretary",
 			"description": "Member Secretary (MSC)",
+			"active": true
+		},
+		{
+			"code": "LA",
+			"name": "Legal Assistant",
+			"description": "Legal Assistant (LA)",
+			"active": true
+		},
+		{
+			"code": "ITM",
+			"name": "IT Manager",
+			"description": "IT Manager (ITM)",
 			"active": true
 		}
 	]

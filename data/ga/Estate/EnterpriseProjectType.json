@@ -1,0 +1,15 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"EnterpriseProjectType": [
+		{
+			"code": "NEW",
+			"name": "New Project",
+			"active": true
+		},{
+			"code": "EXPANSION",
+			"name": "Expansion of an existing unit",
+			"active": true
+		}
+	]
+}

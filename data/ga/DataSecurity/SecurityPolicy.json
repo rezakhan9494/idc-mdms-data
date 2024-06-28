@@ -122,6 +122,18 @@
 					"jsonPath": "passport",
 					"patternId": "001",
 					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "firstName",
+					"jsonPath": "firstName",
+					"patternId": "002",
+					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "lastName",
+					"jsonPath": "lastName",
+					"patternId": "002",
+					"defaultVisibility": "PLAIN"
 				}
 			],
 			"roleBasedDecryptionPolicy": [
@@ -399,6 +411,12 @@
 				"jsonPath": "owners/*/pan",
 				"patternId": "005",
 				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "owners/*/name",
+				"jsonPath": "owners/*/name",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
 			}
 		],
 		"roleBasedDecryptionPolicy": []
@@ -449,6 +467,12 @@
 			{
 				"name": "pan",
 				"jsonPath": "pan",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "name",
+				"jsonPath": "name",
 				"patternId": "005",
 				"defaultVisibility": "PLAIN"
 			}
@@ -568,6 +592,18 @@
 					"name": "passport",
 					"jsonPath": "passport",
 					"patternId": null,
+					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "firstName",
+					"jsonPath": "firstName",
+					"patternId": "002",
+					"defaultVisibility": "PLAIN"
+				},
+				{
+					"name": "lastName",
+					"jsonPath": "lastName",
+					"patternId": "002",
 					"defaultVisibility": "PLAIN"
 				}
 			],

@@ -2522,6 +2522,16 @@
       "isActualDemand": true,
       "order": "2",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "ESTD_FEE",
+      "name": "Estate Fee",
+      "code": "ESTD_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
   ]
 }
