@@ -776,11 +776,11 @@
 		},
 		{
 			"format": "GIDC/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
-			"idname": "idc.estate-allotment.special-cancellation.allotmentId"
+			"idname": "idc.estate-allotment.cancellation.allotmentId"
 		},
 		{
 			"format": "GIDC/REJECTION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
-			"idname": "idc.estate-allotment.special-rejection.allotmentId"
+			"idname": "idc.estate-allotment.rejection.allotmentId"
 		},
 		{
 			"format": "GIDC/NOTICE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
