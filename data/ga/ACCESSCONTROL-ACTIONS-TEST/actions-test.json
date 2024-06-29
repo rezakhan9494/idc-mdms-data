@@ -24495,6 +24495,17 @@
 			"orderNumber": 70,
 			"enabled": true,
 			"navigationURL": "/goa-idc/estate/initiate-extension"
+		},
+		{
+			"id": 2691,
+			"name": "CommonMasterMigrationDocSearchAPI",
+			"url": "/egov-common-masters/documents/migration-documents/_search",
+			"displayName": "CommonMasterMigrationDocSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterMigrationDocSearchAPI"
 		}
 	]
 }
