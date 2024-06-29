@@ -769,6 +769,22 @@
 		{
 			"format": "GIDC/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.special-transfer.allotmentId"
+		},
+		{
+			"format": "GIDC/TL EXTENSION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.timeline-extension.allotmentId"
+		},
+		{
+			"format": "GIDC/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.special-cancellation.allotmentId"
+		},
+		{
+			"format": "GIDC/REJECTION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.special-rejection.allotmentId"
+		},
+		{
+			"format": "GIDC/NOTICE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.default-notice.allotmentId"
 		}
 	]
 }
