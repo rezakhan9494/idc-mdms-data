@@ -1,0 +1,23 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"OrderType": [
+		{
+			"code": "ALLOTMENT",
+			"name": "Allotment",
+			"active": true
+		},{
+			"code": "TRANSFER",
+			"name": "Transfer",
+			"active": true
+		},{
+			"code": "SPECIAL_TRANSFER",
+			"name": "Special Transfer",
+			"active": true
+		},{
+			"code": "SUB_LEASE",
+			"name": "Sub Lease",
+			"active": true
+		}
+	]
+}

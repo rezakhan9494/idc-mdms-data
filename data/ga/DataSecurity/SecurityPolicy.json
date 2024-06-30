@@ -479,6 +479,46 @@
 		],
 		"roleBasedDecryptionPolicy": []
 	},
+	{
+		"model": "AuthUser",
+		"uniqueIdentifier": {
+			"name": "uuid",
+			"jsonPath": "/uuid"
+		},
+		"attributes": [
+			{
+				"name": "firstName",
+				"jsonPath": "firstName",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "lastName",
+				"jsonPath": "lastName",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "primaryMobileNo",
+				"jsonPath": "primaryMobileNo",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "alternateMobileNo",
+				"jsonPath": "alternateMobileNo",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "email",
+				"jsonPath": "email",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			}
+		],
+		"roleBasedDecryptionPolicy": []
+	},
 		{
 			"model": "UserSelf",
 			"uniqueIdentifier": {

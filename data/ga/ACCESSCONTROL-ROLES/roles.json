@@ -123,9 +123,14 @@
 			"description": "Construction License Approver."
 		},
 		{
-			"code": "FIELD_INSPECTOR",
-			"name": "Field Inspector",
-			"description": "Field Inspector."
+			"code": "FIELD_INSPECTOR_HQ",
+			"name": "Field Inspector - HQ",
+			"description": "Field Inspector - HQ."
+		},
+		{
+			"code": "FIELD_INSPECTOR_SITE",
+			"name": "Field Inspector - Site",
+			"description": "Field Inspector - Site."
 		},
 		{
 			"code": "DEED_CREATOR",
@@ -156,6 +161,11 @@
 			"code": "ESTD_VERIFIER_L3",
 			"name": "Estate Verifier L3",
 			"description": "Estate Verifier L3"
+		},
+		{
+			"code": "BPA_TC_CO_APPROVER",
+			"name": "Technical Clearance Completion Order Approval",
+			"description": "Technical Clearance Completion Order Approval"
 		}
 	]
 }
