@@ -79,8 +79,8 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_TRANSFER",
 			"businessServiceName": "Transfer",
-			"navUrl": "/goa-idc/transferee?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/transfer?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/transferee?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/transferee?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -117,6 +117,42 @@
 			"businessServiceName": "Plot Allotment via eAuction",
 			"navUrl": "/goa-idc/estate/allotment/workflow?auction=true&applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/allotment?auction=true&applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_SPV",
+			"businessServiceName": "SPV Application",
+			"navUrl": "/goa-idc/estate/spv/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/spv/application?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_EXTENSION_TIMELINE_EMPLOYEE",
+			"businessServiceName": "Timeline Extension",
+			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_EXTENSION_TIMELINE_ENTERPRISE",
+			"businessServiceName": "Timeline Extension",
+			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_CANCELLATION",
+			"businessServiceName": "Application Cancellation",
+			"navUrl": "/goa-idc/estate/cancellation-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/cancellation-workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]

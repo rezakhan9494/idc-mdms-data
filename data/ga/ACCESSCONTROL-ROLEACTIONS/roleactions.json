@@ -27124,12 +27124,6 @@
 		},
 		{
 			"rolecode": "LESSEE",
-			"actionid": 2477,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "LESSEE",
 			"actionid": 2520,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27987,6 +27981,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "LESSEE",
+			"actionid": 2607,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "DEED_CREATOR",
 			"actionid": 2607,
 			"actioncode": "",
@@ -28282,6 +28282,12 @@
 		},
 		{
 			"rolecode": "ENTERPRISE",
+			"actionid": 2640,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
 			"actionid": 2640,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28751,6 +28757,102 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2685,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_TC_CO_APPROVER",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_TC_CO_APPROVER",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_TC_CO_APPROVER",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "NOC_CREATOR",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2686,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2687,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2688,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2689,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L3",
+			"actionid": 2653,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L1",
+			"actionid": 2690,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2691,
 			"actioncode": "",
 			"tenantId": "ga"
 		}
