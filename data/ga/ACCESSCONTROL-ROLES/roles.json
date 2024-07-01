@@ -168,11 +168,6 @@
 			"description": "Technical Clearance Completion Order Approval"
 		},
 		{
-			"code": "FIELD_INSPECTOR_SITE",
-			"name": "Field Inspector Site",
-			"description": "Field Inspection."
-		},
-		{
 			"code": "MEMBER_SECRETARY",
 			"name": "Member Secretary",
 			"description": "TC and CO Approver"
