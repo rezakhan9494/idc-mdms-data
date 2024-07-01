@@ -1,0 +1,31 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"SpecialTransferType": [
+		{
+			"code": "SPL_CHANGE_CONTROLLING_OWNER_INTEREST",
+			"name": "Change in the Controlling Ownership Interest of the Promoter(s) in the Transferor",
+			"active": true
+		},
+		{
+			"code": "SPL_MERGER_DEMERGER",
+			"name": "Change in the Controlling Ownership Interest of the Promoter(s) as a result of merger, amalgamation, demerger or corporate insolvency resolution plan",
+			"active": true
+		},
+		{
+			"code": "SPL_CONVERSION_TO_CORPORATE",
+			"name": "Conversion of a sole proprietorship or limited liability partnership into a body corporate",
+			"active": true
+		},
+		{
+			"code": "SPL_CONVERSION_TO_LLP",
+			"name": "Conversion of a partnership into a limited liability partnership",
+			"active": true
+		},
+		{
+			"code": "SPL_CONVEYANCE_LEASE_RIGHTS",
+			"name": "Conveyance of leasehold rights to the successor(s) of the Promoter(s) due to the death of the Promoter(s)",
+			"active": true
+		}
+	]
+}
