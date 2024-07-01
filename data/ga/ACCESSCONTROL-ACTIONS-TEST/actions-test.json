@@ -21905,6 +21905,7 @@
 					2647,
 					2648,
 					2472,
+					2688,
 					2514,
 					2515,
 					2516,
@@ -21916,12 +21917,10 @@
 				],
 				[
 					2473,
-					2474,
-					2529
+					2474
 				],
 				[
 					2476,
-					2477,
 					2521,
 					2475
 				],
@@ -21954,7 +21953,8 @@
 					2654,
 					2661,
 					2675,
-					2676
+					2676,
+					2690
 				]
 			]
 		},
@@ -22075,7 +22075,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/applyforsptransfer "
+			"navigationURL": "/goa-idc/estate/special-transfer"
 		},
 		{
 			"id": 2516,
@@ -22162,32 +22162,13 @@
 			"navigationURL": ""
 		},
 		{
-			"id": 2477,
-			"name": "constructionLicence",
-			"url": "menu",
-			"displayName": "CONSTRUCTION_LICENCE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 50,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
 			"id": 2475,
 			"url": "menu",
-			"displayName": "APPLY_FOR_COMPLETION_ORDER",
+			"displayName": "APPLY_FOR_COMPLETION_ORDER_OCCUPANCY_CERTIFICATE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 51,
 			"enabled": true,
 			"navigationURL": "/goa-idc/obpas/occupancyCertificate"
-		},
-		{
-			"id": 2529,
-			"url": "menu",
-			"displayName": "OCCUPANCY_CERTIFICATE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 60,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
 		},
 		{
 			"id": 2521,
@@ -24198,7 +24179,7 @@
 		{
 			"id": 2661,
 			"url": "menu",
-			"displayName": "MASS_REJECTION",
+			"displayName": "BULK_REJECTION",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
@@ -24463,6 +24444,68 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateWfCorrespondeDocDownloadAPI"
+		},
+		{
+			"id": 2686,
+			"name": "EstateNotingDocGenerateAPI",
+			"url": "/idc-estate-service/estate/noting-documents/_generate",
+			"displayName": "EstateNotingDocGenerateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateNotingDocGenerateAPI"
+		},
+		{
+			"id": 2687,
+			"name": "SearchRelatedApplicationAPI",
+			"url": "/egov-common-masters/related-application/_search",
+			"displayName": "SearchRelatedApplicationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchRelatedApplicationAPI"
+		},
+		{
+			"id": 2688,
+			"url": "menu",
+			"displayName": "REGISTER_LEASE_DEED",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 31,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/register-lease-deed"
+		},
+		{
+			"id": 2689,
+			"name": "AllotmentValidActionSearchAPI",
+			"url": "/idc-estate-service/allotments-valid-action/_search",
+			"displayName": "AllotmentValidActionSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.AllotmentValidActionSearchAPI"
+		},
+		{
+			"id": 2690,
+			"url": "menu",
+			"displayName": "INITIATE_TIMELINE_EXTENSION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 70,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/initiate-extension"
+		},
+		{
+			"id": 2691,
+			"name": "CommonMasterMigrationDocSearchAPI",
+			"url": "/egov-common-masters/documents/migration-documents/_search",
+			"displayName": "CommonMasterMigrationDocSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterMigrationDocSearchAPI"
 		}
 	]
 }

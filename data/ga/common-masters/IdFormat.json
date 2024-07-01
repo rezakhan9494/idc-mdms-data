@@ -727,6 +727,18 @@
 			"idname": "idc.estate-application.extension-lease-term.applicationNumber"
 		},
 		{
+			"format": "GIDC/FORM-CL/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.cancellation.applicationNumber"
+		},
+		{
+			"format": "GIDC/FORM-SPV/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.spv.applicationNumber"
+		},
+		{
+			"format": "GIDC/FORM-TE/[cy:yyyy]/[SEQ_IDC_ESTD_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.timeline.allotment.extension.applicationNumber"
+		},
+		{
 			"format": "GIDC/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},
@@ -757,6 +769,22 @@
 		{
 			"format": "GIDC/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
 			"idname": "idc.estate-allotment.special-transfer.allotmentId"
+		},
+		{
+			"format": "GIDC/TL EXTENSION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.timeline-extension.allotmentId"
+		},
+		{
+			"format": "GIDC/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.cancellation.allotmentId"
+		},
+		{
+			"format": "GIDC/REJECTION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.rejection.allotmentId"
+		},
+		{
+			"format": "GIDC/NOTICE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"idname": "idc.estate-allotment.default-notice.allotmentId"
 		}
 	]
 }

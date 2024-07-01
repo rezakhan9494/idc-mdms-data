@@ -34,14 +34,14 @@
 		},
 		{
 			"code": "FM_SITE",
-			"name": "Field Inspector - Site",
-			"description": "ield Inspector (Site)",
+			"name": "Field Manager (Site)",
+			"description": "Field Manager (Site)",
 			"active": true
 		},
 		{
 			"code": "FM_HQ",
-			"name": "Field Inspector - HQ",
-			"description": "Field Inspector (HQ)",
+			"name": "Field Manager (HQ)",
+			"description": "Field Manager (HQ)",
 			"active": true
 		},
 		{
