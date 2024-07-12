@@ -81,6 +81,12 @@
 			"active": true
 		},
 		{
+			"rolecode": "AREA_MANAGER",
+			"designationCode": "ARM",
+			"designationName": "Area Manager",
+			"active": true
+		},
+		{
 			"rolecode": "BPA_OC_APPROVER",
 			"designationCode": "ARM",
 			"designationName": "Area Manager",

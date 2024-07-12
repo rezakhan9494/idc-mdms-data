@@ -39,12 +39,21 @@
 			"active": true
 		},
 		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WF_BPA_OC",
+			"businessServiceName": "Occupancy Certificate",
+			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
 			"moduleName": "Legal",
 			"moduleCode": "LGLS",
 			"businessServiceCode": "LEGAL_DEED",
 			"businessServiceName": "Legal Deed",
-			"navUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/indenture/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/indenture?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -79,7 +88,7 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_TRANSFER",
 			"businessServiceName": "Transfer",
-			"navUrl": "/goa-idc/estate/transferee?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/transfer/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/transferee?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
@@ -88,8 +97,8 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_SPECIAL_TRANSFER",
 			"businessServiceName": "Plot Special Transfer",
-			"navUrl": "/goa-idc/special-transfer?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/special-transfer?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/transfer/workflow?isSpecialTransfer=true&applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/transferee?isSpecialTransfer=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -153,6 +162,33 @@
 			"businessServiceName": "Application Cancellation",
 			"navUrl": "/goa-idc/estate/cancellation-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/cancellation-workflow?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_SUB_LEASE",
+			"businessServiceName": "Plot Sub Lease",
+			"navUrl": "/goa-idc/estate/sublease-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/sublease?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_EXTENSION_TIMELINE_DEFAULT",
+			"businessServiceName": "Default Timeline Extension",
+			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WF_BPA_OC",
+			"businessServiceName": "Occupancy Certificate",
+			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]

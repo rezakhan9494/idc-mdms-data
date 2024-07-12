@@ -36,6 +36,10 @@
 		},
 		{
 			"departmentcode": "IPDC",
+			"rolecode": "MEMBER_SECRETARY"
+		},
+		{
+			"departmentcode": "IPDC",
 			"rolecode": "BPA_COL_APPROVER"
 		},
 		{
@@ -67,6 +71,14 @@
 			"rolecode": "BPA_OC_APPROVER"
 		},
 		{
+			"departmentcode": "ENGS",
+			"rolecode": "GM_ENGINEERING"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "AREA_MANAGER"
+		},
+		{
 			"departmentcode": "ESTD",
 			"rolecode": "ESTD_VERIFIER_L1"
 		},
@@ -85,6 +97,10 @@
 		{
 			"departmentcode": "IT",
 			"rolecode": "IT_MANAGER"
+		},
+		{
+			"departmentcode":  "ENGS",
+			"rolecode": "DY_GM_Engineering"
 		}
 	]
 }

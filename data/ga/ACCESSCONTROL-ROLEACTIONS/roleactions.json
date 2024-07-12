@@ -27069,6 +27069,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "TRANSFEREE",
+			"actionid": 2472,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "LESSEE",
 			"actionid": 2514,
 			"actioncode": "",
@@ -27969,13 +27975,13 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2606,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2607,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28005,7 +28011,7 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2609,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28323,6 +28329,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2644,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2645,
 			"actioncode": "",
@@ -28348,6 +28360,12 @@
 		},
 		{
 			"rolecode": "ENTERPRISE",
+			"actionid": 2649,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
 			"actionid": 2649,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28853,6 +28871,108 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2691,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "GM_ENGINEERING",
+			"actionid": 2692,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "GM_ENGINEERING",
+			"actionid": 2693,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "GM_ENGINEERING",
+			"actionid": 2694,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "GM_ENGINEERING",
+			"actionid": 2695,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "MEMBER_SECRETARY",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "MEMBER_SECRETARY",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "MEMBER_SECRETARY",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2696,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2696,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "AREA_MANAGER",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "AREA_MANAGER",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "AREA_MANAGER",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DY_GM_Engineering",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DY_GM_Engineering",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "DY_GM_Engineering",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2697,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2697,
 			"actioncode": "",
 			"tenantId": "ga"
 		}
