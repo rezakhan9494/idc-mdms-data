@@ -186,6 +186,11 @@
 			"code": "DY_GM_Engineering",
 			"name": "Deputy General Manager Engineering",
 			"description": "OC Reviewer"
+		},
+		{
+			"code": "IT_MANAGER",
+			"name": "IT Manager",
+			"description": "IT Manager"
 		}
 	]
 }
