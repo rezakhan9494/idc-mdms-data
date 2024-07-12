@@ -19,8 +19,12 @@
 			"idname": "bpa.permitnumber"
 		},
 		{
-			"format": "GIDC_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+			"format": "GIDC/[fy:yy-yy]/[SEQ_EG_PG_TXN]",
 			"idname": "pg.txnid"
+		},
+		{
+			"format": "GIDC/INV/[fy:yy-yy]/[SEQ_PG_INVOICE]",
+			"idname": "pg.invoice.id"
 		},
 		{
 			"format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
