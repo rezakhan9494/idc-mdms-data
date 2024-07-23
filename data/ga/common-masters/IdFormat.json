@@ -3,52 +3,12 @@
 	"moduleName": "common-masters",
 	"IdFormat": [
 		{
-			"format": "GIDC-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-			"idname": "bpa.aplnumber"
-		},
-		{
-			"format": "GIDC-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_APN]",
-			"idname": "bpa.tp.aplnumber"
-		},
-		{
-			"format": "GIDC-TP-[cy:yyyy-MM-dd]-[SEQ_EG_TP_PN]",
-			"idname": "bpa.tp.permitnumber"
-		},
-		{
-			"format": "GIDC-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
-			"idname": "bpa.permitnumber"
-		},
-		{
-			"format": "GIDC/[fy:yy-yy]/[SEQ_EG_PG_TXN]",
+			"format": "GIDC/TXN/[fy:yy-yy]/[SEQ_EG_PG_TXN]",
 			"idname": "pg.txnid"
 		},
 		{
 			"format": "GIDC/INV/[fy:yy-yy]/[SEQ_PG_INVOICE]",
 			"idname": "pg.invoice.id"
-		},
-		{
-			"format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
-			"idname": "receipt.id"
-		},
-		{
-			"format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-			"idname": "bpareg.receipt.id"
-		},
-		{
-			"format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-			"idname": "bpa.nc_app_fee.receipt.id"
-		},
-		{
-			"format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-			"idname": "bpa.nc_san_fee.receipt.id"
-		},
-		{
-			"format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-			"idname": "bpa.nc_oc_app_fee.receipt.id"
-		},
-		{
-			"format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-			"idname": "bpa.nc_oc_san_fee.receipt.id"
 		},
 		{
 			"format": "GIDC/NOC/[cy:yyyy]/[SEQ_NOC_APN]",
@@ -75,19 +35,19 @@
 			"idname": "enterprise.entity.registrationnumber"
 		},
 		{
-			"format": "BP/TC/[cy:yyyy]/[SEQ_EG_BP_TC_APN]",
+			"format": "ENGG/OBPAS/TC/[cy:yyyy]/[SEQ_EG_BP_TC_APN]",
 			"idname": "bpa.tc.aplnumber"
 		},
 		{
-			"format": "BP/CL/[cy:yyyy]/[SEQ_EG_BP_CL_APN]",
+			"format": "ENGG/OBPAS/CL/[cy:yyyy]/[SEQ_EG_BP_CL_APN]",
 			"idname": "bpa.cl.aplnumber"
 		},
 		{
-			"format": "BP/OC/[cy:yyyy]/[SEQ_EG_BP_OC_APN]",
+			"format": "ENGG/OBPAS/OC/[cy:yyyy]/[SEQ_EG_BP_OC_APN]",
 			"idname": "bpa.oc.aplnumber"
 		},
 		{
-			"format": "BP/CO/[cy:yyyy]/[SEQ_EG_BP_CO_APN]",
+			"format": "ENGG/OBPAS/CO/[cy:yyyy]/[SEQ_EG_BP_CO_APN]",
 			"idname": "bpa.co.aplnumber"
 		},
 		{
@@ -103,103 +63,107 @@
 			"idname": "hrms.emp.profile.update.registrationnumber"
 		},
 		{
-			"format": "GIDC/DEED/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
+			"format": "LEGAL/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
 			"idname": "idc.legal.deed.applicationnumber"
 		},
 		{
-			"format": "GIDC/ADV/[cy:yyyy]/[SEQ_IDC_ADVERTISEMENT_NUMBER]",
+			"format": "ESTATE/ADV/[cy:yyyy]/[SEQ_IDC_ADVERTISEMENT_NUMBER]",
 			"idname": "idc.adv.advertisementNumber"
 		},
 		{
-			"format": "GIDC/FORM-A/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-A/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.allotment.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-T/[cy:yyyy]/[SEQ_IDC_ESTD_TRANSFER_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-T/[cy:yyyy]/[SEQ_IDC_ESTD_TRANSFER_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.transfer.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-ST/[cy:yyyy]/[SEQ_IDC_ESTD_SPCL_TRANSFER_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-ST/[cy:yyyy]/[SEQ_IDC_ESTD_SPCL_TRANSFER_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.special-transfer.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-M/[cy:yyyy]/[SEQ_IDC_ESTD_MORTGAGE_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-M/[cy:yyyy]/[SEQ_IDC_ESTD_MORTGAGE_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.mortgage.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-SL/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-SL/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.sub-lease.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-S/[cy:yyyy]/[SEQ_IDC_ESTD_SURRENDER_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-S/[cy:yyyy]/[SEQ_IDC_ESTD_SURRENDER_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.surrender.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-C/[cy:yyyy]/[SEQ_IDC_ESTD_CHANGE_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-C/[cy:yyyy]/[SEQ_IDC_ESTD_CHANGE_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.miscellaneous.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-E/[cy:yyyy]/[SEQ_IDC_ESTD_EXTENSION_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-E/[cy:yyyy]/[SEQ_IDC_ESTD_EXTENSION_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.extension-lease-term.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-CL/[cy:yyyy]/[SEQ_IDC_ESTD_CANCELLATION_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-CL/[cy:yyyy]/[SEQ_IDC_ESTD_CANCELLATION_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.cancellation.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-SPV/[cy:yyyy]/[SEQ_IDC_ESTD_SPV_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-SPV/[cy:yyyy]/[SEQ_IDC_ESTD_SPV_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.spv.applicationNumber"
 		},
 		{
-			"format": "GIDC/FORM-TE/[cy:yyyy]/[SEQ_IDC_ESTD_TIMELINE_EXTENSION_APPLICATION_NUMBER]",
+			"format": "ESTATE/FORM-TE/[cy:yyyy]/[SEQ_IDC_ESTD_TIMELINE_EXTENSION_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.timeline.allotment.extension.applicationNumber"
 		},
 		{
-			"format": "GIDC/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_ORDER_NUMBER]",
+			"format": "ESTATE/MASTER/[cy:yyyy]/[SEQ_IDC_ESTD_EST_PLOT_MASTER_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.plot-estate.master.applicationNumber"
+		},
+		{
+			"format": "ESTATE/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},
 		{
-			"format": "GIDC/MORTGAGE/[cy:yyyy]/[SEQ_IDC_ESTD_MORTGAGE_ORDER_NUMBER]",
+			"format": "ESTATE/MORTGAGE/[cy:yyyy]/[SEQ_IDC_ESTD_MORTGAGE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.mortgage.allotmentId"
 		},
 		{
-			"format": "GIDC/MISC/[cy:yyyy]/[SEQ_IDC_ESTD_MISC_ORDER_NUMBER]",
+			"format": "ESTATE/MISC/[cy:yyyy]/[SEQ_IDC_ESTD_MISC_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.miscellaneous.allotmentId"
 		},
 		{
-			"format": "GIDC/SUB LEASE/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_ORDER_NUMBER]",
+			"format": "ESTATE/SUB LEASE/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.sub-lease.allotmentId"
 		},
 		{
-			"format": "GIDC/EXTENSION/[cy:yyyy]/[SEQ_IDC_ESTD_EXTENSION_ORDER_NUMBER]",
+			"format": "ESTATE/EXTENSION/[cy:yyyy]/[SEQ_IDC_ESTD_EXTENSION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.extension.allotmentId"
 		},
 		{
-			"format": "GIDC/SURRENDER/[cy:yyyy]/[SEQ_IDC_ESTD_SURRENDER_ORDER_NUMBER]",
+			"format": "ESTATE/SURRENDER/[cy:yyyy]/[SEQ_IDC_ESTD_SURRENDER_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.surrender.allotmentId"
 		},
 		{
-			"format": "GIDC/TRANSFER/[cy:yyyy]/[SEQ_IDC_ESTD_TRANSFER_ORDER_NUMBER]",
+			"format": "ESTATE/TRANSFER/[cy:yyyy]/[SEQ_IDC_ESTD_TRANSFER_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.transfer.allotmentId"
 		},
 		{
-			"format": "GIDC/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ESTD_SPCL_TRANSFER_ORDER_NUMBER]",
+			"format": "ESTATE/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ESTD_SPCL_TRANSFER_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.special-transfer.allotmentId"
 		},
 		{
-			"format": "GIDC/TL EXTENSION/[cy:yyyy]/[SEQ_IDC_ESTD_TIMELINE_EXTENSION_ORDER_NUMBER]",
+			"format": "ESTATE/TL EXTENSION/[cy:yyyy]/[SEQ_IDC_ESTD_TIMELINE_EXTENSION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.timeline-extension.allotmentId"
 		},
 		{
-			"format": "GIDC/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ESTD_CANCELLATION_ORDER_NUMBER]",
+			"format": "ESTATE/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ESTD_CANCELLATION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.cancellation.allotmentId"
 		},
 		{
-			"format": "GIDC/REJECTION/[cy:yyyy]/[SEQ_IDC_ESTD_REJECTION_ORDER_NUMBER]",
+			"format": "ESTATE/REJECTION/[cy:yyyy]/[SEQ_IDC_ESTD_REJECTION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.rejection.allotmentId"
 		},
 		{
-			"format": "GIDC/NOTICE/[cy:yyyy]/[SEQ_IDC_ESTD_NOTICE_ORDER_NUMBER]",
+			"format": "ESTATE/NOTICE/[cy:yyyy]/[SEQ_IDC_ESTD_NOTICE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.default-notice.allotmentId"
 		}
 	]

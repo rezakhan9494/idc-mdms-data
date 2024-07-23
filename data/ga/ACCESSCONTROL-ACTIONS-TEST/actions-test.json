@@ -21954,7 +21954,8 @@
 					2661,
 					2675,
 					2676,
-					2690
+					2690,
+					2701
 				]
 			]
 		},
@@ -22177,7 +22178,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/waterconnection"
 		},
 		{
 			"id": 2479,
@@ -24588,6 +24589,48 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SchedulePaymentDetailsSearchUnpaidFeeDetailsAPI"
+		},
+		{
+			"id": 2698,
+			"name": "EstateMasterApplicationCreate",
+			"url": "/idc-estate-service/master-application/_create",
+			"displayName": "Estate Master Application Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMasterApplicationCreate"
+		},
+		{
+			"id": 2699,
+			"name": "EstateMasterApplicationSearch",
+			"url": "/idc-estate-service/master-application/_search",
+			"displayName": "Estate Master Application Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMasterApplicationSearch"
+		},
+		{
+			"id": 2700,
+			"name": "TalukaSearchAPI",
+			"url": "/idc-estate-service/estate-master-details/taluka/_search",
+			"displayName": "TalukaSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.TalukaSearchAPI"
+		},
+		{
+			"id": 2701,
+			"url": "menu",
+			"displayName": "WATER_CONNECTION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 80,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/waterconnection"
 		}
 	]
 }
