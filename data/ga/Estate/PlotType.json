@@ -1,0 +1,19 @@
+{
+	"tenantId": "ga",
+	"moduleName": "Estate",
+	"PlotType": [
+		{
+			"code": "INDUSTRIAL",
+			"name": "Industrial",
+			"active": true
+		},{
+			"code": "COMMERCIAL",
+			"name": "Commercial",
+			"active": true
+		},{
+			"code": "UTILITIES",
+			"name": "Utilities",
+			"active": true
+		}
+	]
+}

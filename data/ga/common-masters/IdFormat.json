@@ -165,6 +165,10 @@
 		{
 			"format": "ESTATE/NOTICE/[cy:yyyy]/[SEQ_IDC_ESTD_NOTICE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.default-notice.allotmentId"
+		},
+		{
+			"format": "WATER/APPLICATION/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
+			"idname": "idc.water-connection.applicationNumber"
 		}
 	]
 }

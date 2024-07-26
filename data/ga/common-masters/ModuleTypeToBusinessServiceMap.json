@@ -190,6 +190,33 @@
 			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_DEED_REGISTER",
+			"businessServiceName": "Legal Deed Register",
+			"navUrl": "/goa-idc/estate/register-indenture/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/register-indenture?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "ESTD_MASTER",
+			"businessServiceName": "Estate Master",
+			"navUrl": "/goa-idc/estate/estate-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/estate-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "PLOT_MASTER",
+			"businessServiceName": "Plot Master",
+			"navUrl": "/goa-idc/estate/plot-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/plot-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
