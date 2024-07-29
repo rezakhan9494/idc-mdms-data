@@ -24,22 +24,8 @@
                "printLayerName":false
             },
             {
-               "layerName":"DIST_CL_ROAD",
-               "layerType":"D",
-               "overrideColor":null,
-               "overrideThickness":null,
-               "printLayerName":true
-            },
-            {
-               "layerName":"SHORTEST_DIST_TO_ROAD",
-               "layerType":null,
-               "overrideColor":null,
-               "overrideThickness":null,
-               "printLayerName":false
-            },
-            {
-               "layerName":"DIST_WELL",
-               "layerType":null,
+               "layerName":"OPEN_PARKING",
+               "layerType":"M",
                "overrideColor":null,
                "overrideThickness":null,
                "printLayerName":false
@@ -53,6 +39,48 @@
             },
             {
                "layerName":"SEPTIC_TANK",
+               "layerType":"M",
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            },
+            {
+               "layerName":"BLK_*_LVL_*_REAR_SETBACK",
+               "layerType":"M",
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            },
+            {
+               "layerName":"BLK_*_LVL_*_SIDE_SETBACK1",
+               "layerType":"M",
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            },
+            {
+               "layerName":"BLK_*_LVL_*_SIDE_SETBACK2",
+               "layerType":"M",
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            },
+            {
+               "layerName":"BLK_*_LVL_*_FRONT_SETBACK",
+               "layerType":"M",
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            },
+            {
+               "layerName":"NORTH_DIRECTION",
+               "layerType":"M",
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            },
+            {
+               "layerName":"PLANTATION_TREECOVER",
                "layerType":"M",
                "overrideColor":null,
                "overrideThickness":null,

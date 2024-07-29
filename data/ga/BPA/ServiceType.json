@@ -14,8 +14,8 @@
         ]
      },
      {
-        "code":"ADDITION",
-        "title":"Addition",
+        "code":"ADDITION_ALTERATION",
+        "title":"Addition/Alteration",
         "active":true,
         "applicationType":[
            "TECHNICAL_CLEARANCE",
@@ -36,8 +36,8 @@
         ]
      },
      {
-        "code":"PLOT_DEVELOPMENT",
-        "title":"Plot Development",
+        "code":"PLOT_DEVELOPMENT_HILL_CUTTING",
+        "title":"Plot Development/ Hill Cutting",
         "active":true,
         "applicationType":[
            "TECHNICAL_CLEARANCE",

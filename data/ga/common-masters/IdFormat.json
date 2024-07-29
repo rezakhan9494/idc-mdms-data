@@ -169,6 +169,10 @@
 		{
 			"format": "WATER/APPLICATION/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
 			"idname": "idc.water-connection.applicationNumber"
+		},
+		{
+			"format": "WATER/CONNECTION/[cy:yyyy]/[SEQ_IDC_WS_CONNECTION_NUMBER]",
+			"idname": "idc.water-connection.connectionNumber"
 		}
 	]
 }
