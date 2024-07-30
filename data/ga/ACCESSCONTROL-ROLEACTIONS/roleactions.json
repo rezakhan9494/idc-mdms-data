@@ -28563,25 +28563,13 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ESTD_VERIFIER_L1",
+			"rolecode": "EMPLOYEE",
 			"actionid": 2670,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ESTD_VERIFIER_L3",
-			"actionid": 2670,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ESTD_VERIFIER_L2",
-			"actionid": 2670,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "IT_MANAGER",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2670,
 			"actioncode": "",
 			"tenantId": "ga"
