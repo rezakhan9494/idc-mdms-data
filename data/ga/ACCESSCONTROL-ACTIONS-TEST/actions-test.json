@@ -24642,6 +24642,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateWFApplicationAPI"
+		},
+		{
+			"id": 2703,
+			"name": "BPAEnterpriseUtilAPI",
+			"url": "/bpa-services/enterprise/util",
+			"displayName": "BPAEnterpriseUtilAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPAEnterpriseUtilAPI"
 		}
 	]
 }

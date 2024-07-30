@@ -1,0 +1,18 @@
+{
+	"tenantId": "ga",
+	"moduleName": "ws-services-masters",
+	"WaterType": [
+		{
+			"id": 1,
+			"code": "Potable Water",
+			"name": "Potable Water",
+			"active": true
+		},
+		{
+			"id": 2,
+			"code": "Raw Water",
+			"name": "Raw Water",
+			"active": true
+		}
+	]
+}

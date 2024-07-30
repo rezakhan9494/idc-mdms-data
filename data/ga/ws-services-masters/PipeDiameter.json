@@ -1,0 +1,54 @@
+{
+	"tenantId": "ga",
+	"moduleName": "ws-services-masters",
+	"PipeDiameter": [
+		{
+			"size": 15,
+			"code": "15mm",
+			"description": "fifteen mm pipe",
+			"active": true
+		},
+		{
+			"size": 20,
+			"code": "20mm",
+			"description": "twenty mm pipe",
+			"active": true
+		},
+		{
+			"size": 25,
+			"code": "25mm",
+			"description": "twenty-five mm pipe",
+			"active": true
+		},
+		{
+			"size": 40,
+			"code": "40mm",
+			"description": "forty mm pipe",
+			"active": true
+		},
+		{
+			"size": 50,
+			"code": "50mm",
+			"description": "fifty mm pipe",
+			"active": true
+		},
+		{
+			"size": 65,
+			"code": "65mm",
+			"description": "sixty-five mm pipe",
+			"active": true
+		},
+		{
+			"size": 80,
+			"code": "80mm",
+			"description": "eighty mm pipe",
+			"active": true
+		},
+		{
+			"size": 100,
+			"code": "100mm",
+			"description": "one hundred mm pipe",
+			"active": true
+		}
+	]
+}
