@@ -24664,6 +24664,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPADcrCreateAPI"
+		},
+		{
+			"id": 2705,
+			"name": "EstateValidActionForApplyAPI",
+			"url": "/idc-estate-service/apply-valid-action/_search",
+			"displayName": "EstateValidActionForApplyAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateValidActionForApplyAPI"
 		}
 	]
 }

@@ -29029,6 +29029,48 @@
 			"actionid": 2704,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L1",
+			"actionid": 2675,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L1",
+			"actionid": 2676,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L2",
+			"actionid": 2675,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L2",
+			"actionid": 2676,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L3",
+			"actionid": 2675,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L3",
+			"actionid": 2676,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2705,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
