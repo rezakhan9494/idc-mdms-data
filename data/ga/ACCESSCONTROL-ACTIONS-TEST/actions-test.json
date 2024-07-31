@@ -24653,6 +24653,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPAEnterpriseUtilAPI"
+		},
+		{
+			"id": 2704,
+			"name": "BPADcrCreateAPI",
+			"url": "/bpa-services/v2/dcr/share",
+			"displayName": "BPADcrCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPADcrCreateAPI"
 		}
 	]
 }

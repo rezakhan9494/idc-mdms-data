@@ -29023,6 +29023,12 @@
 			"actionid": 2703,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2704,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
