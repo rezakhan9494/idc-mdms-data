@@ -24657,7 +24657,7 @@
 		{
 			"id": 2704,
 			"name": "BPADcrCreateAPI",
-			"url": "/bpa-services/v2/dcr/share",
+			"url": "/bpa-services/v2/dcr/share/_create",
 			"displayName": "BPADcrCreateAPI",
 			"orderNumber": 1,
 			"enabled": true,
