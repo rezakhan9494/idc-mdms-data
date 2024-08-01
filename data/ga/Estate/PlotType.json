@@ -3,15 +3,17 @@
 	"moduleName": "Estate",
 	"PlotType": [
 		{
-			"code": "INDUSTRIAL",
+			"code": "Industrial",
 			"name": "Industrial",
 			"active": true
-		},{
-			"code": "COMMERCIAL",
+		},
+		{
+			"code": "Commercial",
 			"name": "Commercial",
 			"active": true
-		},{
-			"code": "UTILITIES",
+		},
+		{
+			"code": "Utilities",
 			"name": "Utilities",
 			"active": true
 		}
