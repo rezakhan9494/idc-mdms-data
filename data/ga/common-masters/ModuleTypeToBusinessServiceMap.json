@@ -30,8 +30,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering",
-			"moduleCode": "ENGINEERING",
+			"moduleName": "Engineering/Water",
+			"moduleCode": "ENGINEERING_WATER",
 			"businessServiceCode": "WF_BPA_CL",
 			"businessServiceName": "Construction Licence",
 			"navUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
@@ -39,8 +39,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering",
-			"moduleCode": "ENGINEERING",
+			"moduleName": "Engineering/Water",
+			"moduleCode": "ENGINEERING_WATER",
 			"businessServiceCode": "WF_BPA_OC",
 			"businessServiceName": "Occupancy Certificate",
 			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
@@ -54,15 +54,6 @@
 			"businessServiceName": "Legal Deed",
 			"navUrl": "/goa-idc/estate/indenture/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/indenture?applicationNumber=%s&tenantId=%s",
-			"active": true
-		},
-		{
-			"moduleName": "NOCs",
-			"moduleCode": "NOCS",
-			"businessServiceCode": "NOC",
-			"businessServiceName": "No Objection Certificate",
-			"navUrl": "/goa-idc/noc?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/noc?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -180,15 +171,6 @@
 			"businessServiceName": "Default Timeline Extension",
 			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
-			"active": true
-		},
-		{
-			"moduleName": "Engineering",
-			"moduleCode": "ENGINEERING",
-			"businessServiceCode": "WF_BPA_OC",
-			"businessServiceName": "Occupancy Certificate",
-			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
