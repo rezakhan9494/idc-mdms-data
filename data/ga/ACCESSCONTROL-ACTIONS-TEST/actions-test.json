@@ -24889,6 +24889,83 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPACheckListSearchApi"
+		},
+		{
+			"id": 2742,
+			"name": "SearchWaterApplicationAPI",
+			"url": "/ws-services/wc/_search-application",
+			"displayName": "SearchWaterApplicationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchWaterApplicationAPI"
+		},
+		{
+			"id": 2743,
+			"name": "WaterWorkflowProcessInitiate",
+			"url": "/ws-services/water/workflow/process/_initiate",
+			"displayName": "WaterWorkflowProcessInitiate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.WaterWorkflowProcessInitiate"
+		},
+		{
+			"id": 2744,
+			"name": "WaterConnectionSearch",
+			"url": "/ws-services/water-connection/_search",
+			"displayName": "WaterConnectionSearch",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.WaterConnectionSearch"
+		},
+		{
+			"id": 2745,
+			"name": "SearchWaterFeeMasterAPI",
+			"url": "/ws-services/water-master/_search-water-fee",
+			"displayName": "SearchWaterFeeMasterAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchWaterFeeMasterAPI"
+		},
+		{
+			"id": 2746,
+			"name": "WaterConnectionCreate",
+			"url": "/ws-services/water-connection/_create",
+			"displayName": "WaterConnectionCreate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.WaterConnectionCreate"
+		},
+		{
+			"id": 2747,
+			"name": "WaterConnectionUpdate",
+			"url": "/ws-services/water-connection/_update",
+			"displayName": "WaterConnectionUpdate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.WaterConnectionUpdate"
+		},
+		{
+			"id": 2748,
+			"name": "UpdateWaterApplicationAPI",
+			"url": "/ws-services/wc/_update-application",
+			"displayName": "UpdateWaterApplicationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.UpdateWaterApplicationAPI"
 		}
 	]
 }
