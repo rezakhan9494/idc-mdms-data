@@ -5,7 +5,7 @@
 		{
 			"code": "AXIS",
 			"value": "Axis Bank",
-			"active": false
+			"active": true
 		},
 		{
 			"code": "PAYTM",
@@ -30,6 +30,11 @@
 		{
 			"code": "HDFC",
 			"value": "HDFC Bank",
+			"active": true
+		},
+		{
+			"code": "ICICI",
+			"value": "ICICI Bank",
 			"active": true
 		}
 	]
