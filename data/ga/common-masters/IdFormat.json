@@ -88,6 +88,10 @@
 		},
 		{
 			"format": "ESTATE/FORM-SL/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.provisional-sub-lease.applicationNumber"
+		},
+		{
+			"format": "ESTATE/FORM-SUBLEASE/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_APPLICATION_NUMBER]",
 			"idname": "idc.estate-application.sub-lease.applicationNumber"
 		},
 		{
@@ -129,6 +133,10 @@
 		{
 			"format": "ESTATE/MISC/[cy:yyyy]/[SEQ_IDC_ESTD_MISC_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.miscellaneous.allotmentId"
+		},
+		{
+			"format": "ESTATE/PROVISIONAL-SUBLEASE/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_ORDER_NUMBER]",
+			"idname": "idc.estate-allotment.provisional-sub-lease.allotmentId"
 		},
 		{
 			"format": "ESTATE/SUB LEASE/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_ORDER_NUMBER]",
