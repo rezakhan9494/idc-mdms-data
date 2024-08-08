@@ -22735,7 +22735,7 @@
 			"id": 2553,
 			"name": "admin_approved_applications",
 			"url": "dashboard-cards",
-			"displayName": "APPROVED_APPLICATIONS",
+			"displayName": "DUE",
 			"orderNumber": 30,
 			"enabled": true,
 			"path": "ADMINISTRATION.admin_approved_applications",
@@ -22795,7 +22795,7 @@
 			"id": 2557,
 			"name": "obpas_approved_applications",
 			"url": "dashboard-cards",
-			"displayName": "APPROVED_APPLICATIONS",
+			"displayName": "DUE",
 			"orderNumber": 30,
 			"enabled": true,
 			"path": "OBPAS.obpas_approved_applications",
@@ -23485,7 +23485,7 @@
 			"id": 2633,
 			"name": "estate_approved_applications",
 			"url": "dashboard-cards",
-			"displayName": "APPROVED_APPLICATIONS",
+			"displayName": "DUE",
 			"orderNumber": 30,
 			"enabled": true,
 			"path": "ESTD.estate_approved_applications",
@@ -24051,7 +24051,7 @@
 			"id": 2694,
 			"name": "Engineering_approved_applications",
 			"url": "dashboard-cards",
-			"displayName": "APPROVED_APPLICATIONS",
+			"displayName": "DUE",
 			"orderNumber": 30,
 			"enabled": true,
 			"path": "ENGINEERING_WATER.Engineering_approved_applications",
@@ -24738,7 +24738,7 @@
 			"id": 2615,
 			"name": "legal_approved_applications",
 			"url": "dashboard-cards",
-			"displayName": "APPROVED_APPLICATIONS",
+			"displayName": "DUE",
 			"orderNumber": 30,
 			"enabled": true,
 			"path": "LEGAL.legal_approved_applications",
@@ -24763,6 +24763,17 @@
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
+		},
+		{
+			"id": 2755,
+			"name": "BpaGenerateCert",
+			"url": "/bpa-services/v2/bpa/_generateCertificate",
+			"displayName": "BpaGenerateCert",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BpaGenerateCert"
 		}
 	]
 }
