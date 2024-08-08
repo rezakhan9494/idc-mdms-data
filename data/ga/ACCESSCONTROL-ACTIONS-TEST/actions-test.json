@@ -4,7 +4,6 @@
 	"actions-test": [
 		{
 			"id": 2459,
-			"name": "home",
 			"url": "menu",
 			"displayName": "HOME",
 			"menuType": "MAIN_MENU_HEADER",
@@ -14,7 +13,6 @@
 		},
 		{
 			"id": 2460,
-			"name": "aboutUs",
 			"url": "menu",
 			"displayName": "ABOUT_US",
 			"menuType": "MAIN_MENU_HEADER",
@@ -34,7 +32,6 @@
 		},
 		{
 			"id": 2461,
-			"name": "plotDetails",
 			"url": "menu",
 			"displayName": "PLOT_DETAILS",
 			"menuType": "MAIN_MENU_HEADER",
@@ -76,7 +73,6 @@
 		},
 		{
 			"id": 2462,
-			"name": "eServices",
 			"url": "menu",
 			"displayName": "E_SERVICES",
 			"menuType": "MAIN_MENU_HEADER",
@@ -87,46 +83,36 @@
 				[
 					2470,
 					2471,
-					2647,
-					2648,
-					2472,
-					2688,
 					2514,
 					2515,
 					2516,
 					2517,
 					2518,
-					2519,
+					2522,
 					2528,
-					2522
+					2472
 				],
 				[
 					2473,
-					2474
+					2474,
+					2647
 				],
 				[
 					2476,
-					2521,
-					2475
+					2648,
+					2475,
+					2521
 				],
 				[
 					2479,
-					2480,
-					2481,
-					2523,
-					2524,
-					2520,
-					2525,
-					2526,
-					2527
+					2519,
+					2481
 				],
 				[
 					2534,
 					2530,
-					2531,
 					2532,
-					2533,
-					2621
+					2531
 				],
 				[
 					2536,
@@ -134,19 +120,25 @@
 				],
 				[
 					2637,
+					2675,
+					2676,
 					2635,
 					2654,
 					2661,
-					2675,
-					2676,
-					2690,
+					2690
+				],
+				[
+					2524,
 					2701
+				],
+				[
+					2525,
+					2621
 				]
 			]
 		},
 		{
 			"id": 2463,
-			"name": "tenders",
 			"url": "menu",
 			"displayName": "TENDERS",
 			"menuType": "MAIN_MENU_HEADER",
@@ -156,7 +148,6 @@
 		},
 		{
 			"id": 2464,
-			"name": "downloads",
 			"url": "menu",
 			"displayName": "DOWNLOADS",
 			"menuType": "MAIN_MENU_HEADER",
@@ -179,7 +170,6 @@
 		},
 		{
 			"id": 2465,
-			"name": "contactUs",
 			"url": "menu",
 			"displayName": "CONTACT_US",
 			"menuType": "MAIN_MENU_HEADER",
@@ -189,7 +179,6 @@
 		},
 		{
 			"id": 2466,
-			"name": "aboutUs",
 			"url": "menu",
 			"displayName": "ABOUT_US",
 			"menuType": "SUB_MENU_HEADER",
@@ -199,7 +188,6 @@
 		},
 		{
 			"id": 2467,
-			"name": "aboutGoaIdc",
 			"url": "menu",
 			"displayName": "ABOUT_GOA_IDC",
 			"menuType": "SUB_MENU",
@@ -209,7 +197,6 @@
 		},
 		{
 			"id": 2469,
-			"name": "whoIsWho",
 			"url": "menu",
 			"displayName": "WHO_IS_WHO",
 			"menuType": "SUB_MENU",
@@ -219,7 +206,6 @@
 		},
 		{
 			"id": 2470,
-			"name": "estate",
 			"url": "menu",
 			"displayName": "ESTATE",
 			"menuType": "ROLE_BASED_SUB_MENU_HEADER",
@@ -230,34 +216,25 @@
 		{
 			"id": 2471,
 			"url": "menu",
-			"displayName": "APPLY_FOR_PLOT_VIA_ADVERTISEMENT",
+			"displayName": "APPLY_FOR_PLOT",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/estate/apply-for-plot"
 		},
 		{
-			"id": 2472,
-			"url": "menu",
-			"displayName": "APPLY_FOR_INDENTURE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 30,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/indenture"
-		},
-		{
 			"id": 2514,
 			"url": "menu",
-			"displayName": "APPLY_FOR_TRANSFER",
+			"displayName": "TRANSFER",
 			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 40,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/goa-idc/estate/transfer"
 		},
 		{
 			"id": 2515,
 			"url": "menu",
-			"displayName": "APPLY_FOR_SPECIAL_TRANSFER",
+			"displayName": "SPECIAL_TRANSFER",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 50,
 			"enabled": true,
@@ -266,7 +243,7 @@
 		{
 			"id": 2516,
 			"url": "menu",
-			"displayName": "APPLY_FOR_SUB-LEASE",
+			"displayName": "SUB_LEASE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
@@ -275,7 +252,7 @@
 		{
 			"id": 2517,
 			"url": "menu",
-			"displayName": "APPLY_FOR_SURRENDER",
+			"displayName": "SURRENDER",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
@@ -284,7 +261,7 @@
 		{
 			"id": 2518,
 			"url": "menu",
-			"displayName": "APPLY_FOR_MORTGAGE",
+			"displayName": "MORTGAGE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 80,
 			"enabled": true,
@@ -293,7 +270,7 @@
 		{
 			"id": 2522,
 			"url": "menu",
-			"displayName": "APPLY_FOR_EXTENSION_OF_LEASE_TERM",
+			"displayName": "EXTENSION_OF_LEASE_TERM",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 90,
 			"enabled": true,
@@ -309,17 +286,16 @@
 			"navigationURL": "/goa-idc/underconstruction"
 		},
 		{
-			"id": 2519,
+			"id": 2472,
 			"url": "menu",
-			"displayName": "GRIEVANCE_REDRESSAL",
+			"displayName": "INDENTURE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 110,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/indenture"
 		},
 		{
 			"id": 2473,
-			"name": "obpas",
 			"url": "menu",
 			"displayName": "OBPAS",
 			"menuType": "ROLE_BASED_SUB_MENU_HEADER",
@@ -329,57 +305,71 @@
 		},
 		{
 			"id": 2474,
-			"name": "technicalClearance",
 			"url": "menu",
-			"displayName": "APPLY_FOR_TECHNICAL_CLEARANCE",
+			"displayName": "TECHNICAL_CLEARANCE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/obpas/technicalClearance"
 		},
 		{
-			"id": 2476,
-			"name": "engineering",
+			"id": 2647,
 			"url": "menu",
-			"displayName": "ENGINEERING",
-			"menuType": "ROLE_BASED_SUB_MENU_HEADER",
-			"orderNumber": 40,
-			"enabled": true,
-			"navigationURL": ""
-		},
-		{
-			"id": 2475,
-			"url": "menu",
-			"displayName": "APPLY_FOR_COMPLETION_ORDER_OCCUPANCY_CERTIFICATE",
+			"displayName": "COMPLETION_ORDER",
 			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 51,
+			"orderNumber": 30,
 			"enabled": true,
 			"navigationURL": "/goa-idc/obpas/occupancyCertificate"
 		},
 		{
-			"id": 2521,
+			"id": 2476,
 			"url": "menu",
-			"displayName": "WATER_CONNECTION",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 60,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/waterconnection"
-		},
-		{
-			"id": 2479,
-			"name": "payments",
-			"url": "menu",
-			"displayName": "PAYMENTS",
+			"displayName": "ENGINEERING",
 			"menuType": "ROLE_BASED_SUB_MENU_HEADER",
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": ""
 		},
 		{
-			"id": 2480,
-			"name": "landPremium",
+			"id": 2648,
 			"url": "menu",
-			"displayName": "LAND_PREMIUM",
+			"displayName": "CONSTRUCTION_LICENCE",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/goa-idc/obpas/technicalClearance"
+		},
+		{
+			"id": 2475,
+			"url": "menu",
+			"displayName": "OCCUPANCY_CERTIFICATE",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/goa-idc/obpas/occupancyCertificate"
+		},
+		{
+			"id": 2521,
+			"url": "menu",
+			"displayName": "WATER",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 40,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/waterconnection"
+		},
+		{
+			"id": 2479,
+			"url": "menu",
+			"displayName": "OTHERS",
+			"menuType": "ROLE_BASED_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2519,
+			"url": "menu",
+			"displayName": "GRIEVANCE_REDRESSAL",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
@@ -387,65 +377,10 @@
 		},
 		{
 			"id": 2481,
-			"name": "leaseRent",
 			"url": "menu",
-			"displayName": "LEASE_RENT",
+			"displayName": "QUERY",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 30,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
-			"id": 2523,
-			"url": "menu",
-			"displayName": "INFRASTRUCTURE_TAX",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 40,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
-			"id": 2524,
-			"url": "menu",
-			"displayName": "HOUSE_TAX",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 50,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
-			"id": 2520,
-			"url": "menu",
-			"displayName": "WATER_CHARGES",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 51,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
-			"id": 2525,
-			"url": "menu",
-			"displayName": "PROCESSING_FEES",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 60,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
-			"id": 2526,
-			"url": "menu",
-			"displayName": "CONSTRUCTION_LICENSE_FEE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 70,
-			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
-		},
-		{
-			"id": 2527,
-			"url": "menu",
-			"displayName": "SUB-LEASE_FEE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 80,
 			"enabled": true,
 			"navigationURL": "/goa-idc/underconstruction"
 		},
@@ -461,38 +396,47 @@
 		{
 			"id": 2530,
 			"url": "menu",
-			"displayName": "EMPLOYEE_REGISTRATION",
+			"displayName": "EMPLOYEE_MANAGEMENT",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/usermanagement/employeecreation"
 		},
 		{
-			"id": 2531,
+			"id": 2532,
 			"url": "menu",
-			"displayName": "ARCHITECT_ONBOARDING",
+			"displayName": "ENTERPRISE_MANAGEMENT",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/goa-idc/underconstruction"
+		},
+		{
+			"id": 2531,
+			"url": "menu",
+			"displayName": "ARCHITECT_MANAGEMENT",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/goa-idc/usermanagement/architectCreation"
 		},
 		{
-			"id": 2532,
+			"id": 2525,
 			"url": "menu",
-			"displayName": "EMPLOYEE_SEARCH",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 40,
+			"displayName": "OTHERS",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
+			"orderNumber": 10,
 			"enabled": true,
-			"navigationURL": "/goa-idc/empsearch"
+			"navigationURL": ""
 		},
 		{
-			"id": 2533,
+			"id": 2621,
 			"url": "menu",
-			"displayName": "EMPLOYEE_REACTIVATION_DEACTIVATION",
+			"displayName": "ESTATE_DATA_MIGRATION",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 50,
+			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/empsearch?active_deactive=true"
+			"navigationURL": "/goa-idc/migration/migrationform"
 		},
 		{
 			"id": 2536,
@@ -506,11 +450,92 @@
 		{
 			"id": 2537,
 			"url": "menu",
-			"displayName": "Scrutiny Tool",
+			"displayName": "SCRUTINY_TOOL",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/obpas/scrutinyTool"
+		},
+		{
+			"id": 2637,
+			"url": "menu",
+			"displayName": "ESTATE",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2675,
+			"url": "menu",
+			"displayName": "ESTATE_REGISTRY",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/estate-registry"
+		},
+		{
+			"id": 2676,
+			"url": "menu",
+			"displayName": "PLOT_REGISTRY",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 30,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/plot-registry"
+		},
+		{
+			"id": 2635,
+			"url": "menu",
+			"displayName": "CREATE_ADVERTISEMENT",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 40,
+			"enabled": true,
+			"navigationURL": "/goa-idc/advertisement"
+		},
+		{
+			"id": 2654,
+			"url": "menu",
+			"displayName": "SEARCH_ADVERTISEMENT",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": "/goa-idc/search-advertisement"
+		},
+		{
+			"id": 2661,
+			"url": "menu",
+			"displayName": "BULK_REJECTION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 60,
+			"enabled": true,
+			"navigationURL": "/goa-idc/mass-rejection"
+		},
+		{
+			"id": 2690,
+			"url": "menu",
+			"displayName": "TIMELINE_EXTENSION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 70,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/initiate-extension"
+		},
+		{
+			"id": 2524,
+			"url": "menu",
+			"displayName": "ENGINEERING",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
+		},
+		{
+			"id": 2701,
+			"url": "menu",
+			"displayName": "WATER_CONNECTION",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
+			"orderNumber": 20,
+			"enabled": true,
+			"navigationURL": "/goa-idc/estate/waterconnection"
 		},
 		{
 			"id": 2511,
@@ -805,114 +830,6 @@
 			"orderNumber": 10,
 			"enabled": true,
 			"navigationURL": "/goa-idc/plotdetails"
-		},
-		{
-			"id": 2637,
-			"url": "menu",
-			"displayName": "OTHERS",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
-			"orderNumber": 10,
-			"enabled": true,
-			"navigationURL": ""
-		},
-		{
-			"id": 2647,
-			"url": "menu",
-			"displayName": "APPLY_FOR_PLOT_VIA_IPB",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 21,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/allotment?ipb=true"
-		},
-		{
-			"id": 2648,
-			"url": "menu",
-			"displayName": "APPLY_FOR_PLOT_VIA_AUCTION",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 22,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/allotment?auction=true"
-		},
-		{
-			"id": 2654,
-			"url": "menu",
-			"displayName": "SEARCH_ADVERTISEMENT",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 20,
-			"enabled": true,
-			"navigationURL": "/goa-idc/search-advertisement"
-		},
-		{
-			"id": 2661,
-			"url": "menu",
-			"displayName": "BULK_REJECTION",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 40,
-			"enabled": true,
-			"navigationURL": "/goa-idc/mass-rejection"
-		},
-		{
-			"id": 2675,
-			"url": "menu",
-			"displayName": "ESTATE_MASTER_REGISTRY",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 50,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/estate-registry"
-		},
-		{
-			"id": 2676,
-			"url": "menu",
-			"displayName": "PLOT_MASTER_REGISTRY",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 60,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/plot-registry"
-		},
-		{
-			"id": 2688,
-			"url": "menu",
-			"displayName": "REGISTER_INDENTURE",
-			"menuType": "ROLE_BASED_SUB_MENU",
-			"orderNumber": 31,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/register-indenture"
-		},
-		{
-			"id": 2690,
-			"url": "menu",
-			"displayName": "INITIATE_TIMELINE_EXTENSION",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 70,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/initiate-extension"
-		},
-		{
-			"id": 2701,
-			"url": "menu",
-			"displayName": "WATER_CONNECTION",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 80,
-			"enabled": true,
-			"navigationURL": "/goa-idc/estate/waterconnection"
-		},
-		{
-			"id": 2621,
-			"url": "menu",
-			"displayName": "ESTATE_DATA_MIGRATION",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 20,
-			"enabled": true,
-			"navigationURL": "/goa-idc/migration/migrationform"
-		},
-		{
-			"id": 2635,
-			"url": "menu",
-			"displayName": "CREATE_ADVERTISEMENT",
-			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 30,
-			"enabled": true,
-			"navigationURL": "/goa-idc/advertisement"
 		},
 		{
 			"id": 238,
@@ -22752,54 +22669,6 @@
 			"path": "Administration.EmployeeWorkflowInitiate"
 		},
 		{
-			"id": 2542,
-			"name": "admin_inbox",
-			"url": "dashboard-worklist",
-			"displayName": "INBOX",
-			"orderNumber": 10,
-			"enabled": true,
-			"code": "worklist",
-			"path": "ADMINISTRATION.admin_inbox",
-			"moduleName": "Administration",
-			"navigationURL": "/admin_inbox",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2543,
-			"name": "admin_nearing_slas",
-			"url": "dashboard-worklist",
-			"displayName": "OVERDUE",
-			"orderNumber": 20,
-			"enabled": true,
-			"code": "worklist",
-			"path": "ADMINISTRATION.admin_nearing_slas",
-			"moduleName": "Administration",
-			"navigationURL": "/admin_nearing_slas",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2544,
-			"name": "admin_search_applications",
-			"url": "dashboard-worklist",
-			"displayName": "SEARCH_APPLICATIONS",
-			"orderNumber": 30,
-			"enabled": true,
-			"code": "worklist_option",
-			"path": "ADMINISTRATION.admin_search_applications",
-			"moduleName": "Administration",
-			"navigationURL": "/goa-idc/usermanagement/searchapplication",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
 			"id": 2545,
 			"name": "DashboardCardSearch",
 			"url": "/egov-common-masters/dashboard/cards/_search",
@@ -22831,54 +22700,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SearchApplication"
-		},
-		{
-			"id": 2548,
-			"name": "obpas_inbox",
-			"url": "dashboard-worklist",
-			"displayName": "INBOX",
-			"orderNumber": 10,
-			"enabled": true,
-			"code": "worklist",
-			"path": "OBPAS.obpas_inbox",
-			"moduleName": "OBPAS",
-			"navigationURL": "/obpas_inbox",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2549,
-			"name": "obpas_nearing_slas",
-			"url": "dashboard-worklist",
-			"displayName": "OVERDUE",
-			"orderNumber": 20,
-			"enabled": true,
-			"code": "worklist",
-			"path": "OBPAS.obpas_nearing_slas",
-			"moduleName": "OBPAS",
-			"navigationURL": "/obpas_nearing_slas",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2550,
-			"name": "obpas_search_applications",
-			"url": "dashboard-worklist",
-			"displayName": "SEARCH_APPLICATIONS",
-			"orderNumber": 30,
-			"enabled": true,
-			"code": "worklist_option",
-			"path": "OBPAS.obpas_search_applications",
-			"moduleName": "OBPAS",
-			"navigationURL": "/goa-idc/usermanagement/searchapplication",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
 		},
 		{
 			"id": 2551,
@@ -23410,54 +23231,6 @@
 			"path": "Administration.UserNotificationSearch"
 		},
 		{
-			"id": 2598,
-			"name": "engineering_inbox",
-			"url": "dashboard-worklist",
-			"displayName": "INBOX",
-			"orderNumber": 10,
-			"enabled": true,
-			"code": "worklist",
-			"path": "ENGINEERING_WATER.engineering_inbox",
-			"moduleName": "Engineering/Water",
-			"navigationURL": "/engineering_inbox",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2599,
-			"name": "engineering_nearing_slas",
-			"url": "dashboard-worklist",
-			"displayName": "OVERDUE",
-			"orderNumber": 20,
-			"enabled": true,
-			"code": "worklist",
-			"path": "ENGINEERING_WATER.engineering_nearing_slas",
-			"moduleName": "Engineering/Water",
-			"navigationURL": "/engineering_nearing_slas",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2600,
-			"name": "engineering_search_applications",
-			"url": "dashboard-worklist",
-			"displayName": "SEARCH_APPLICATIONS",
-			"orderNumber": 30,
-			"enabled": true,
-			"code": "worklist_option",
-			"path": "ENGINEERING_WATER.engineering_search_applications",
-			"moduleName": "Engineering/Water",
-			"navigationURL": "/goa-idc/usermanagement/searchapplication",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
 			"id": 2601,
 			"name": "EmployeeProfileUpdateSearch",
 			"url": "/egov-hrms/employees/profile-update/_search",
@@ -23555,49 +23328,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.IdcLegalDeedWorkflowInitiate"
-		},
-		{
-			"id": 2613,
-			"url": "dashboard-worklist",
-			"displayName": "INBOX",
-			"orderNumber": 10,
-			"enabled": true,
-			"code": "worklist",
-			"path": "LEGAL.noc_inbox",
-			"moduleName": "Legal",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2614,
-			"url": "dashboard-worklist",
-			"displayName": "OVERDUE",
-			"orderNumber": 20,
-			"enabled": true,
-			"code": "worklist",
-			"path": "LEGAL.noc_nearing_slas",
-			"moduleName": "Legal",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2615,
-			"url": "dashboard-worklist",
-			"displayName": "SEARCH_APPLICATIONS",
-			"orderNumber": 30,
-			"enabled": true,
-			"code": "worklist_option",
-			"path": "LEGAL.noc_search_applications",
-			"moduleName": "Legal",
-			"navigationURL": "/goa-idc/usermanagement/searchapplication",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
 		},
 		{
 			"id": 2616,
@@ -23720,54 +23450,6 @@
 			"serviceCode": "filestore url",
 			"code": "null",
 			"path": ""
-		},
-		{
-			"id": 2628,
-			"name": "estate_inbox",
-			"url": "dashboard-worklist",
-			"displayName": "INBOX",
-			"orderNumber": 10,
-			"enabled": true,
-			"code": "worklist",
-			"path": "ESTD.estate_inbox",
-			"moduleName": "Estate",
-			"navigationURL": "/estate_inbox",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2629,
-			"name": "estate_nearing_slas",
-			"url": "dashboard-worklist",
-			"displayName": "OVERDUE",
-			"orderNumber": 20,
-			"enabled": true,
-			"code": "worklist",
-			"path": "ESTD.estate_nearing_slas",
-			"moduleName": "Estate",
-			"navigationURL": "/estate_nearing_slas",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
-		},
-		{
-			"id": 2630,
-			"name": "estate_search_applications",
-			"url": "dashboard-worklist",
-			"displayName": "SEARCH_APPLICATIONS",
-			"orderNumber": 30,
-			"enabled": true,
-			"code": "worklist_option",
-			"path": "ESTD.estate_search_applications",
-			"moduleName": "Estate",
-			"navigationURL": "/goa-idc/usermanagement/searchapplication",
-			"backgroundColor": "#E3F0CF",
-			"iconColor": "#516900",
-			"iconName": "fa-file",
-			"textColor": "#516900"
 		},
 		{
 			"id": 2631,
@@ -25021,6 +24703,66 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateDashboardDocDetailsSearchAPI"
+		},
+		{
+			"id": 2613,
+			"name": "legal_total_applications",
+			"url": "dashboard-cards",
+			"displayName": "TOTAL_APPLICATIONS",
+			"orderNumber": 10,
+			"enabled": true,
+			"path": "LEGAL.legal_total_applications",
+			"moduleName": "Legal",
+			"navigationURL": "/legal_total_applications",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#516900",
+			"iconName": "fa-file",
+			"textColor": "#516900"
+		},
+		{
+			"id": 2614,
+			"name": "legal_pending_applications",
+			"url": "dashboard-cards",
+			"displayName": "PENDING_APPLICATIONS",
+			"orderNumber": 20,
+			"enabled": true,
+			"path": "LEGAL.legal_pending_applications",
+			"moduleName": "Legal",
+			"navigationURL": "/legal_pending_applications",
+			"backgroundColor": "#E7EEC9",
+			"iconColor": "#818831",
+			"iconName": "fa-file",
+			"textColor": "#818831"
+		},
+		{
+			"id": 2615,
+			"name": "legal_approved_applications",
+			"url": "dashboard-cards",
+			"displayName": "APPROVED_APPLICATIONS",
+			"orderNumber": 30,
+			"enabled": true,
+			"path": "LEGAL.legal_approved_applications",
+			"moduleName": "Legal",
+			"navigationURL": "/legal_approved_applications",
+			"backgroundColor": "#E3EDE0",
+			"iconColor": "#45852E",
+			"iconName": "fa-file",
+			"textColor": "#45852E"
+		},
+		{
+			"id": 2754,
+			"name": "legal_nearing_slas_applications",
+			"url": "dashboard-cards",
+			"displayName": "OVERDUE",
+			"orderNumber": 40,
+			"enabled": true,
+			"path": "LEGAL.legal_nearing_slas_applications",
+			"moduleName": "Legal",
+			"navigationURL": "/legal_nearing_slas_applications",
+			"backgroundColor": "#E0EDE8",
+			"iconColor": "#399267",
+			"iconName": "fa-file",
+			"textColor": "#399267"
 		}
 	]
 }
