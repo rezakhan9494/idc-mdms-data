@@ -169,7 +169,7 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_PROVISIONAL_SUB_LEASE",
 			"businessServiceName": "Provisional Sub Lease",
-			"navUrl": "/goa-idc/estate/sublease-workflow?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/provisional-sublease-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/sublease?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},

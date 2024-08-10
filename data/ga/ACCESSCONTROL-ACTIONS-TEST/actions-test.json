@@ -11978,18 +11978,6 @@
 			"path": ""
 		},
 		{
-			"id": 1570,
-			"name": "PGService Transaction Search",
-			"url": "/pg-service/transaction/v1/_search",
-			"displayName": "Transaction Search",
-			"orderNumber": 0,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "pg-service",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1571,
 			"name": "PGService Transaction Create",
 			"url": "/pg-service/transaction/v1/_create",
@@ -24774,6 +24762,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BpaGenerateCert"
+		},
+		{
+			"id": 2756,
+			"name": "PGServiceTransactionSearch",
+			"url": "/pg-service/transaction/v1/_search",
+			"displayName": "PGServiceTransactionSearch",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.PGServiceTransactionSearch"
 		}
 	]
 }
