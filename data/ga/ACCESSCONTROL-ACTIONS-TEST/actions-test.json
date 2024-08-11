@@ -22699,7 +22699,7 @@
 			"path": "ADMINISTRATION.admin_total_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -22714,7 +22714,7 @@
 			"path": "ADMINISTRATION.admin_pending_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -22729,7 +22729,7 @@
 			"path": "ADMINISTRATION.admin_approved_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -22744,7 +22744,7 @@
 			"path": "ADMINISTRATION.admin_nearing_slas_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#45852E",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -22759,7 +22759,7 @@
 			"path": "OBPAS.obpas_total_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -22774,7 +22774,7 @@
 			"path": "OBPAS.obpas_pending_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -22789,7 +22789,7 @@
 			"path": "OBPAS.obpas_approved_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -22804,7 +22804,7 @@
 			"path": "OBPAS.obpas_nearing_slas_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#45852E",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -22909,7 +22909,7 @@
 			"path": "ESTD.estate_inbox",
 			"moduleName": "Estate",
 			"enabled": true,
-			"backgroundColor": "#E7EDDF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -22923,7 +22923,7 @@
 			"path": "ESTD.estate_nearing_slas",
 			"moduleName": "Estate",
 			"enabled": true,
-			"backgroundColor": "#E7EDDF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -22937,7 +22937,7 @@
 			"path": "ESTD.estate_worklist_option_inbox",
 			"moduleName": "Estate",
 			"enabled": true,
-			"backgroundColor": "#E7EDDF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -22951,7 +22951,7 @@
 			"path": "ESTD.estate_search_applications",
 			"moduleName": "Estate",
 			"enabled": true,
-			"backgroundColor": "#E7EDDF",
+			"backgroundColor": "#FFFFFF",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -22966,7 +22966,7 @@
 			"path": "OBPAS.obpas_inbox",
 			"moduleName": "OBPAS",
 			"enabled": true,
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -22980,7 +22980,7 @@
 			"path": "OBPAS.obpas_nearing_slas",
 			"moduleName": "OBPAS",
 			"enabled": true,
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -22994,7 +22994,7 @@
 			"path": "OBPAS.obpas_worklist_option_inbox",
 			"moduleName": "OBPAS",
 			"enabled": true,
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23008,7 +23008,7 @@
 			"path": "OBPAS.obpas_search_applications",
 			"moduleName": "OBPAS",
 			"enabled": true,
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -23023,7 +23023,7 @@
 			"path": "LEGAL.legal_inbox",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23037,7 +23037,7 @@
 			"path": "LEGAL.legal_nearing_slas",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23051,7 +23051,7 @@
 			"path": "LEGAL.legal_worklist_option_inbox",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23065,7 +23065,7 @@
 			"path": "LEGAL.legal_search_applications",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -23080,7 +23080,7 @@
 			"path": "ENGINEERING_WATER.engineering_inbox",
 			"moduleName": "Engineering/Water",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23094,7 +23094,7 @@
 			"path": "ENGINEERING_WATER.engineering_nearing_slas",
 			"moduleName": "Engineering/Water",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23108,7 +23108,7 @@
 			"path": "ENGINEERING_WATER.engineering_worklist_option_inbox",
 			"moduleName": "Engineering/Water",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23122,7 +23122,7 @@
 			"path": "ENGINEERING_WATER.engineering_search_applications",
 			"moduleName": "Engineering/Water",
 			"enabled": true,
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -23137,7 +23137,7 @@
 			"path": "ADMINISTRATION.admin_inbox",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23151,7 +23151,7 @@
 			"path": "ADMINISTRATION.admin_nearing_slas",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23165,7 +23165,7 @@
 			"path": "ADMINISTRATION.admin_worklist_option_inbox",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23179,7 +23179,7 @@
 			"path": "ADMINISTRATION.admin_search_applications",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -23449,7 +23449,7 @@
 			"path": "ESTD.estate_total_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -23464,7 +23464,7 @@
 			"path": "ESTD.estate_pending_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -23479,7 +23479,7 @@
 			"path": "ESTD.estate_approved_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -23494,7 +23494,7 @@
 			"path": "ESTD.estate_nearing_slas_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#45852E",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -24015,7 +24015,7 @@
 			"path": "ENGINEERING_WATER.Engineering_total_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -24030,7 +24030,7 @@
 			"path": "ENGINEERING_WATER.Engineering_pending_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -24045,7 +24045,7 @@
 			"path": "ENGINEERING_WATER.Engineering_approved_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -24060,7 +24060,7 @@
 			"path": "ENGINEERING_WATER.Engineering_nearing_slas_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#45852E",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -24702,7 +24702,7 @@
 			"path": "LEGAL.legal_total_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -24717,7 +24717,7 @@
 			"path": "LEGAL.legal_pending_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -24732,7 +24732,7 @@
 			"path": "LEGAL.legal_approved_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#80B036",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -24747,7 +24747,7 @@
 			"path": "LEGAL.legal_nearing_slas_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#45852E",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
