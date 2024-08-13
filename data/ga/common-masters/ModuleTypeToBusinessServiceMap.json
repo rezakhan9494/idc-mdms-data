@@ -199,6 +199,15 @@
 			"navUrl": "/goa-idc/estate/plot-registry-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/plot-registry-workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_LEASE_TERM_EXTENSION",
+			"businessServiceName": "Lease Term Extension",
+			"navUrl": "/goa-idc/estate/lease-term-extension/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/lease-term-extension?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }

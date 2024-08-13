@@ -274,7 +274,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 90,
 			"enabled": true,
-			"navigationURL": "/goa-idc/apply-deed?deedType=DEED_OF_EXTENSION"
+			"navigationURL": "/goa-idc/estate/lease-term-extension"
 		},
 		{
 			"id": 2528,
