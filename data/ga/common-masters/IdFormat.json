@@ -123,6 +123,10 @@
 			"idname": "idc.estate-application.plot-estate.master.applicationNumber"
 		},
 		{
+			"format": "ESTATE/COMMERCIAL-OPS/[cy:yyyy]/[SEQ_IDC_ESTD_COMM_OPS_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.commercial-ops.applicationNumber"
+		},
+		{
 			"format": "ESTATE/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},

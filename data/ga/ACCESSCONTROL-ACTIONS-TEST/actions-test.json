@@ -283,7 +283,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 100,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/change-in-ownership-name-trade"
 		},
 		{
 			"id": 2472,
@@ -24773,6 +24773,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.PGServiceTransactionSearch"
+		},
+		{
+			"id": 2757,
+			"name": "BpaConstructionLicenseRenewal",
+			"url": "/bpa-services/v2/bpa/apply/renewal/constructionLicence",
+			"displayName": "BpaConstructionLicenseRenewal",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BpaConstructionLicenseRenewal"
 		}
 	]
 }
