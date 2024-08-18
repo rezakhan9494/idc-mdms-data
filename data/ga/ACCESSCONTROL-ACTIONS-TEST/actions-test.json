@@ -256,7 +256,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 70,
 			"enabled": true,
-			"navigationURL": "/goa-idc/apply-deed?deedType=DEED_OF_SURRENDER"
+			"navigationURL": "/goa-idc/estate/surrender"
 		},
 		{
 			"id": 2518,
