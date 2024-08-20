@@ -235,6 +235,15 @@
 			"navUrl": "/goa-idc/estate/surrender-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/surrender?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_COMMERCIAL_OPS_DETAILS",
+			"businessServiceName": "Commercial Operation Details",
+			"navUrl": "/goa-idc/estate/commercial-application/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/commercial-application/apply?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }

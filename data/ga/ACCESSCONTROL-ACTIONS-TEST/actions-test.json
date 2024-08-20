@@ -337,7 +337,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/obpas/technicalClearance"
+			"navigationURL": "/goa-idc/obpas/renewal/constructionLicense"
 		},
 		{
 			"id": 2475,
@@ -24784,6 +24784,50 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BpaConstructionLicenseRenewal"
+		},
+		{
+			"id": 2758,
+			"name": "SearchUserCertificateAPI",
+			"url": "/ws-services/wc/_search-user-certificate",
+			"displayName": "SearchUserCertificateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchUserCertificateAPI"
+		},
+		{
+			"id": 2759,
+			"name": "EstateCommercialOperationDetailsSearchAPI",
+			"url": "/idc-estate-service/commercial-ops-details/_search",
+			"displayName": "EstateCommercialOperationDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateCommercialOperationDetailsSearchAPI"
+		},
+		{
+			"id": 2760,
+			"name": "EstateCommercialOperationDetailsCreateAPI",
+			"url": "/idc-estate-service/commercial-ops-details/_create",
+			"displayName": "EstateCommercialOperationDetailsCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateCommercialOperationDetailsCreateAPI"
+		},
+		{
+			"id": 2761,
+			"name": "EstateCommercialOperationDetailsUpdateAPI",
+			"url": "/idc-estate-service/commercial-ops-details/_update",
+			"displayName": "EstateCommercialOperationDetailsUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateCommercialOperationDetailsUpdateAPI"
 		}
 	]
 }
