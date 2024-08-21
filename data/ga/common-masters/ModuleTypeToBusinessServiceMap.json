@@ -16,7 +16,7 @@
 			"moduleCode": "ADMIN",
 			"businessServiceCode": "ARCH",
 			"businessServiceName": "Architect Onboarding",
-			"navUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/usermanagement/architect-creation-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
@@ -243,6 +243,33 @@
 			"businessServiceName": "Commercial Operation Details",
 			"navUrl": "/goa-idc/estate/commercial-application/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/commercial-application/apply?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_SYSYTEM_SHOW_CAUSE_NOTICE",
+			"businessServiceName": "Legal Show Cause Notice",
+			"navUrl": "/goa-idc/estate/show-cause-notice/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/show-cause-notice?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_INSPECTION_SHOW_CAUSE_NOTICE",
+			"businessServiceName": "Legal Show Cause Notice",
+			"navUrl": "/goa-idc/estate/show-cause-notice/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/show-cause-notice?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering/Water",
+			"moduleCode": "ENGINEERING_WATER",
+			"businessServiceCode": "WATER_CONNECTION",
+			"businessServiceName": "Water Connection",
+			"navUrl": "/goa-idc/e/waterconnection?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/waterconnection?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]
