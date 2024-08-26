@@ -1,0 +1,31 @@
+{
+	"tenantId": "ga",
+	"moduleName": "common-masters",
+	"QueryDivision": [
+		{
+			"code": "ADMIN",
+			"name": "Administration",
+			"active": true
+		},
+		{
+			"code": "ESTATE",
+			"name": "Estate",
+			"active": true
+		},
+		{
+			"code": "LEGAL",
+			"name": "Legal",
+			"active": true
+		},
+		{
+			"code": "ENGINEERING",
+			"name": "Engineering",
+			"active": true
+		},
+		{
+			"code": "IPDC",
+			"name": "IPDC",
+			"active": true
+		}
+	]
+}

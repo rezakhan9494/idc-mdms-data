@@ -29025,6 +29025,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "LESSEE",
+			"actionid": 2523,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "FIELD_INSPECTOR_SITE",
 			"actionid": 2701,
 			"actioncode": "",
@@ -29783,6 +29789,120 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2761,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2762,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2762,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2763,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2763,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FM_IPDC",
+			"actionid": 2555,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FM_IPDC",
+			"actionid": 2557,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FM_IPDC",
+			"actionid": 2558,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2764,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2765,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2766,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2767,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2764,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2765,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2766,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2767,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2768,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2768,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2769,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2769,
 			"actioncode": "",
 			"tenantId": "ga"
 		}

@@ -101,7 +101,8 @@
 					2476,
 					2648,
 					2475,
-					2521
+					2521,
+					2523
 				],
 				[
 					2479,
@@ -337,7 +338,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/obpas/renewal/constructionLicense"
+			"navigationURL": "/goa-idc/obpas/technicalClearance"
 		},
 		{
 			"id": 2475,
@@ -356,6 +357,15 @@
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/goa-idc/water-connection"
+		},
+		{
+			"id": 2523,
+			"url": "menu",
+			"displayName": "CONSTRUCTION_LICENCE_RENEWAL",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": "/goa-idc/obpas/renewal/constructionLicense"
 		},
 		{
 			"id": 2479,
@@ -24828,6 +24838,94 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateCommercialOperationDetailsUpdateAPI"
+		},
+		{
+			"id": 2762,
+			"name": "BPAServiceFindOcBuildupAreaAPI",
+			"url": "/bpa-services/v2/bpa/findOcBuildupArea",
+			"displayName": "BPAServiceFindOcBuildupAreaAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPAServiceFindOcBuildupAreaAPI"
+		},
+		{
+			"id": 2763,
+			"name": "BPAServiceFindOtherDocumentAPI",
+			"url": "/bpa-services/v2/bpa/findOtherDocument",
+			"displayName": "BPAServiceFindOtherDocumentAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPAServiceFindOtherDocumentAPI"
+		},
+		{
+			"id": 2764,
+			"name": "CommonMasterQueryDetailsCreateAPI",
+			"url": "/egov-common-masters/query-details/_create",
+			"displayName": "CommonMasterQueryDetailsCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterQueryDetailsCreateAPI"
+		},
+		{
+			"id": 2765,
+			"name": "CommonMasterQueryDetailsUpdateAPI",
+			"url": "/egov-common-masters/query-details/_update",
+			"displayName": "CommonMasterQueryDetailsUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterQueryDetailsUpdateAPI"
+		},
+		{
+			"id": 2766,
+			"name": "CommonMasterQueryDetailsSearchAPI",
+			"url": "/egov-common-masters/query-details/_search",
+			"displayName": "CommonMasterQueryDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterQueryDetailsSearchAPI"
+		},
+		{
+			"id": 2767,
+			"name": "CommonMasterWorkflowExecuteAPI",
+			"url": "/egov-common-masters/common-workflow/process/_initiate",
+			"displayName": "CommonMasterWorkflowExecuteAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterWorkflowExecuteAPI"
+		},
+		{
+			"id": 2768,
+			"name": "EstateDashboardOtherDocumentDetailsSearchAPI",
+			"url": "/idc-estate-service/estate-dashboard/other-doc-details/_search",
+			"displayName": "EstateDashboardOtherDocumentDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateDashboardOtherDocumentDetailsSearchAPI"
+		},
+		{
+			"id": 2769,
+			"name": "Validate New Water Application",
+			"url": "/ws-services/wc/_get-validate-application",
+			"displayName": "Validate New Water Application",
+			"orderNumber": 0,
+			"enabled": false,
+			"serviceCode": "ws-services",
+			"code": "null",
+			"path": ""
 		}
 	]
 }

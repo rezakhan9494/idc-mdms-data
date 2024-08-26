@@ -63,8 +63,12 @@
 			"idname": "hrms.emp.profile.update.registrationnumber"
 		},
 		{
-			"format": "LEGAL/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
+			"format": "LEGAL/DEED/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
 			"idname": "idc.legal.deed.applicationnumber"
+		},
+		{
+			"format": "LEGAL/FORM-DN/[cy:yyyy]/[SEQ_IDC_LEGAL_FORM_DN_APPLICATION_NUMBER]",
+			"idname": "idc.legal.default-notice.applicationnumber"
 		},
 		{
 			"format": "ESTATE/ADV/[cy:yyyy]/[SEQ_IDC_ADVERTISEMENT_NUMBER]",
@@ -179,11 +183,23 @@
 			"idname": "idc.estate-allotment.default-notice.allotmentId"
 		},
 		{
-			"format": "WATER/APPLICATION/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
+			"format": "LEGAL/DEFAULT NOTICE/[cy:yyyy]/[SEQ_IDC_LEGAL_DEFAULT_NOTICE_ORDER_NUMBER]",
+			"idname": "idc.estate-allotment.legal.default-notice.allotmentId"
+		},
+		{
+			"format": "ENGG/WATER/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
 			"idname": "idc.water-connection.applicationNumber"
 		},
 		{
 			"format": "WATER/CONNECTION/[cy:yyyy]/[SEQ_IDC_WS_CONNECTION_NUMBER]",
+			"idname": "idc.water-connection.connectionNumber"
+		},
+		{
+			"format": "QUERY/[cy:yyyy]/[SEQ_IDC_COMMON_QUERY_APPLICATION_NUMBER]",
+			"idname": "idc.common-application-query.applicationNumber"
+		},
+		{
+			"format": "WATER/BILL/[cy:yyyy]/[SEQ_IDC_WS_BILL_NUMBER]",
 			"idname": "idc.water-connection.connectionNumber"
 		}
 	]

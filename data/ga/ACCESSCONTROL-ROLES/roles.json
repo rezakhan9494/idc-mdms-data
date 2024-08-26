@@ -191,6 +191,11 @@
 			"code": "IT_MANAGER",
 			"name": "IT Manager",
 			"description": "IT Manager"
+		},
+		{
+			"code": "FM_IPDC",
+			"name": "Field Manager (IPDC)",
+			"description": "Field Manager (IPDC)"
 		}
 	]
 }

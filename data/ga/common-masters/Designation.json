@@ -73,6 +73,12 @@
 			"name": "IT Manager",
 			"description": "IT Manager (ITM)",
 			"active": true
+		},
+		{
+			"code": "FM_IPDC",
+			"name": "Field Manager (IPDC)",
+			"description": "Field Manager (IPDC)",
+			"active": true
 		}
 	]
 }

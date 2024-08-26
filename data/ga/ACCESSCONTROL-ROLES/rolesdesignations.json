@@ -133,6 +133,12 @@
 			"designationCode": "MSC",
 			"designationName": "Member Secretary",
 			"active": true
+		},
+		{
+			"rolecode": "FM_IPDC",
+			"designationCode": "FM_IPDC",
+			"designationName": "Field Manager (IPDC)",
+			"active": true
 		}
 	]
 }

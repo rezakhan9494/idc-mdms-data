@@ -1,0 +1,16 @@
+{
+	"tenantId": "ga",
+	"moduleName": "common-masters",
+	"QueryType": [
+		{
+			"code": "PLOT",
+			"name": "Plot",
+			"active": true
+		},
+		{
+			"code": "GENERAL",
+			"name": "General",
+			"active": true
+		}
+	]
+}
