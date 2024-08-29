@@ -200,7 +200,7 @@
 		},
 		{
 			"format": "WATER/BILL/[cy:yyyy]/[SEQ_IDC_WS_BILL_NUMBER]",
-			"idname": "idc.water-connection.connectionNumber"
+			"idname": "idc.water-connection.billNumber"
 		}
 	]
 }
