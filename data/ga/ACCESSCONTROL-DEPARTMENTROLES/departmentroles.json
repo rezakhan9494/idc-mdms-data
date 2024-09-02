@@ -105,6 +105,26 @@
 		{
 			"departmentcode":  "IPDC",
 			"rolecode": "FM_IPDC"
+		},
+		{
+			"departmentcode":  "ADMIN",
+			"rolecode": "DATA_ENTRY_OPERATOR"
+		},
+		{
+			"departmentcode":  "GIDC",
+			"rolecode": "DATA_ENTRY_OPERATOR"
+		},
+		{
+			"departmentcode":  "ESTD",
+			"rolecode": "DATA_ENTRY_OPERATOR"
+		},
+		{
+			"departmentcode":  "ENGS",
+			"rolecode": "DATA_ENTRY_OPERATOR"
+		},
+		{
+			"departmentcode":  "IPDC",
+			"rolecode": "DATA_ENTRY_OPERATOR"
 		}
 	]
 }

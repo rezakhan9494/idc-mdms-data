@@ -3,11 +3,11 @@
 	"moduleName": "Estate",
 	"District": [
 		{
-			"code": "585",
+			"code": "551",
 			"name": "North Goa",
 			"active": true
 		},{
-			"code": "586",
+			"code": "552",
 			"name": "South Goa",
 			"active": true
 		}

@@ -79,6 +79,12 @@
 			"name": "Field Manager (IPDC)",
 			"description": "Field Manager (IPDC)",
 			"active": true
+		},
+		{
+			"code": "DATA_ENTRY_OPERATOR",
+			"name": "Data Entry Operator",
+			"description": "Data Entry Operator",
+			"active": true
 		}
 	]
 }

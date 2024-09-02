@@ -7,7 +7,7 @@
 			"idname": "pg.txnid"
 		},
 		{
-			"format": "GIDC/INV/[fy:yy-yy]/[SEQ_PG_INVOICE]",
+			"format": "INV/[fy:yy-yy]/[SEQ_PG_INVOICE]",
 			"idname": "pg.invoice.id"
 		},
 		{

@@ -139,6 +139,12 @@
 			"designationCode": "FM_IPDC",
 			"designationName": "Field Manager (IPDC)",
 			"active": true
+		},
+		{
+			"rolecode": "DATA_ENTRY_OPERATOR",
+			"designationCode": "DATA_ENTRY_OPERATOR",
+			"designationName": "Data Entry Operator",
+			"active": true
 		}
 	]
 }

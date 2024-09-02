@@ -196,6 +196,11 @@
 			"code": "FM_IPDC",
 			"name": "Field Manager (IPDC)",
 			"description": "Field Manager (IPDC)"
+		},
+		{
+			"code": "DATA_ENTRY_OPERATOR",
+			"name": "Data Entry Operator",
+			"description": "Data Entry Operator"
 		}
 	]
 }
