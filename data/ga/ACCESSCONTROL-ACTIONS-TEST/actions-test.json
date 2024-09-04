@@ -457,6 +457,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
+			"isRoleBasedMenuPublic": true,
 			"navigationURL": "/goa-idc/compliance-dashboard"
 		},
 		{
@@ -25000,6 +25001,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
+			"isRoleBasedMenuPublic": true,
 			"navigationURL": "/goa-idc/compliance-dashboard"
 		},
 		{
@@ -25012,6 +25014,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPASearch1Api"
+		},
+		{
+			"id": 2777,
+			"name": "IdcSchedulerServiceExecuteAPI",
+			"url": "/scheduler-services/scheduler/execute",
+			"displayName": "IdcSchedulerServiceExecuteAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcSchedulerServiceExecuteAPI"
 		}
 	]
 }
