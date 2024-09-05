@@ -275,6 +275,24 @@
 		{
 			"moduleName": "Engineering",
 			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WATER_CONNECTION_UPGRADATION",
+			"businessServiceName": "Water Connection Upgradation",
+			"navUrl": "/goa-idc/e/waterconnection/upgradation?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/waterconnection/upgradation?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WATER_CONNECTION_DISCONNECTION",
+			"businessServiceName": "Water Connection Disconnection",
+			"navUrl": "/goa-idc/e/waterconnection/disconnection?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/waterconnection/disconnection?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WATER_CONNECTION_BILLING",
 			"businessServiceName": "Water Connection Billing",
 			"navUrl": "/goa-idc/e/waterconnection/payment?applicationNumber=%s&tenantId=%s",
