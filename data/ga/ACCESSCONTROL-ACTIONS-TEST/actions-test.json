@@ -618,8 +618,8 @@
 			"menuType": "SUB_MENU",
 			"enabled": true,
 			"orderNumber": "21",
-			"displayName": "CACORA",
-			"documentName": "IDC_PORTAL_Siteplan_Cacora"
+			"displayName": "KAKODA",
+			"documentName": "IDC_PORTAL_Siteplan_Kakoda"
 		},
 		{
 			"id": 2486,
@@ -815,8 +815,8 @@
 			"menuType": "SUB_MENU",
 			"enabled": true,
 			"orderNumber": "10",
-			"displayName": "ESTATE",
-			"documentName": "IDC_PORTAL_UserManuals_Estate"
+			"displayName": "ENTERPRISE",
+			"documentName": "IDC_PORTAL_UserManuals_Enterprise"
 		},
 		{
 			"id": 2509,
@@ -824,8 +824,8 @@
 			"menuType": "SUB_MENU",
 			"enabled": true,
 			"orderNumber": "20",
-			"displayName": "OBPAS",
-			"documentName": "IDC_PORTAL_UserManuals_OBPAS"
+			"displayName": "ARCHITECT",
+			"documentName": "IDC_PORTAL_UserManuals_Architect"
 		},
 		{
 			"id": 2510,
@@ -833,8 +833,8 @@
 			"menuType": "SUB_MENU",
 			"enabled": true,
 			"orderNumber": "30",
-			"displayName": "ENGINEERING",
-			"documentName": "IDC_PORTAL_UserManuals_Engineering"
+			"displayName": "EMPLOYEE",
+			"documentName": "IDC_PORTAL_UserManuals_Employee"
 		},
 		{
 			"id": 2538,
