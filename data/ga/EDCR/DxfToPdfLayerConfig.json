@@ -3,6 +3,69 @@
    "moduleName":"EDCR",
    "DxfToPdfLayerConfig":[
       {
+         "sheetName":"SERVICE_PLAN",
+         "sheetSize":"A4",
+         "sheetSizeEnlargeFactor":2,
+         "orientation":"LANDSCAPE",
+         "removeHatch":false,
+         "planPdfLayerConfigs":[
+            {
+               "layerName":"SERVICE_PLAN",
+               "layerType":null,
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            }
+         ]
+      },
+      {
+         "sheetName":"ELEVATION_PLAN_*",
+         "sheetSize":"A3",
+         "sheetSizeEnlargeFactor":2,
+         "orientation":"LANDSCAPE",
+         "removeHatch":false,
+         "planPdfLayerConfigs":[
+            {
+               "layerName":"ELEVATION_PLAN_*",
+               "layerType":null,
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            }
+         ]
+      },
+      {
+         "sheetName":"SECTION_PLAN_*",
+         "sheetSize":"A3",
+         "sheetSizeEnlargeFactor":2,
+         "orientation":"LANDSCAPE",
+         "removeHatch":false,
+         "planPdfLayerConfigs":[
+            {
+               "layerName":"SECTION_PLAN_*",
+               "layerType":null,
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            }
+         ]
+      },{
+         "sheetName":"BLK_*_FLR_*_FLOOR_PLAN",
+         "sheetSize":"A1",
+         "sheetSizeEnlargeFactor":1,
+         "orientation":"LANDSCAPE",
+         "removeHatch":false,
+         "planPdfLayerConfigs":[
+            {
+               "layerName":"BLK_*_FLR_*_FLOOR_PLAN",
+               "layerType":null,
+               "overrideColor":null,
+               "overrideThickness":null,
+               "printLayerName":false
+            }
+         ]
+      },
+      {
          "sheetName":"SITE_PLAN",
          "sheetSize":"A1",
          "sheetSizeEnlargeFactor":2,
@@ -12,13 +75,6 @@
             {
                "layerName":"SITE_PLAN",
                "layerType":null,
-               "overrideColor":null,
-               "overrideThickness":null,
-               "printLayerName":false
-            },
-            {
-               "layerName":"PLOT_BOUNDARY",
-               "layerType":"M",
                "overrideColor":null,
                "overrideThickness":null,
                "printLayerName":false
