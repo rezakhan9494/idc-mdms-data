@@ -613,15 +613,6 @@
 			"documentName": "IDC_PORTAL_Siteplan_Bicholim"
 		},
 		{
-			"id": 2495,
-			"url": "menu",
-			"menuType": "SUB_MENU",
-			"enabled": true,
-			"orderNumber": "21",
-			"displayName": "KAKODA",
-			"documentName": "IDC_PORTAL_Siteplan_Kakoda"
-		},
-		{
 			"id": 2486,
 			"url": "menu",
 			"menuType": "SUB_MENU",
@@ -665,6 +656,15 @@
 			"orderNumber": "80",
 			"displayName": "HONDA",
 			"documentName": "IDC_PORTAL_Siteplan_Honda"
+		},
+		{
+			"id": 2495,
+			"url": "menu",
+			"menuType": "SUB_MENU",
+			"enabled": true,
+			"orderNumber": "90",
+			"displayName": "KAKODA",
+			"documentName": "IDC_PORTAL_Siteplan_Kakoda"
 		},
 		{
 			"id": 2493,
@@ -799,7 +799,7 @@
 			"enabled": true,
 			"orderNumber": "240",
 			"displayName": "VERNA",
-			"documentName": "IDC_PORTAL_Siteplan_Canacona"
+			"documentName": "IDC_PORTAL_Siteplan_Verna"
 		},
 		{
 			"id": 2513,
