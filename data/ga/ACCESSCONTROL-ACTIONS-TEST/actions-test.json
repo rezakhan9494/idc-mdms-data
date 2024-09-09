@@ -385,7 +385,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/query-entry"
+			"navigationURL": "/goa-idc/query-entry?grievanceRedressal=true"
 		},
 		{
 			"id": 2481,
