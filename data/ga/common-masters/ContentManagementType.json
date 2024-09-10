@@ -1,0 +1,31 @@
+{
+	"tenantId": "ga",
+	"moduleName": "common-masters",
+	"ContentManagementType": [
+		{
+			"name": "Tender",
+			"code": "TENDER",
+			"active": true
+		},
+		{
+			"name": "Instagram",
+			"code": "INSTAGRAM",
+			"active": true
+		},
+		{
+			"name": "Linkedin",
+			"code": "LINKEDIN",
+			"active": true
+		},
+		{
+			"name": "What's New",
+			"code": "WHATS_NEW",
+			"active": true
+		},
+		{
+			"name": "Site Plan",
+			"code": "IDC_PORTAL_SITEPLAN",
+			"active": true
+		}
+	]
+}
