@@ -296,7 +296,7 @@
 			"businessServiceCode": "WATER_CONNECTION_BILLING",
 			"businessServiceName": "Water Connection Billing",
 			"navUrl": "/goa-idc/e/waterconnection/payment?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/waterconnection/payment?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "",
 			"active": true
 		},
 		{
