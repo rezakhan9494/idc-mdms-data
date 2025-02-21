@@ -1,0 +1,54 @@
+{
+	"tenantId": "ga",
+	"moduleName": "FinanceService",
+	"SubLedgerType": [
+		{
+			"code": "TELEPHONE",
+			"name": "Telephone",
+			"description": "Telephone",
+			"active": true
+		},
+		{
+			"code": "DRAWINGOFFICER",
+			"name": "DrawingOfficer",
+			"description": "DrawingOfficer",
+			"active": true
+		},
+		{
+			"code": "EMPLOYEE",
+			"name": "Employee",
+			"description": "Employee",
+			"active": true
+		},
+		{
+			"code": "CONTRACTOR",
+			"name": "Contractor",
+			"description": "Contractor",
+			"active": true
+		},
+		{
+			"code": "PURCHASEORDER",
+			"name": "PurchaseOrder",
+			"description": "PurchaseOrder",
+			"active": true
+		},
+		{
+			"code": "WORKORDER",
+			"name": "WorkOrder",
+			"description": "WorkOrder",
+			"active": true
+		},
+		{
+			"code": "OTHERPARTY",
+			"name": "OtherParty",
+			"description": "OtherParty",
+			"active": true
+		},
+		{
+			"code": "SUPPLIER",
+			"name": "Supplier",
+			"description": "Supplier",
+			"active": true
+		}
+	]
+}

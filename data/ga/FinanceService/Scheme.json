@@ -1,0 +1,30 @@
+{
+	"tenantId": "ga",
+	"moduleName": "FinanceService",
+	"Scheme": [
+		{
+			"code": "AMRUT",
+			"name": "Amrut",
+			"description": "Amrut",
+			"active": true
+		},
+		{
+			"code": "SWACHH_BHARAT_MISSION",
+			"name": "Swachh Bharat Mission",
+			"description": "Swachh Bharat Mission",
+			"active": true
+		},
+		{
+			"code": "FINANCE_COMMISSION",
+			"name": "Finance Commission",
+			"description": "Finance Commission",
+			"active": true
+		},
+		{
+			"code": "HOUSING_FOR_ALL",
+			"name": "Housing for All",
+			"description": "Housing for All",
+			"active": true
+		}
+	]
+}
