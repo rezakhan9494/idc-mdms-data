@@ -1,0 +1,66 @@
+{
+	"tenantId": "ga",
+	"moduleName": "FinanceService",
+	"BillSubType": [
+		{
+			"code": "CONTINGENT",
+			"name": "Contingent",
+			"description": "Contingent",
+			"active": true
+		},
+		{
+			"code": "SALARY",
+			"name": "Salary",
+			"description": "Salary",
+			"active": true
+		},
+		{
+			"code": "PENSION",
+			"name": "Pension",
+			"description": "Pension",
+			"active": true
+		},
+		{
+			"code": "WORKS",
+			"name": "Works",
+			"description": "Works",
+			"active": true
+		},
+		{
+			"code": "SUPPLIES",
+			"name": "Supplies",
+			"description": "Supplies",
+			"active": true
+		},
+		{
+			"code": "RECOVERY",
+			"name": "Recovery",
+			"description": "Recovery",
+			"active": true
+		},
+		{
+			"code": "DEPOSIT",
+			"name": "Deposit",
+			"description": "Deposit",
+			"active": true
+		},
+		{
+			"code": "ADVANCE",
+			"name": "Advance",
+			"description": "Advance",
+			"active": true
+		},
+		{
+			"code": "GPF",
+			"name": "GPF",
+			"description": "GPF",
+			"active": true
+		},
+		{
+			"code": "OTHERS",
+			"name": "Others",
+			"description": "Others",
+			"active": true
+		}
+	]
+}

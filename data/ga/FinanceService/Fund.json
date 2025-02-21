@@ -1,0 +1,30 @@
+{
+	"tenantId": "ga",
+	"moduleName": "FinanceService",
+	"Fund": [
+		{
+			"code": "CAPITAL_FUND",
+			"name": "Capital Fund",
+			"description": "Capital Fund",
+			"active": true
+		},
+		{
+			"code": "EARMARKED_FUNDS",
+			"name": "Earmarked Funds",
+			"description": "Earmarked Funds",
+			"active": true
+		},
+		{
+			"code": "ELEMENTARY_EDUCATION_FUND",
+			"name": "Elementary Education Fund",
+			"description": "Elementary Education Fund",
+			"active": true
+		},
+		{
+			"code": "MUNICIPAL_FUND",
+			"name": "Municipal Fund",
+			"description": "Municipal Fund",
+			"active": true
+		}
+	]
+}

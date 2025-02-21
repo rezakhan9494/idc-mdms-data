@@ -1,0 +1,62 @@
+{
+    "tenantId": "ga",
+    "moduleName": "FinanceService",
+    "SubLedgerDetails": [
+        {
+            "subLedgerType": "TELEPHONE",
+            "payTo": [
+                "Telephone"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "DRAWINGOFFICER",
+            "payTo": [
+                "DrawingOfficer"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "EMPLOYEE",
+            "payTo": [
+                "Employee"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "CONTRACTOR",
+            "payTo": [
+                "Contractor"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "PURCHASEORDER",
+            "payTo": [
+                "PurchaseOrder"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "WORKORDER",
+            "payTo": [
+                "WorkOrder"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "OTHERPARTY",
+            "payTo": [
+                "OtherParty"
+            ],
+            "active": true
+        },
+        {
+            "subLedgerType": "SUPPLIER",
+            "payTo": [
+                "Supplier"
+            ],
+            "active": true
+        }
+    ]
+}
